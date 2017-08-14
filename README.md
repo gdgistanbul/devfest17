@@ -2,6 +2,8 @@
 
 # Project Hoverboard
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gdgistanbul/devfest17.svg)](https://greenkeeper.io/)
+
 [![Join the chat at https://gitter.im/gdg-x/hoverboard](https://badges.gitter.im/gdg-x/hoverboard.svg)](https://gitter.im/gdg-x/hoverboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Project Hoverboard is the next generation conference website template after
