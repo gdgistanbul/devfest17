@@ -1,5 +1,5 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://gdg-istanbul-devfest-2017.firebaseapp.com/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -7,8 +7,8 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Istanbul",
+    "twitter": "gdgistanbul"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-experimental",
-    "domain": "hoverboard-experimental.firebaseapp.com",
-    "database": "https://hoverboard-experimental.firebaseio.com",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "name": "gdg-istanbul-devfest-2017",
+    "domain": "gdg-istanbul-devfest-2017.firebaseapp.com",
+    "database": "https://gdg-istanbul-devfest-2017.firebaseio.com",
+    "api": "AIzaSyCu5Z5tB1ytrUdH2q11-Ao1jIkZwGwTnEw",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -63,8 +63,8 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGIstanbul",
+      "url": "https://twitter.com/gdgistanbul"
     },
     {
       "name": "gplus",
@@ -73,7 +73,7 @@
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
+      "nickname": "GDGIstanbul",
       "url": "https://www.facebook.com/GDGLviv"
     },
     {
@@ -83,18 +83,18 @@
     }
   ],
   "location": {
-    "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "apiKey": "AIzaSyC_g5QoXByed_1_PIrt6XzwFeATYkcT8nI",
+    "name": "Unknown",
+    "address": "Istanbul, Turkey",
+    "link": "https://www.facebook.com/gdgistanbul",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 41.0054958,
+      "longitude": 28.8720965,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 41.0054958,
+      "longitude": 28.8720965
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
