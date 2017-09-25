@@ -14,7 +14,7 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "contactUs": "Contact us",
   "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "ticketsDetails": "Tickets grant access to all conference sections and coffee breaks.",
   "close": "Close",
   "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
@@ -23,7 +23,7 @@
   "clickToViewPhotos": "Click here to view more photos",
   "partners": "Partners",
   "becomePartner": "Become a partner",
-  "featuredVideosTitle": "Featured #DFUA '15 Sessions",
+  "featuredVideosTitle": "Featured #DFIST '16 Sessions",
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
@@ -32,7 +32,7 @@
   "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
   "locationAddress": "Shchyretska St, 36",
   "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+  "aboutOrganizers": "<a href='http://gdgistanbul.com' target='_blank'>GDG Istanbul</a> ",
   "openTeamPage": "Open team page",
   "whatIsGdg": "What is GDG?",
   "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
@@ -63,11 +63,6 @@
       "title": "For visitors",
       "links": [
         {
-          "text": "Team",
-          "url": "/team/",
-          "newTab": false
-        },
-        {
           "text": "Code of Conduct",
           "url": "/cod/",
           "newTab": false
@@ -78,18 +73,23 @@
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "text": "GDG DevFest Istanbul 2013",
+          "url": "http://2013.devfest.istanbul/",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
+          "text": "GDG DevFest Istanbul 2014",
+          "url": "http://2014.devfest.istanbul/",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "GDG DevFest Istanbul 2015",
+          "url": "http://2015.devfest.istanbul/",
+          "newTab": true
+        },
+        {
+          "text": "GDG DevFest Istanbul 2016",
+          "url": "http://devfest.istanbul/",
           "newTab": true
         }
       ]
@@ -113,8 +113,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "devfest@gdgistanbul.com",
+        "url": "mailto:devfest@gdgistanbul.com"
       }
     ]
   },
