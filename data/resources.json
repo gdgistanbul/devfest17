@@ -21,16 +21,16 @@
   "socialMotto": "Add to circles, like, follow or connect with us on",
   "beforeHashtag": "What's up",
   "clickToViewPhotos": "Click here to view more photos",
-  "partners": "Partners",
-  "becomePartner": "Become a partner",
+  "partners": "Sponsors",
+  "becomePartner": "Become a sponsor",
   "featuredVideosTitle": "Featured #DFIST '16 Sessions",
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
+  "locationTitle": "ITU SDKM",
+  "locationDescription": "Süleyman Demirel Cultural Center is located in Maslak, on the ITU 'Ayazağa Campus'.",
+  "locationAddress": "Reşitpaşa Mahallesi, İTÜ Maslak Kampüsü, Kuzey Yolu, 34467 Sarıyer/İstanbul",
   "organizerTitle": "Organizer",
   "aboutOrganizers": "<a href='http://gdgistanbul.com' target='_blank'>GDG Istanbul</a> ",
   "openTeamPage": "Open team page",
@@ -95,10 +95,10 @@
       ]
     },
     {
-      "title": "For Partners",
+      "title": "For Sponsors",
       "links": [
         {
-          "text": "Partnership Proposition",
+          "text": "Sponsorship Proposition",
           "url": "http://bit.ly/df16-sponsor",
           "newTab": true
         },
@@ -118,28 +118,8 @@
       }
     ]
   },
-  "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
-  "statistics": [
-    {
-      "counter": 600,
-      "caption": "Attendees"
-    },
-    {
-      "counter": 2,
-      "caption": "Days"
-    },
-    {
-      "counter": 30,
-      "caption": "Sessions"
-    },
-    {
-      "counter": 3,
-      "caption": "Tracks"
-    }
-  ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
+    "videoTitle": "GDG DevFest 2016",
     "videoId": "DfMnJAzOFng"
   }
 }

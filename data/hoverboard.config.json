@@ -32,7 +32,7 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "dfist",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -54,10 +54,6 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
     }
   ],
   "social": [
@@ -68,18 +64,18 @@
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "GDG Istanbul",
+      "url": "https://plus.google.com/u/0/communities/107544706084961092272"
     },
     {
       "name": "facebook",
       "nickname": "GDGIstanbul",
-      "url": "https://www.facebook.com/GDGLviv"
+      "url": "https://www.facebook.com/GDGIstanbul"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDG İstanbul",
+      "url": "https://www.linkedin.com/company/2943205/"
     }
   ],
   "location": {
