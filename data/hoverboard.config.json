@@ -45,7 +45,7 @@
     },
     {
       "route": "blog",
-      "permalink": "/blog/"
+      "permalink": "http://gdgistanbul.com/"
     },
     {
       "route": "schedule",
