@@ -46,14 +46,6 @@
     {
       "route": "blog",
       "permalink": "http://gdgistanbul.com/"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/"
     }
   ],
   "social": [
@@ -84,13 +76,13 @@
     "address": "Istanbul, Turkey",
     "link": "https://www.facebook.com/gdgistanbul",
     "pointer": {
-      "latitude": 41.0054958,
-      "longitude": 28.8720965,
+      "latitude": 41.025817,
+      "longitude": 28.9566603,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 41.0054958,
-      "longitude": 28.8720965
+      "latitude": 41.025817,
+      "longitude": 28.9566603
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
