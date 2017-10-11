@@ -1459,34 +1459,35 @@
       "price" : 20,
       "soldOut" : false,
       "starts" : "Oct 10"
-    }],
+    } ],
     "url" : "http://2event.com/events/630032"
   },
-  "videos" : [ {
-    "speakers" : "Jakub Škvára",
-    "thumbnail" : "/images/sessions/116.JPG",
-    "title" : "Polymer vs other libraries",
-    "youtubeId" : "-UEURYYVCmg"
-  }, {
-    "speakers" : "Mandy Waite",
-    "thumbnail" : "/images/sessions/109.JPG",
-    "title" : "Scalable Microservices with gRPC, Kubernetes, and Containers",
-    "youtubeId" : "BZ-uR8LQRkA"
-  }, {
-    "speakers" : "Mandy Waite",
-    "thumbnail" : "/images/sessions/110.JPG",
-    "title" : "Google Cloud Platform End to End: How we built 'Cloud Spin'",
-    "youtubeId" : "n-H6jYnL32U"
-  }, {
-    "speakers" : "Mateusz Herych",
+  "videos" : [ 
+  {
+    "speakers" : "Mustafa Kurtuldu",
     "thumbnail" : "/images/sessions/102.JPG",
-    "title" : "How can Android Backup break your app",
-    "youtubeId" : "89wvLLc25AY"
+    "title" : "Using Google Design Sprints",
+    "youtubeId" : "kRqnxLquL1o"
   }, {
-    "speakers" : "Alex Pazhyn",
-    "thumbnail" : "/images/sessions/113.JPG",
-    "title" : "Material Design. Custom Branding",
-    "youtubeId" : "3u8864j4g24"
+    "speakers" : "Mustafa Kurtuldu",
+    "thumbnail" : "/images/sessions/102.JPG",
+    "title" : "Using Google Design Sprints",
+    "youtubeId" : "kRqnxLquL1o"
+  },{
+    "speakers" : "Mustafa Kurtuldu",
+    "thumbnail" : "/images/sessions/102.JPG",
+    "title" : "Using Google Design Sprints",
+    "youtubeId" : "kRqnxLquL1o"
+  }, {
+    "speakers" : "Mustafa Kurtuldu",
+    "thumbnail" : "/images/sessions/102.JPG",
+    "title" : "Using Google Design Sprints",
+    "youtubeId" : "kRqnxLquL1o"
+  }, {
+    "speakers" : "Mustafa Kurtuldu",
+    "thumbnail" : "/images/sessions/102.JPG",
+    "title" : "Using Google Design Sprints",
+    "youtubeId" : "kRqnxLquL1o"
   }, {
     "speakers" : "Viktor Zozuliak",
     "thumbnail" : "/images/sessions/122.JPG",

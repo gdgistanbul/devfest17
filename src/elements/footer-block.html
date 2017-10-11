@@ -209,12 +209,8 @@
           </div>
           <div class="subscribe">
             <div class="link-block-title">{$ subscribe $}</div>
-            <span>{$ subscribeNote $}</span>
-            <mailchimp-subscribe
-              app="[[app]]"
-              url="{$ mailchimp.url $}"
-              name="{$ mailchimp.name $}"
-            ></mailchimp-subscribe>
+            <span>{$ subscribeNote $}</span> <br />
+            <paper-button class="subscribe-button" onclick="addNewFeature(this)" role="button" tabindex="0" animated="" aria-disabled="false" elevation="0">Subscribe</paper-button>
           </div>
         </nav>
       </div>
@@ -262,6 +258,13 @@
   </template>
 
   <script>
+    function addNewFeature(el) {
+      // Wait for ripple to finish.
+      el.addEventListener('transitionend', function(e) {
+        location.href = 'http://optin.sndlp.com/Dwi/578/61c79481';
+      });
+    }
+
     (function () {
       'use strict';
 
