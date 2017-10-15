@@ -17,7 +17,15 @@
       "name" : "GDG[x]",
       "url" : "https://github.com/gdg-x"
     } ],
-    "title" : "General Partner"
+    "title" : "General Partners"
+  },
+  {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/kadirhasuni.png",
+      "name" : "Kadir Has Üniversitesi",
+      "url" : "http://www.khas.edu.tr/en/"
+    }],
+    "title" : "Venue Sponsor"
   } ],
   "schedule" : [ {
     "date" : "2016-09-09",
