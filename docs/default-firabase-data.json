@@ -17,7 +17,15 @@
       "name" : "GDG[x]",
       "url" : "https://github.com/gdg-x"
     } ],
-    "title" : "General Partner"
+    "title" : "General Partners"
+  },
+  {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/kadirhasuni.png",
+      "name" : "Kadir Has Üniversitesi",
+      "url" : "http://www.khas.edu.tr/en/"
+    }],
+    "title" : "Venue Sponsor"
   } ],
   "schedule" : [ {
     "date" : "2016-09-09",
@@ -1435,12 +1443,12 @@
   },
   "videos" : [ {
     "speakers" : "Mustafa Kurtuldu",
-    "thumbnail" : "images/sessions/101.JPG",
+    "thumbnail" : "../images/sessions/101.JPG",
     "title" : "Using Google Design Sprints",
     "youtubeId" : "kRqnxLquL1o"
   }, {
     "speakers" : "Lemi Orhan Ergin",
-    "thumbnail" : "/images/sessions/102.JPG",
+    "thumbnail" : "../images/sessions/102.JPG",
     "title" : "Test Driven Design",
     "youtubeId" : "ayqLzN78PsU"
   } ]
