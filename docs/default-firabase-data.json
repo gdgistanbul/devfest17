@@ -18,14 +18,20 @@
       "url" : "https://github.com/gdg-x"
     } ],
     "title" : "General Partners"
-  },
-  {
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/kadirhasuni.png",
       "name" : "Kadir Has Üniversitesi",
       "url" : "http://www.khas.edu.tr/en/"
-    }],
+    } ],
     "title" : "Venue Sponsor"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "http://2017.wtmistanbul.com/img/organizers/wtm_logo.png",
+      "name" : "WTM Istanbul",
+      "url" : "http://wtmistanbul.com"
+    } ],
+    "title" : "Community Partners"
   } ],
   "schedule" : [ {
     "date" : "2016-09-09",
@@ -149,7 +155,7 @@
       "id" : 101,
       "language" : "English",
       "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers" : [ 1 ],
+      "speakers" : [ 2 ],
       "tags" : [ "Cloud" ],
       "title" : "Windows and .NET on Google Cloud Platform "
     },
@@ -158,7 +164,7 @@
       "description" : "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
       "id" : 102,
       "language" : "English",
-      "speakers" : [ 1 ],
+      "speakers" : [ 2 ],
       "tags" : [ "Cloud" ],
       "title" : "Hands-on gRPC experience building your own multiplayer game client"
     },
@@ -508,30 +514,23 @@
     }
   },
   "speakers" : [ null, {
-    "bio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+    "bio" : "As an engineer who is in love with the coolest new technology, I thrive by connecting to other developers who share similar passions. My team is behind all the rich, technical content on developers.google.com.  I act as an advocate for third party developers’ needs within Google and passionate evangelists for Google technologies in the outside world. I love connecting with other developers and partners; people who enjoy teaching, speaking or writing about cutting-edge technologies. By working closely with third party developers who are building applications and businesses that showcase Google’s developer platforms, I grow and support the developer community, teaching and supporting developers around MENA region.",
     "company" : "Google",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "London, United Kingdom",
-    "featured" : false,
+    "companyLogo" : "/images/logos/google.svg",
+    "country" : "Turkey",
+    "featured" : true,
     "id" : 1,
-    "name" : "Mete Atamel",
-    "photoUrl" : "/images/people/mete_atamel.jpg",
-    "shortBio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
+    "name" : "Barış Yesugey",
+    "photoUrl" : "/images/people/baris_yesugey.jpg",
+    "shortBio" : "As an engineer who is in love with the coolest new technology, I thrive by connecting to other developers who...",
     "socials" : [ {
       "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/meteatamel/",
+      "link" : "https://www.linkedin.com/in/barisyesugey/",
       "name" : "LinkedIn"
-    }, {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/meteatamel/",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/meteatamel/",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "Cloud", "Compute Engine", "gRPC" ],
-    "title" : "Developer Advocate"
+    }
+  ],
+    "tags" : [ "Googler" ],
+    "title" : "Googler"
   }, {
     "badges" : [ {
       "description" : "Android Google Developer Expert",
@@ -1431,8 +1430,7 @@
       "price" : 20,
       "soldOut" : false,
       "starts" : "Oct 10"
-    },
-    {
+    }, {
       "currency" : "TL",
       "ends" : "Nov 25",
       "price" : 25,
@@ -1441,8 +1439,7 @@
     } ],
     "url" : "https://www.biletino.com/event/eventdetail/4196"
   },
-  "videos" : [
-  {
+  "videos" : [ {
     "speakers" : "Mustafa Kurtuldu",
     "thumbnail" : "/images/sessions/mustafa.JPG",
     "title" : "Using Google Design Sprints",
@@ -1452,7 +1449,7 @@
     "thumbnail" : "/images/sessions/salim.jpg",
     "title" : "PWA: An Unexpected Journey",
     "youtubeId" : "0B3KKgdwK9M"
-  },{
+  }, {
     "speakers" : "İbrahim Kıvanç",
     "thumbnail" : "/images/sessions/ibrahim_kivanc.jpg",
     "title" : "Mobile DevOps",
