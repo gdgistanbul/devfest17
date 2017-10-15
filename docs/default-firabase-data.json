@@ -1420,6 +1420,13 @@
     "elements" : [ {
       "currency" : "TL",
       "ends" : "Nov 25",
+      "price" : 20,
+      "soldOut" : false,
+      "starts" : "Oct 10"
+    },
+    {
+      "currency" : "TL",
+      "ends" : "Nov 25",
       "price" : 25,
       "soldOut" : false,
       "starts" : "Oct 10"
