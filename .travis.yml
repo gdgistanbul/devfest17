@@ -20,16 +20,8 @@ before_deploy: npm run build
 notifications:
   slack: gdgistanbul:MkGDF2g8vysFpns70TXa74AK
 deploy:
-# Beta
-#- provider: firebase
-#  skip_cleanup: true
-#  on:
-#    branch: beta
-#  project: Beta-devfest17
-#  token:
-#    secure: H9Lqa5firEdSpp8k144J7XNDAcAdrOFNvIwn3RPaxtzS6IFnu72rVr66DAbMTYeqe3+od8c9ieAkxV4PTLa/Y4uxK5lSMLQcukWJumLgSjsAAvGzI7Al+xE6wGAb9DNvDJ4vH6D9j3ItC4gl4o6Bb0kjNtL+876IyFfbnuP7tj+IirKCcbwr7NhiZ4gfvfA2eiXnt+yR1ljBkEX75a3GgUvQD22+Y3YnHu8b7ItKFDAWPSWJ04PphoVPl6KvjYXssEKK3OGoZ0vXgBHtVbDJDYjbrcpXJfTIM1bxcr57s7YaxT8mXUQBWl4fOSXQb4Vb29f4jdKMj4lxSE6hYBaHhSH4uSTOsIlNR38MKX4na6jsgDYs2vhzog11CK2J+oSoPyV6p4nzPLSae/iibKJdhyE8FfnTOt9MiYdK70e7J1WWfnN2RZrxNPNmw/eFqZXqw7n3X+e9a01Ba9kNoO/6hFzaLqPXkRoeFo6oLsn628drn5BJW9nacTTEoOpKtLPBGY1eet6Qb1L75yYTUYwTBiv1suXI+jU9Ez1NuFuPoMYMhgqP+6Ht6/U1hw9LSIq/z9gQyE4Du1bYxRCjDLe9hb8ooaLlAp0ByZkGfXzikiKO0Pk3OUG1q+YqBoKvU8zLD1R1BH4r5d7CNbUej8kF7CPWVxWIjG/yVL4MxoKfnHI=
 - provider: firebase
-  skip_cleanup: true
+  skip_cleanup: false
   on:
     branch: master
   project: gdg-istanbul-devfest-2017
