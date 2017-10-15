@@ -30,6 +30,22 @@
       "logoUrl" : "http://2017.wtmistanbul.com/img/organizers/wtm_logo.png",
       "name" : "WTM Istanbul",
       "url" : "http://wtmistanbul.com"
+    },
+    {
+      "logoUrl" : "http://2017.wtmistanbul.com/img/organizers/wtm_logo.png",
+      "name" : "GDG Eskişehir",
+      "url" : "../images/logos/gdgeskisehir.png"
+    } ,
+    ,
+    {
+      "logoUrl" : "../images/logos/gdgtekirdag.jpg",
+      "name" : "GDG Tekirdağ",
+      "url" : "https://twitter.com/GdgTekirdag"
+    } ,
+    {
+      "logoUrl" : "../images/logos/GDG-Edirne-Logo.png",
+      "name" : "GDG Edirne",
+      "url" : "https://twitter.com/GDGEdirne"
     } ],
     "title" : "Community Partners"
   } ],
