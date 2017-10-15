@@ -1456,91 +1456,91 @@
     "elements" : [ {
       "currency" : "TL",
       "ends" : "Nov 25",
-      "price" : 20,
+      "price" : 25,
       "soldOut" : false,
       "starts" : "Oct 10"
     } ],
     "url" : "http://2event.com/events/630032"
   },
-  "videos" : [ 
+  "videos" : [
   {
     "speakers" : "Mustafa Kurtuldu",
-    "thumbnail" : "/images/sessions/mustafa_kurtuldu.JPG",
+    "thumbnail" : "/images/sessions/mustafa_kurtuldu.jpg",
     "title" : "Using Google Design Sprints",
     "youtubeId" : "kRqnxLquL1o"
   }, {
     "speakers" : "Salim Kayabaşı",
-    "thumbnail" : "/images/sessions/salim.JPG",
+    "thumbnail" : "/images/sessions/salim.jpg",
     "title" : "PWA: An Unexpected Journey",
     "youtubeId" : "0B3KKgdwK9M"
   },{
     "speakers" : "İbrahim Kıvanç",
-    "thumbnail" : "/images/sessions/ibrahim_kivanc.JPG",
+    "thumbnail" : "/images/sessions/ibrahim_kivanc.jpg",
     "title" : "Mobile DevOps",
     "youtubeId" : "AXoyhDaIlK8"
   }, {
     "speakers" : "Lemi Orhan Ergin",
-    "thumbnail" : "/images/sessions/lemi_orhan_ergin.JPG",
+    "thumbnail" : "/images/sessions/102.jpg",
     "title" : "Test Driven Design",
     "youtubeId" : "ayqLzN78PsU"
   }, {
     "speakers" : "Barış YESUGEY",
-    "thumbnail" : "/images/sessions/baris_yasuget.JPG",
+    "thumbnail" : "/images/sessions/143.jpg",
     "title" : "Keynote & Progressive Web Apps",
     "youtubeId" : "cyanslIY40Q"
   }, {
     "speakers" : "Hüseyin Babal",
-    "thumbnail" : "/images/sessions/huseyin_babal.JPG",
+    "thumbnail" : "/images/sessions/huseyin_babal.jpg",
     "title" : "Zero Down Time Microservices",
     "youtubeId" : "GjTV2kjsp8s"
   }, {
     "speakers" : "Elif Boncuk",
-    "thumbnail" : "/images/sessions/elif_boncuk.JPG",
+    "thumbnail" : "/images/sessions/elif_boncuk.jpg",
     "title" : "Android Layouts and A New One: ConstraintLayout",
     "youtubeId" : "4Z3zndWnICo"
   }, {
     "speakers" : "Esin Işık",
-    "thumbnail" : "/images/sessions/esin_isik.JPG",
+    "thumbnail" : "/images/sessions/esin_isik.jpg",
     "title" : "Designing Human Centred Services Together",
     "youtubeId" : "VBXXqYn7Qng"
   }, {
     "speakers" : "Eliza Camberogiannis",
-    "thumbnail" : "/images/sessions/eliza_camber.JPG",
+    "thumbnail" : "/images/sessions/eliza_camber.jpg",
     "title" : "Impress your user's inner child!",
     "youtubeId" : "6w7SVQhS5ZM"
   }, {
     "speakers" : "Çağatay Çivici",
-    "thumbnail" : "/images/sessions/cagatay_civici.JPG",
+    "thumbnail" : "/images/sessions/cagatay_civici.jpg",
     "title" : "Angular 2 is here, let's get started",
     "youtubeId" : "j5wqdRJ12zc"
   }, {
     "speakers" : "R. Caner Yıldırım",
-    "thumbnail" : "/images/sessions/caner.JPG",
+    "thumbnail" : "/images/sessions/caner.jpg",
     "title" : "How to Design For Android Wear 2.0",
     "youtubeId" : "mcLCB_-6RcA"
   }, {
     "speakers" : "AMahdy Abdelaziz",
-    "thumbnail" : "/images/sessions/amahdy_abdelaziz.JPG",
+    "thumbnail" : "/images/sessions/amahdy_abdelaziz.jpg",
     "title" : "Offline first apps with WebComponents",
     "youtubeId" : "fo0QB9NAUdY"
   }, {
     "speakers" : "George Kortsaridis",
-    "thumbnail" : "/images/sessions/george.JPG",
+    "thumbnail" : "/images/sessions/george.jpg",
     "title" : "Hey Java! Virtual Reality is around the corner!",
     "youtubeId" : "aDSymRj_dN0"
   }, {
     "speakers" : "Oleh Zasadnyy",
-    "thumbnail" : "/images/sessions/oleh.JPG",
+    "thumbnail" : "/images/sessions/oleh.jpg",
     "title" : "Make your Polymer web-app Progressive",
     "youtubeId" : "zlkDQJ9KeOU"
   }, {
     "speakers" : "Martin Splitt",
-    "thumbnail" : "/images/sessions/martin.JPG",
+    "thumbnail" : "/images/sessions/martin.jpg",
     "title" : "Building interactive 3D worlds in the browser",
     "youtubeId" : "fqC-9aV6AKY"
   }, {
     "speakers" : "Görkem Çetin",
-    "thumbnail" : "/images/sessions/gorkem_cetin.JPG",
+    "thumbnail" : "/images/sessions/gorkem_cetin.jpg",
     "title" : "Girişiminiz için açık kaynak kodlu yaz. model ve stratejileri",
     "youtubeId" : "c4Q3b9iEmlg"
   } ]
