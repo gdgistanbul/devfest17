@@ -3,8 +3,8 @@
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-108116780-1",
+    "dev": "UA-108116780-1"
   },
   "organizer": {
     "name": "GDG Istanbul",
@@ -35,7 +35,7 @@
   "hashtag": "dfist",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://gdg.ist/",
+  "partnershipProposition": "http://gdg.ist/devfest17-sponsor",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLSV3VvYZSJP1R3lyN_JxyF8-RQmoJ3Nf3",
   "enableSessionsRating": true,
   "navigation": [
@@ -104,11 +104,11 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#2196F3",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
+        "video1": {
           "title": "GDG DevFest Ukraine 2016",
           "youtubeId": "TdpbgRgz6eE",
           "text": "See how it was in 2016"
