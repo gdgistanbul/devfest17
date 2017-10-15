@@ -16,7 +16,7 @@
       "logoUrl" : "../images/logos/gdg-x.svg",
       "name" : "GDG[x]",
       "url" : "https://github.com/gdg-x"
-    }],
+    } ],
     "title" : "General Partner"
   } ],
   "schedule" : [ {
@@ -1230,7 +1230,7 @@
       "link" : "https://developers.google.com/groups/chapter/116033068768596939209/",
       "name" : "GDG"
     } ],
-    "bio" : "Selin is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting in software development for cutting edge technologies and devices like Google Glass and Android Wear.",
+    "bio" : "Roman is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting in software development for cutting edge technologies and devices like Google Glass and Android Wear.",
     "company" : "Yamert",
     "companyLogo" : "/images/logos/gdg-lviv.svg",
     "country" : "Dnipro, Ukraine",
@@ -1238,7 +1238,7 @@
     "id" : 27,
     "name" : "Roman Herasymenko",
     "photoUrl" : "/images/people/roman_herasymenko.jpg",
-    "shortBio" : "Selin is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting...",
+    "shortBio" : "Roman is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting...",
     "socials" : [ {
       "icon" : "gplus",
       "link" : "https://plus.google.com/+RomanGerasimenko/",
@@ -1420,17 +1420,21 @@
     "elements" : [ {
       "currency" : "TL",
       "ends" : "Nov 25",
-      "price" : 20,
+      "price" : 25,
       "soldOut" : false,
       "starts" : "Oct 10"
     } ],
     "url" : "http://2event.com/events/630032"
   },
-  "videos" : [
-  {
+  "videos" : [ {
     "speakers" : "Mustafa Kurtuldu",
-    "thumbnail" : "/images/sessions/101.JPG",
+    "thumbnail" : "images/sessions/101.JPG",
     "title" : "Using Google Design Sprints",
     "youtubeId" : "kRqnxLquL1o"
-  }]
+  }, {
+    "speakers" : "Lemi Orhan Ergin",
+    "thumbnail" : "/images/sessions/132.JPG",
+    "title" : "Test Driven Design",
+    "youtubeId" : "ayqLzN78PsU"
+  } ]
 }
