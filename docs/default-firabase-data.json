@@ -32,9 +32,9 @@
       "url" : "http://wtmistanbul.com"
     },
     {
-      "logoUrl" : "http://2017.wtmistanbul.com/img/organizers/wtm_logo.png",
+      "logoUrl" : "../images/logos/gdgeskisehir.png",
       "name" : "GDG Eskişehir",
-      "url" : "../images/logos/gdgeskisehir.png"
+      "url" : "https://twitter.com/GdgEskisehir"
     },
     {
       "logoUrl" : "../images/logos/gdgtekirdag.jpg",
