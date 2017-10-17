@@ -34,7 +34,7 @@
   },
   "hashtag": "dfist",
   "disqusShortName": "hoverboard-gdg-x",
-  "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "https://dfisttweet.herokuapp.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000",
   "partnershipProposition": "http://gdg.ist/devfest17-sponsor",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLSV3VvYZSJP1R3lyN_JxyF8-RQmoJ3Nf3",
   "enableSessionsRating": true,
@@ -105,7 +105,7 @@
       "title": "Home",
       "headerSettings": {
         "backgroundColor": "#2196F3",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundImage": "/images/backgrounds/homeist.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video1": {
