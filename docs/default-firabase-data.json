@@ -732,7 +732,7 @@
       "currency" : "TL",
       "ends" : "Nov 25",
       "price" : 20,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : "Oct 10"
     }, {
       "currency" : "TL",
