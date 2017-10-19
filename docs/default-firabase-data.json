@@ -26,35 +26,43 @@
     } ],
     "title" : "Venue Sponsor"
   }, {
-    "logos": [
-      {
-        "logoUrl": "http://2017.wtmistanbul.com/img/organizers/wtm_logo.png",
-        "name": "WTM Istanbul",
-        "url": "http://wtmistanbul.com"
-      },
-      {
-        "logoUrl": "../images/logos/gdgeskisehir.png",
-        "name": "GDG Eskişehir",
-        "url": "https://twitter.com/GdgEskisehir"
-      },
-      {
-        "logoUrl": "../images/logos/gdgtekirdag.jpg",
-        "name": "GDG Tekirdağ",
-        "url": "https://twitter.com/GdgTekirdag"
-      },
-      {
-        "logoUrl": "../images/logos/GDG-Edirne-Logo.png",
-        "name": "GDG Edirne",
-        "url": "https://twitter.com/GDGEdirne"
-      },
-      {
-        "logoUrl": "../images/logos/kodluyoruz.png",
-        "name": "Kodluyoruz",
-        "url": "http://www.kodluyoruz.org/"
-      }
-
-    ],
+    "logos" : [ {
+      "logoUrl" : "http://2017.wtmistanbul.com/img/organizers/wtm_logo.png",
+      "name" : "WTM Istanbul",
+      "url" : "http://wtmistanbul.com"
+    }, {
+      "logoUrl" : "../images/logos/gdgeskisehir.png",
+      "name" : "GDG Eskişehir",
+      "url" : "https://twitter.com/GdgEskisehir"
+    }, {
+      "logoUrl" : "../images/logos/gdgtekirdag.jpg",
+      "name" : "GDG Tekirdağ",
+      "url" : "https://twitter.com/GdgTekirdag"
+    }, {
+      "logoUrl" : "../images/logos/GDG-Edirne-Logo.png",
+      "name" : "GDG Edirne",
+      "url" : "https://twitter.com/GDGEdirne"
+    }, {
+      "logoUrl" : "/images/logos/kodluyoruz.png",
+      "name" : "Kodluyoruz",
+      "url" : "http://www.kodluyoruz.org/"
+    } ],
     "title" : "Community Partners"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "/images/logos/careemlogo.png",
+      "name" : "Careem",
+      "url" : "https://www.careem.com/"
+    } ],
+    "title" : "Transportation Sponsor"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "images/logos/robotistan.png",
+      "name" : "Robotistan",
+      "url" : "https://www.robotistan.com/",
+      "width" : 170
+    } ],
+    "title" : "Swag/gift sponsor "
   } ],
   "schedule" : [ {
     "date" : "2016-09-09",
@@ -550,8 +558,7 @@
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/barisyesugey/",
       "name" : "LinkedIn"
-    }
-  ],
+    } ],
     "tags" : [ "Googler" ],
     "title" : "Googler"
   } ],
