@@ -46,7 +46,15 @@
       "logoUrl" : "/images/logos/kodluyoruz.png",
       "name" : "Kodluyoruz",
       "url" : "http://www.kodluyoruz.org/"
-    } ],
+    },{
+      "logoUrl" : "/images/logos/bmo.jpg",
+      "name" : "BMO",
+      "url" : "http://www.bmo.org.tr/"
+    },{
+      "logoUrl" : "/images/logos/microsoft.png",
+      "name" : "Microsoft",
+      "url" : "https://www.microsoft.com"
+} ],
     "title" : "Community Partners"
   }, {
     "logos" : [ {
