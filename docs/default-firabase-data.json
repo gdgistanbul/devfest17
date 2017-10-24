@@ -1,15 +1,7 @@
 {
-  "partners" : [ {
+  "partners" : [  {
     "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164",
-      "width" : 170
-    } ],
-    "title" : "Template Creator"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
+      "logoUrl" : "/images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
     }, {
@@ -18,7 +10,17 @@
       "url" : "https://github.com/gdg-x"
     } ],
     "title" : "General Partners"
-  }, {
+  },{
+    "logos": [
+        {
+          "logoUrl" : "/images/logos/microsoft.png",
+          "name" : "Microsoft",
+          "url" : "https://www.microsoft.com"
+        }
+    ],
+    "title": "Gold Sponsor"
+  },
+  {
     "logos" : [ {
       "logoUrl" : "../images/logos/kadirhasuni.png",
       "name" : "Kadir Has Üniversitesi",
@@ -46,7 +48,11 @@
       "logoUrl" : "/images/logos/kodluyoruz.png",
       "name" : "Kodluyoruz",
       "url" : "http://www.kodluyoruz.org/"
-    } ],
+    }, {
+      "logoUrl" : "/images/logos/bmo.jpg",
+      "name" : "BMO",
+      "url" : "http://www.bmo.org.tr/"
+    }],
     "title" : "Community Partners"
   }, {
     "logos" : [ {
@@ -63,7 +69,15 @@
       "width" : 170
     } ],
     "title" : "Gift Sponsors"
-  } ],
+  },{
+    "logos" : [ {
+      "logoUrl" : "../images/logos/gdg-lviv.svg",
+      "name" : "GDG Lviv",
+      "url" : "https://plus.google.com/102444623953913144164",
+      "width" : 170
+    } ],
+    "title" : "Template Creator"
+  }],
   "schedule" : [ {
     "date" : "2016-09-09",
     "dateReadable" : "September 9",
@@ -544,7 +558,7 @@
       "title" : "TBD"
     }
   },
-  "speakers" : [ null, {
+  "speakers" : [ {
     "bio" : "As an engineer who is in love with the coolest new technology, I thrive by connecting to other developers who share similar passions. My team is behind all the rich, technical content on developers.google.com.  I act as an advocate for third party developers’ needs within Google and passionate evangelists for Google technologies in the outside world. I love connecting with other developers and partners; people who enjoy teaching, speaking or writing about cutting-edge technologies. By working closely with third party developers who are building applications and businesses that showcase Google’s developer platforms, I grow and support the developer community, teaching and supporting developers around MENA region.",
     "company" : "Google",
     "companyLogo" : "/images/logos/google.svg",
@@ -561,19 +575,18 @@
     } ],
     "tags" : [ "Googler" ],
     "title" : "Googler"
-  }, 
-  {
-  "bio" : "Mehmet N. Aydin, Associate Professor at Management Information Systems Department and the director of INEO Technology Transfer Office at Kadir Has University, Istanbul has provided organizations with proven expertise in the emerging field of cloud computing, Corporate Innovations Systems and Technology Management, Network Science. He holds PhD in Management Information Systems from University of Twente, The Netherlands. Dr. Aydin worked at the Institute for Innovation and Technology Management, Ryerson University, Toronto, Canada and at the Department of Information Systems and Change Management at University of Twente, the Netherlands. He has published over 50 articles as journal papers (e.g., Journal of Database Management, Information Frontiers, Journal of Enterprise Management), book chapters (e.g., Springer series on Lecture Notes in Computer Science) conference proceedings (IFIP 8.1, CAISE). His contribution to the research field of method engineering is laudable and cited in various studies. He can be reached at mehmet.aydin@khas.edu.tr.",
-  "company" : "Kadir Has University",
-  "companyLogo" : "",
-  "country" : "Turkey",
-  "featured" : true,
-  "id" : 2,
-  "name" : "Doç. Dr. Mehmet Aydın",
-  "photoUrl" : "/images/people/mehmet_aydin.png",
-  "shortBio" : "Mehmet N. Aydin, Associate Professor at Management Information Systems Department and the director of INEO Technology Transfer Office...",
-  "title" : "Associate Professor"
-}],
+  }, {
+    "bio" : "Mehmet N. Aydin, Associate Professor at Management Information Systems Department and the director of INEO Technology Transfer Office at Kadir Has University, Istanbul has provided organizations with proven expertise in the emerging field of cloud computing, Corporate Innovations Systems and Technology Management, Network Science. He holds PhD in Management Information Systems from University of Twente, The Netherlands. Dr. Aydin worked at the Institute for Innovation and Technology Management, Ryerson University, Toronto, Canada and at the Department of Information Systems and Change Management at University of Twente, the Netherlands. He has published over 50 articles as journal papers (e.g., Journal of Database Management, Information Frontiers, Journal of Enterprise Management), book chapters (e.g., Springer series on Lecture Notes in Computer Science) conference proceedings (IFIP 8.1, CAISE). His contribution to the research field of method engineering is laudable and cited in various studies. He can be reached at mehmet.aydin@khas.edu.tr.",
+    "company" : "Kadir Has University",
+    "companyLogo" : "",
+    "country" : "Turkey",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Doç. Dr. Mehmet Aydın",
+    "photoUrl" : "/images/people/mehmet_aydin.png",
+    "shortBio" : "Mehmet N. Aydin, Associate Professor at Management Information Systems Department and the director of INEO Technology Transfer Office...",
+    "title" : "Associate Professor"
+  } ],
   "team" : [ {
     "members" : [ {
       "name" : "Oleh Zasadnyy",
