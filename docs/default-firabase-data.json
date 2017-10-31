@@ -1,5 +1,5 @@
 {
-  "partners" : [  {
+  "partners" : [ {
     "logos" : [ {
       "logoUrl" : "/images/logos/google.svg",
       "name" : "Google",
@@ -10,17 +10,15 @@
       "url" : "https://github.com/gdg-x"
     } ],
     "title" : "General Partners"
-  },{
-    "logos": [
-        {
-          "logoUrl" : "/images/logos/microsoft.png",
-          "name" : "Microsoft",
-          "url" : "https://www.microsoft.com"
-        }
-    ],
-    "title": "Gold Sponsor"
-  },
-  {
+  }, {
+    "logos" : [ {
+      "logoUrl" : "/images/logos/microsoft.png",
+      "name" : "Microsoft",
+      "url" : "https://www.microsoft.com",
+      "width" : 200
+    } ],
+    "title" : "Gold Sponsor"
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/kadirhasuni.png",
       "name" : "Kadir Has Üniversitesi",
@@ -52,7 +50,7 @@
       "logoUrl" : "/images/logos/bmo.jpg",
       "name" : "BMO",
       "url" : "http://www.bmo.org.tr/"
-    }],
+    } ],
     "title" : "Community Partners"
   }, {
     "logos" : [ {
@@ -67,9 +65,15 @@
       "name" : "Robotistan",
       "url" : "https://www.robotistan.com/",
       "width" : 170
+    } ,
+    {
+      "logoUrl" : "images/logos/abaküs.png",
+      "name" : "Abaküs Kitap",
+      "url" : "http://www.abakuskitap.com/",
+      "width" : 170
     } ],
     "title" : "Gift Sponsors"
-  },{
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/gdg-lviv.svg",
       "name" : "GDG Lviv",
@@ -77,7 +81,7 @@
       "width" : 170
     } ],
     "title" : "Template Creator"
-  }],
+  } ],
   "schedule" : [ {
     "date" : "2016-09-09",
     "dateReadable" : "September 9",
@@ -586,6 +590,52 @@
     "photoUrl" : "/images/people/mehmet_aydin.png",
     "shortBio" : "Mehmet N. Aydin, Associate Professor at Management Information Systems Department and the director of INEO Technology Transfer Office...",
     "title" : "Associate Professor"
+  } , {
+    "bio" : "Burcu graduated from Department of Computer Engineering at Anadolu University, Eskişehir in 2012. She started Android development out of curiosity, and still haven't lost her excitement to this day. Aside from Android, she's also quite familiar with the iOS platform. She worked in fields such as hospital automation, farm management and banking. She is an organizer of WTM and GDG İstanbul. She loves giving tech talks and making other people love the Android platform. Her hobbies include organizing hackathons, participating in them and travelling to new places.",
+    "company" : "GDG İstanbul",
+    "companyLogo" : "/images/logos/gdgistanbul.png",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 3,
+    "name" : "Burcu Yalçınkaya",
+    "photoUrl" : "/images/people/burcuyalcinkaya.webp",
+    "shortBio" : "Burcu graduated from Department of Computer Engineering at Anatolian University, Eskişehir in 2012. She started Android development out of curiosity...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "www.linkedin.com/in/burcuco",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/burcuco_",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/u/0/+BurcuTurkmenNn",
+      "name" : "Google+"
+    } , {
+      "icon" : "website",
+      "link" : "http://burcu.co/",
+      "name" : "Website"
+      }],
+    "title" : "Senior Mobile Developer",
+    "tags" : [ "Android" ]
+  } , {
+    "bio" : "Murat is an Android developer, and blogger. He is dedicated to continuously discovering, evaluating, and implementing new technologies to maximize development efficiency. He's actively involved in the Android community too – writing blog posts, and giving talks.",
+    "company" : "dolap.com",
+    "companyLogo" : "/images/logos/dolap.svg",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 4,
+    "name" : "Murat Can Bur",
+    "photoUrl" : "/images/people/muratcanbur.jpg",
+    "shortBio" : "Murat is an Android developer, and blogger. He is dedicated to continuously discovering, evaluating, and implementing new technologies to maximize...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/muratcanbur",
+      "name" : "Twitter"
+    }],
+    "title" : "Android Developer",
+    "tags" : [ "Android" ]
   } ],
   "team" : [ {
     "members" : [ {
