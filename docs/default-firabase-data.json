@@ -598,7 +598,7 @@
     "featured" : false,
     "id" : 803,
     "name" : "Burcu Yalçınkaya",
-    "photoUrl" : "/images/people/burcuyalcinkaya.webp",
+    "photoUrl" : "/images/people/Burcuyalcinkaya.jpg",
     "shortBio" : "Burcu graduated from Department of Computer Engineering at Anatolian University, Eskişehir in 2012. She started Android development out of curiosity...",
     "socials" : [ {
       "icon" : "linkedin",
@@ -634,6 +634,33 @@
       "link" : "https://twitter.com/muratcanbur",
       "name" : "Twitter"
     }],
+    "title" : "Android Developer",
+    "tags" : [ "Android" ]
+  } , {
+    "bio" : "Eliza is an Android developer at Pixplicity in the Netherlands, and the Lead for the WomenTechmakers chapter in the Netherlands. Her big passion is to explore and play with new technologies while she enjoys travelling, and attending conferences and meetups.",
+    "company" : "Pixplicity",
+    "companyLogo" : "/images/logos/Pixplicity.svg",
+    "country" : "Netherlands",
+    "featured" : true,
+    "id" : 805,
+    "name" : "Eliza Camberogiannis",
+    "photoUrl" : "/images/people/elizacamber.png",
+    "shortBio" : "Eliza is an Android developer at Pixplicity in the Netherlands, and the Lead for the WomenTechmakers chapter in the Netherlands. Her big passion is to explore...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/elizacamber",
+      "name" : "Twitter"
+    },
+    {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+ElizaCamber",
+      "name" : "Google+"
+    },
+    {
+      "icon" : "github",
+      "link" : "https://github.com/elizacamber,",
+      "name" : "Github"
+    } ],
     "title" : "Android Developer",
     "tags" : [ "Android" ]
   } ],
