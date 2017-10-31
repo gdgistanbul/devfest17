@@ -663,6 +663,24 @@
     } ],
     "title" : "Android Developer, WTM Lead",
     "tags" : [ "Cloud" ]
+  } ,
+  , {
+    "bio" : "Aleksandr is a business logic and database specialist. He has been a professional developer for more than 10 years. Before he used to work with C++ and C#, but recently he has shifted to Java. Aleksandr is also a founder of GDG Nizhny Novgorod. After attending Google I/O 2016 he has been carried away with learning Firebase.",
+    "company" : "NetCracker, GDG Nizhny Novgorod",
+    "companyLogo" : "/images/logos/netcracker-logo.jpg",
+    "country" : "Russia",
+    "featured" : true,
+    "id" : 806,
+    "name" : "Aleksandr Denisov",
+    "photoUrl" : "/images/people/aleks_denisov.jpg",
+    "shortBio" : "Aleksandr is a business logic and database specialist. He has been a professional developer for more than 10 years. Before he used to work with C++ and C#, but...",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/alde0615",
+      "name" : "Facebook"
+    }],
+    "title" : "Lead Sowtware Engineer, GDG Organizer",
+    "tags" : [ "Firebase" ]
   } ],
   "team" : [ {
     "members" : [ {
