@@ -664,7 +664,7 @@
     "title" : "Android Developer, WTM Lead",
     "tags" : [ "Cloud" ]
   } ,
-  , {
+  {
     "bio" : "Aleksandr is a business logic and database specialist. He has been a professional developer for more than 10 years. Before he used to work with C++ and C#, but recently he has shifted to Java. Aleksandr is also a founder of GDG Nizhny Novgorod. After attending Google I/O 2016 he has been carried away with learning Firebase.",
     "company" : "NetCracker, GDG Nizhny Novgorod",
     "companyLogo" : "/images/logos/netcracker-logo.jpg",
