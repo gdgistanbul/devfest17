@@ -641,7 +641,7 @@
     "company" : "Pixplicity",
     "companyLogo" : "/images/logos/Pixplicity.svg",
     "country" : "Netherlands",
-    "featured" : true,
+    "featured" : false,
     "id" : 805,
     "name" : "Eliza Camberogiannis",
     "photoUrl" : "/images/people/elizacamber.png",
@@ -681,6 +681,24 @@
     }],
     "title" : "Lead Sowtware Engineer, GDG Organizer",
     "tags" : [ "Firebase" ]
+  } ,
+  {
+    "bio" : "Cagatay Civici is a member of JavaServer Faces Expert Group in JCP, the founder of popular PrimeFaces, PrimeNG, PrimeReact and PrimeUI projects. He is a recognized speaker in international conferences such as JavaOne, Devoxx and in many local events around the world.",
+    "company" : "PrimeTek",
+    "companyLogo" : "/images/logos/primelogo.png",
+    "country" : "Turkey",
+    "featured" : true,
+    "id" : 807,
+    "name" : "Çağatay Çivici",
+    "photoUrl" : "/images/people/cagataycivici.jpg",
+    "shortBio" : "Cagatay Civici is a member of JavaServer Faces Expert Group in JCP, the founder of popular PrimeFaces, PrimeNG, PrimeReact and PrimeUI projects. He is a recognized speaker...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/cagataycivici",
+      "name" : "Twitter"
+    }],
+    "title" : "CEO",
+    "tags" : [ "Web" ]
   } ],
   "team" : [ {
     "members" : [ {
