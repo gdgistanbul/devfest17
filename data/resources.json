@@ -1,10 +1,10 @@
 {
   "title": "GDG DevFest Season 2017",
-  "description": "The biggest Google tech conference in İstanbul carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "description": "GDG DevFest Istanbul brings together the world class experts in Design, Android, Web and Cloud technologies to Istanbul for 1 day of sessions, workshops and showcases. ",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 26, 2017",
   "locationAddressShort": "İstanbul, Turkey",
-  "motto": "Come to Istanbul",
+  "motto": "The biggest Google tech conference in İstanbul, \n carefully crafted for you by GDG community!",
   "playIcon": "See how it was in 2016",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
@@ -58,6 +58,7 @@
   "removedFromSchedule": "Removed from My Schedule",
   "addedToSchedule": "Added to My Schedule",
   "rateSession": "Rate session",
+
   "footerBlocks": [
     {
       "title": "For visitors",
@@ -113,6 +114,24 @@
       }
     ]
   },
+    "statistics": [
+    {
+      "counter": 1200,
+      "caption": "Attendees"
+    },
+    {
+      "counter": 1,
+      "caption": "Day"
+    },
+    {
+      "counter": 36,
+      "caption": "Sessions"
+    },
+    {
+      "counter": 4,
+      "caption": "Tracks"
+    }
+  ],
   "callToAction": {
     "videoTitle": "GDG DevFest 2016",
     "videoId": "DfMnJAzOFng"
