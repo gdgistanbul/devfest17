@@ -27,6 +27,41 @@
     "title" : "Venue Sponsor"
   }, {
     "logos" : [ {
+      "logoUrl" : "/images/logos/careemlogo.png",
+      "name" : "Careem",
+      "url" : "https://www.careem.com/"
+    } ],
+    "title" : "Transportation Sponsor"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "images/logos/robotistan.png",
+      "name" : "Robotistan",
+      "url" : "https://www.robotistan.com/",
+      "width" : 170
+    } ,
+    {
+      "logoUrl" : "images/logos/abaküs.png",
+      "name" : "Abaküs Kitap",
+      "url" : "http://www.abakuskitap.com/",
+      "width" : 170
+    } ],
+    "title" : "Gift Sponsors"
+  },{
+    "logos" : [ {
+      "logoUrl" : "images/logos/btnet-logo.png",
+      "name" : "BTNet",
+      "url" : "http://www.btnet.com.tr/",
+      "width" : 170
+    } ,
+    {
+      "logoUrl" : "images/logos/chiponline.png",
+      "name" : "Chip Online",
+      "url" : "https://www.chip.com.tr/",
+      "width" : 170
+    } ],
+    "title" : "Press Sponsors"
+  },{
+    "logos" : [ {
       "logoUrl" : "http://2017.wtmistanbul.com/img/organizers/wtm_logo.png",
       "name" : "WTM Istanbul",
       "url" : "http://wtmistanbul.com"
@@ -52,28 +87,7 @@
       "url" : "http://www.bmo.org.tr/"
     } ],
     "title" : "Community Partners"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "/images/logos/careemlogo.png",
-      "name" : "Careem",
-      "url" : "https://www.careem.com/"
-    } ],
-    "title" : "Transportation Sponsor"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "images/logos/robotistan.png",
-      "name" : "Robotistan",
-      "url" : "https://www.robotistan.com/",
-      "width" : 170
-    } ,
-    {
-      "logoUrl" : "images/logos/abaküs.png",
-      "name" : "Abaküs Kitap",
-      "url" : "http://www.abakuskitap.com/",
-      "width" : 170
-    } ],
-    "title" : "Gift Sponsors"
-  }, {
+  },{
     "logos" : [ {
       "logoUrl" : "../images/logos/gdg-lviv.svg",
       "name" : "GDG Lviv",
