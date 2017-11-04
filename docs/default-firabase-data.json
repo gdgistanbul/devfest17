@@ -731,6 +731,39 @@
     }],
     "title" : "Computer Vision Engineer",
     "tags" : [ "Machine Learning & AI" ]
+  },
+  {
+    "bio" : "Android Developer for 5 years now. I work at Karify where we are building an online healthcare platform to help treat and manage patients in Mental healthcare. I work on the Android app and helped build the REST Api for the platform. </br> Beside making awesome Apps I help manage the technical part of the food blog Betty’s Kitchen which is run by my wife  which has about 80/90k visitors per month",
+    "company" : "Karify, Betty's Kitchen",
+    "companyLogo" : "/images/logos/karify.png",
+    "country" : "Netherlands",
+    "featured" : false,
+    "id" : 808,
+    "name" : "Dylan Drost",
+    "photoUrl" : "/images/people/dylandrost.jpeg",
+    "shortBio" : "Android Developer for 5 years now. I work at Karify where we are building an online healthcare platform to help treat and manage patients in Mental healthcare. I work on the Androi...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/dylandrost/",
+      "name" : "Linkedin"
+    },
+    {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/aegis321",
+      "name" : "Twitter"
+    },
+    {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/dylan.drost",
+      "name" : "Facebook"
+    },
+    {
+      "icon" : "github",
+      "link" : "https://github.com/aegis123",
+      "name" : "Github"
+    }],
+    "title" : "Fluttering around in Dart",
+    "tags" : [ "Flutter" ]
   }],
   "team" : [ {
     "members" : [ {
