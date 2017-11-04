@@ -761,9 +761,39 @@
       "icon" : "github",
       "link" : "https://github.com/aegis123",
       "name" : "Github"
-    }],
-    "title" : "Fluttering around in Dart",
-    "tags" : [ "Flutter" ]
+    }
+    {
+      "bio" : "Caner is a UX designer who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android.</br>Previously he worked in a publication company on digital magazines. Today, he works at t-mob, Turkey's leading mobile development agency in Istanbul making and creating apps that users love.</br>Caner has been a user group leader at GDG Istanbul since 2013, organizing, participating, and speaking at events. He shares his experience in User Experience via conferences or workshops at Droidcon, DevFest, and other conferences.",
+      "company" : "t-mob",
+      "companyLogo" : "",
+      "country" : "Turkey",
+      "featured" : false,
+      "id" : 810,
+      "name" : "Resul Caner Yıldırım",
+      "photoUrl" : "/images/people/caner_pd_expert.jpg",
+      "shortBio" : "Caner is a UX designer who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/protechman",
+        "name" : "Linkedin"
+      },
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/protechman",
+        "name" : "Twitter"
+      },
+      {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/protechman",
+        "name" : "Facebook"
+      },
+      {
+        "icon" : "website",
+        "link" : "https://dribbble.com/protechman",
+        "name" : "Website"
+      }],
+    "title" : "Experience Designer / Google Product Design Expert",
+    "tags" : [ "Design" ]
   }],
   "team" : [ {
     "members" : [ {
