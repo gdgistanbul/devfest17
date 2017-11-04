@@ -598,7 +598,7 @@
     "company" : "Kadir Has University",
     "companyLogo" : "",
     "country" : "Turkey",
-    "featured" : true,
+    "featured" : false,
     "id" : 802,
     "name" : "Doç. Dr. Mehmet Aydın",
     "photoUrl" : "/images/people/mehmet_aydin.png",
@@ -713,7 +713,25 @@
     }],
     "title" : "CEO",
     "tags" : [ "Web" ]
-  } ],
+  } ,
+  {
+    "bio" : "Computer Vision Engineer @ATP, Research Intern @ INRIA-France , Software Quality Engineer @ Huawei, Java Developer @Huawei , Long Term Intern @ Tofas . I have decided to specialize on Video Activity Recognition and I am currently working on people tracking project which involves IOT development.",
+    "company" : "Ata Technology Platforms",
+    "companyLogo" : "/images/logos/atp-logo.png",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 808,
+    "name" : "Nazlı Temur",
+    "photoUrl" : "/images/people/nazlitemur.jpg",
+    "shortBio" : "Computer Vision Engineer @ATP, Research Intern @ INRIA-France , Software Quality Engineer @ Huawei, Java Developer @Huawei , Long Term Intern @ Tofas . I have decided...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/nazlitemur/",
+      "name" : "Linkedin"
+    }],
+    "title" : "Computer Vision Engineer",
+    "tags" : [ "Machine Learning & AI" ]
+  }],
   "team" : [ {
     "members" : [ {
       "name" : "Oleh Zasadnyy",
