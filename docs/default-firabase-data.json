@@ -830,6 +830,39 @@
   }],
 "title" : "Software Developer",
 "tags" : [ "Firebase" ]
+},
+{
+  "bio" : "Elif Boncuk has been working on mobile technologies especially on Android (since Eclair) and also IOS as a full-stack developer since the team formation in her current company. She is a Senior Software Specialist at Garanti Technology.</br>Elif is engaged with GDG and WTM Istanbul as co-organizer. She loves to speak at tech events and also organize and attend to them. She blogs in her native language at her blog(elifboncuk.com) about everything but mostly tech and also at Medium in English and only tech.</br>In addition, she loves to travel and she is a professional photographer but her favourite photography object is Android sculpture. You can find her taking photos with Androids at any time.",
+  "company" : "Garanti Teknoloji",
+  "companyLogo" : "/images/logos/gt.jpg",
+  "country" : "Turkey",
+  "featured" : false,
+  "id" : 812,
+  "name" : "Elif Boncuk",
+  "photoUrl" : "/images/people/elifgde.png",
+  "shortBio" : "Elif Boncuk has been working on mobile technologies especially on Android (since Eclair) and also IOS as a full-stack developer since the team formation in her current...",
+  "socials" : [ {
+    "icon" : "linkedin",
+    "link" : "https://www.linkedin.com/in//elif-boncuk-855a8728/",
+    "name" : "Linkedin"
+  },
+  {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/elifbon_",
+    "name" : "Twitter"
+  },
+  {
+    "icon" : "website",
+    "link" : "https://elifboncuk.com/",
+    "name" : "Github"
+  },
+  {
+    "icon" : "website",
+    "link" : "https://medium.com/@elifbon",
+    "name" : "Website"
+  }],
+"title" : "Senior Software Speacialist, Google Developer Expert on Android",
+"tags" : [ "Android" ]
 }],
   "team" : [ {
     "members" : [ {
