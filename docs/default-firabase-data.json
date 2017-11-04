@@ -797,6 +797,39 @@
     }],
   "title" : "Experience Designer / Google Product Design Expert",
   "tags" : [ "Design" ]
+},
+{
+  "bio" : "Software Developer with 10 years of experience in the market, mentor and programming teacher. GDG Rio de la Plata and WTM organizer, passionate about technology and education projects. Currently digital nomad, freelancer and communicator everywhere I go.",
+  "company" : "Freelancer",
+  "companyLogo" : "",
+  "country" : "Argentina",
+  "featured" : false,
+  "id" : 811,
+  "name" : "Laura Morinigo",
+  "photoUrl" : "/images/people/laura.jpg",
+  "shortBio" : "Software Developer with 10 years of experience in the market, mentor and programming teacher. GDG Rio de la Plata and WTM organizer, passionate about technology...",
+  "socials" : [ {
+    "icon" : "linkedin",
+    "link" : "https://www.linkedin.com/in/laurasmorinigo/?locale=en_US",
+    "name" : "Linkedin"
+  },
+  {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/lala_morinigo",
+    "name" : "Twitter"
+  },
+  {
+    "icon" : "github",
+    "link" : "https://github.com/lauramorinigo",
+    "name" : "Github"
+  },
+  {
+    "icon" : "website",
+    "link" : "https://medium.com/@laura.s.morinigo",
+    "name" : "Website"
+  }],
+"title" : "Software Developer",
+"tags" : [ "Firebase" ]
 }],
   "team" : [ {
     "members" : [ {
