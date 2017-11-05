@@ -246,7 +246,7 @@
       "id" : 110,
       "language" : "Turkish",
       "speakers" : [ 810 ],
-      "tags" : [ "Design" ],
+      "tags" : [ "UX" ],
       "title" : "Hey Google; Whats Next?"
     },
     "111" : {
@@ -272,7 +272,8 @@
       "description" : "GDG Keynote",
       "id" : 113,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
+      "speakers" : [ 830 ],
+      "tags" : [ "community" ],
       "title" : "GDG Keynote"
     },
     "114" : {
@@ -280,7 +281,7 @@
       "description" : "TBD",
       "id" : 114,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
+      "tags" : [ "community" ],
       "title" : "TBD"
     },
     "115" : {
@@ -288,7 +289,7 @@
       "description" : "TBD",
       "id" : 115,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
+      "tags" : [ "community" ],
       "title" : "TBD"
     },
     "116" : {
@@ -296,7 +297,7 @@
       "description" : "TBD",
       "id" : 116,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
+      "tags" : [ "community" ],
       "title" : "TBD"
     },
     "117" : {
@@ -304,7 +305,7 @@
       "description" : "TBD",
       "id" : 117,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
+      "tags" : [ "community" ],
       "title" : "TBD"
     },
     "118" : {
@@ -312,7 +313,7 @@
       "description" : "TBD",
       "id" : 118,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
+      "tags" : [ "community" ],
       "title" : "TBD"
     },
     "119" : {
@@ -320,22 +321,23 @@
       "description" : "TBD",
       "id" : 119,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
+      "tags" : [ "community" ],
       "title" : "TBD"
     },
     "120" : {
       "description" : "Community Lounge",
       "id" : 120,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
-      "title" : "Community Lounge"
+      "tags" : [ "community" ],
+      "title" : "Community Lounge",
+      "speakers" : [ 830 ]
     },
     "121" : {
       "complexity" : "Beginner",
       "description" : "TBD",
       "id" : 121,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
+      "tags" : [ "community" ],
       "title" : "TBD"
     },
     "122" : {
@@ -343,7 +345,7 @@
       "description" : "TBD",
       "id" : 122,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
+      "tags" : [ "community" ],
       "title" : "TBD"
     },
     "123" : {
@@ -351,15 +353,16 @@
       "description" : "TBD",
       "id" : 123,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
+      "tags" : [ "community" ],
       "title" : "TBD"
     },
     "124" : {
       "complexity" : "Beginner",
-      "description" : "GDG Uncoference",
+      "description" : "GDG Unconference",
       "id" : 124,
       "language" : "Turkish",
-      "tags" : [ "GDG" ],
+      "speakers" : [ 830 ],
+      "tags" : [ "community" ],
       "title" : "GDG Uncoference"
     }
   },
@@ -583,7 +586,7 @@
       "name" : "Website"
     }],
   "title" : "Experience Designer / Google Product Design Expert",
-  "tags" : [ "Design" ]
+  "tags" : [ "UX" ]
 },
 {
   "bio" : "Software Developer with 10 years of experience in the market, mentor and programming teacher. GDG Rio de la Plata and WTM organizer, passionate about technology and education projects. Currently digital nomad, freelancer and communicator everywhere I go.",
@@ -650,6 +653,42 @@
   }],
 "title" : "Senior Software Speacialist, Google Developer Expert on Android",
 "tags" : [ "Android" ]
+},
+{
+  "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
+  "company" : "GDG Istanbul",
+  "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
+  "country" : "Turkey",
+  "featured" : false,
+  "id" : 830,
+  "name" : "GDG Istanbul",
+  "photoUrl" : "/images/logos/icon.png",
+  "shortBio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
+  "socials" : [ {
+    "icon" : "linkedin",
+    "link" : "https://www.linkedin.com/company/2943205/",
+    "name" : "Linkedin"
+  },
+  {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/GDGIstanbul",
+    "name" : "Twitter"
+  },
+  {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/GDGIstanbul/",
+    "name" : "Facebook"
+  },{
+    "icon" : "github",
+    "link" : "https://github.com/gdgistanbul/",
+    "name" : "Github"
+  },
+  {
+    "icon" : "website",
+    "link" : "http://www.gdgistanbul.com/",
+    "name" : "Website"
+  }],
+"tags" : [ "community" ]
 }],
   "team" : [ {
     "members" : [ {
