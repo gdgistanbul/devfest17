@@ -4,12 +4,8 @@
       "logoUrl" : "/images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    } ],
-    "title" : "General Partners"
+    }],
+    "title" : "General Sponsor"
   }, {
     "logos" : [ {
       "logoUrl" : "/images/logos/microsoft.png",
@@ -99,6 +95,10 @@
       "name" : "GDG Lviv",
       "url" : "https://plus.google.com/102444623953913144164",
       "width" : 170
+    }, {
+      "logoUrl" : "../images/logos/gdg-x.svg",
+      "name" : "GDG[x]",
+      "url" : "https://github.com/gdg-x"
     } ],
     "title" : "Template Creator"
   } ],
