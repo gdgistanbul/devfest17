@@ -58,6 +58,12 @@
       "name" : "Chip Online",
       "url" : "https://www.chip.com.tr/",
       "width" : 170
+    } ,
+    {
+      "logoUrl" : "images/logos/hdteknohaber-logo.png",
+      "name" : "HD TeknoHaber",
+      "url" : "http://www.hdteknohaber.com/",
+      "width" : 170
     } ],
     "title" : "Press Sponsors"
   },{
