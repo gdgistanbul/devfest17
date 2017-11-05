@@ -106,9 +106,13 @@
     "date" : "2017-11-26",
     "dateReadable" : "November 26",
     "timeslots" : [ {
+      "endTime" : "10:15",
+      "sessions" : [ [ 125 ] ],
+      "startTime" : "08:30"
+    }, {
       "endTime" : "10:50",
       "sessions" : [ [ 113 ] ],
-      "startTime" : "10:30"
+      "startTime" : "10:15"
     }, {
       "endTime" : "11:30",
       "sessions" : [ [ 101 ] ],
@@ -119,7 +123,7 @@
       "startTime" : "11:50"
     }, {
       "endTime" : "12:45",
-      "sessions" : [ [115],[ 115 ], [ 114 ], [ 105 ], [103], [120] ],
+      "sessions" : [ [115],[ 116 ], [ 114 ], [ 105 ], [103], [120] ],
       "startTime" : "12:00"
     }, {
       "endTime" : "13:45",
@@ -127,15 +131,15 @@
       "startTime" : "13:00"
     }, {
       "endTime" : "14:45",
-      "sessions" : [ [ 115 ], [ 111 ], [ 116 ], [117], [112], [120] ],
+      "sessions" : [ [ 117 ], [ 111 ], [ 118 ], [119], [112], [120], [126] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "15:45",
-      "sessions" : [ [ 107 ], [118], [119], [121] , [103], [120] ],
+      "sessions" : [ [ 107 ], [121], [122], [123] , [103], [120], [126] ],
       "startTime" : "15:00"
     }, {
       "endTime" : "16:45",
-      "sessions" : [ [ 122 ], [ 106 ], [ 109 ] , [123], [110], [120]],
+      "sessions" : [ [ 122 ], [ 106 ], [ 109 ] , [127], [110], [120], [126]],
       "startTime" : "16:00"
     }, {
       "endTime" : "17:30",
@@ -143,29 +147,29 @@
       "startTime" : "17:00"
     }],
     "tracks" : [ {
-      "title" : "D Büyük Salon"
+      "title" : "Bosphorus"
     }, {
-      "title" : "Sinema A"
+      "title" : "Maiden's Tower"
     }, {
-      "title" : "Sinema B"
+      "title" : "Rumelia"
     }, {
       "title" : "Cibali"
     },{
-      "title" : "Galata"
+      "title" : "Galata Tower"
     },{
-      "title" : "Sandbox"
+      "title" : "Eminönü"
     },{
-      "title" : "Workshop"
+      "title" : "Fener"
     }]
   }],
   "sessions" : {
     "101" : {
       "complexity" : "Beginner",
-      "description" : "Google Keynote",
+      "description" : "",
       "id" : 101,
       "language" : "Turkish",
       "speakers" : [ 801 ],
-      "tags" : [ "Google Keynote" ],
+      "tags" : [ "Community" ],
       "title" : "Google Keynote"
     },
     "102" : {
@@ -174,7 +178,7 @@
       "id" : 102,
       "language" : "Turkish",
       "speakers" : [ 802 ],
-      "tags" : [ "Kadir Has University Keynote" ],
+      "tags" : [ "General" ],
       "title" : "PAAS Üzerinde Metadata Kullanarak Ağ Bilimi Temelli Geliştirici Davranış Analizi"
     },
     "103" : {
@@ -228,7 +232,7 @@
       "id" : 108,
       "language" : "English, Turkish",
       "speakers" : [ 808 ],
-      "tags" : [ "Machine Learning & AI" ],
+      "tags" : [ "machine-learning" ],
       "title" : "Future with Machine Vision"
     },
     "109" : {
@@ -273,7 +277,7 @@
       "id" : 113,
       "language" : "Turkish",
       "speakers" : [ 830 ],
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "GDG Keynote"
     },
     "114" : {
@@ -281,7 +285,7 @@
       "description" : "TBD",
       "id" : 114,
       "language" : "Turkish",
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "TBD"
     },
     "115" : {
@@ -289,7 +293,7 @@
       "description" : "TBD",
       "id" : 115,
       "language" : "Turkish",
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "TBD"
     },
     "116" : {
@@ -297,7 +301,7 @@
       "description" : "TBD",
       "id" : 116,
       "language" : "Turkish",
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "TBD"
     },
     "117" : {
@@ -305,7 +309,7 @@
       "description" : "TBD",
       "id" : 117,
       "language" : "Turkish",
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "TBD"
     },
     "118" : {
@@ -313,7 +317,7 @@
       "description" : "TBD",
       "id" : 118,
       "language" : "Turkish",
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "TBD"
     },
     "119" : {
@@ -321,14 +325,14 @@
       "description" : "TBD",
       "id" : 119,
       "language" : "Turkish",
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "TBD"
     },
     "120" : {
       "description" : "Community Lounge",
       "id" : 120,
       "language" : "Turkish",
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "Community Lounge",
       "speakers" : [ 830 ]
     },
@@ -337,7 +341,7 @@
       "description" : "TBD",
       "id" : 121,
       "language" : "Turkish",
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "TBD"
     },
     "122" : {
@@ -345,7 +349,7 @@
       "description" : "TBD",
       "id" : 122,
       "language" : "Turkish",
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "TBD"
     },
     "123" : {
@@ -353,7 +357,7 @@
       "description" : "TBD",
       "id" : 123,
       "language" : "Turkish",
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "TBD"
     },
     "124" : {
@@ -362,8 +366,40 @@
       "id" : 124,
       "language" : "Turkish",
       "speakers" : [ 830 ],
-      "tags" : [ "community" ],
+      "tags" : [ "Community" ],
       "title" : "GDG Uncoference"
+    },
+    "125" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "id" : 125,
+      "language" : "Turkish",
+      "tags" : [ "Community" ],
+      "title" : "Registration"
+    },
+    "126" : {
+      "complexity" : "Intermediate",
+      "description" : "",
+      "id" : 126,
+      "language" : "Turkish",
+      "tags" : [ "Community" ],
+      "title" : "Workshop"
+    },
+    "127" : {
+      "complexity" : "Beginner",
+      "description" : "TBD",
+      "id" : 127,
+      "language" : "Turkish",
+      "tags" : [ "Community" ],
+      "title" : "TBD"
+    },
+    "128" : {
+      "complexity" : "Beginner",
+      "description" : "TBD",
+      "id" : 128,
+      "language" : "Turkish",
+      "tags" : [ "Community" ],
+      "title" : "TBD"
     }
   },
   "speakers" : [ {
@@ -381,7 +417,7 @@
       "link" : "https://www.linkedin.com/in/barisyesugey/",
       "name" : "LinkedIn"
     } ],
-    "tags" : [ "Googler" ],
+    "tags" : [ "Community" ],
     "title" : "Googler"
   }, {
     "bio" : "Mehmet N. Aydin, Associate Professor at Management Information Systems Department and the director of INEO Technology Transfer Office at Kadir Has University, Istanbul has provided organizations with proven expertise in the emerging field of cloud computing, Corporate Innovations Systems and Technology Management, Network Science. He holds PhD in Management Information Systems from University of Twente, The Netherlands. Dr. Aydin worked at the Institute for Innovation and Technology Management, Ryerson University, Toronto, Canada and at the Department of Information Systems and Change Management at University of Twente, the Netherlands. He has published over 50 articles as journal papers (e.g., Journal of Database Management, Information Frontiers, Journal of Enterprise Management), book chapters (e.g., Springer series on Lecture Notes in Computer Science) conference proceedings (IFIP 8.1, CAISE). His contribution to the research field of method engineering is laudable and cited in various studies. He can be reached at mehmet.aydin@khas.edu.tr.",
@@ -520,7 +556,7 @@
       "name" : "Linkedin"
     }],
     "title" : "Computer Vision Engineer",
-    "tags" : [ "Machine Learning & AI" ]
+    "tags" : [ "machine-learning" ]
   },
   {
     "bio" : "Android Developer for 5 years now. I work at Karify where we are building an online healthcare platform to help treat and manage patients in Mental healthcare. I work on the Android app and helped build the REST Api for the platform. </br> Beside making awesome Apps I help manage the technical part of the food blog Betty’s Kitchen which is run by my wife  which has about 80/90k visitors per month",
@@ -558,7 +594,7 @@
   {
     "bio" : "Caner is a UX designer who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android.</br>Previously he worked in a publication company on digital magazines. Today, he works at t-mob, Turkey's leading mobile development agency in Istanbul making and creating apps that users love.</br>Caner has been a user group leader at GDG Istanbul since 2013, organizing, participating, and speaking at events. He shares his experience in User Experience via conferences or workshops at Droidcon, DevFest, and other conferences.",
     "company" : "t-mob",
-    "companyLogo" : "",
+    "companyLogo" : "/images/logos/tmob-logo.png",
     "country" : "Turkey",
     "featured" : true,
     "id" : 810,
@@ -688,7 +724,7 @@
     "link" : "http://www.gdgistanbul.com/",
     "name" : "Website"
   }],
-"tags" : [ "community" ]
+"tags" : [ "Community" ]
 }],
   "team" : [ {
     "members" : [ {
