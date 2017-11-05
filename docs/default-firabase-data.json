@@ -113,7 +113,7 @@
       "startTime" : "11:50"
     }, {
       "endTime" : "12:45",
-      "sessions" : [ [ 103 ], [ 114 ], [ 105 ], [103], [120] ],
+      "sessions" : [ [115],[ 115 ], [ 114 ], [ 105 ], [103], [120] ],
       "startTime" : "12:00"
     }, {
       "endTime" : "13:45",
@@ -318,7 +318,6 @@
       "title" : "TBD"
     },
     "120" : {
-      "complexity" : "Beginner",
       "description" : "Community Lounge",
       "id" : 120,
       "language" : "Turkish",
