@@ -87,6 +87,10 @@
       "logoUrl" : "/images/logos/bmo.jpg",
       "name" : "BMO",
       "url" : "http://www.bmo.org.tr/"
+    } ,{
+      "logoUrl" : "/images/logos/at_logo-01.png",
+      "name" : "Agile Turkey",
+      "url" : "http://www.agileturkey.org/"
     } ],
     "title" : "Community Partners"
   },{
