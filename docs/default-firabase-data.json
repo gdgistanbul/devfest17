@@ -127,7 +127,7 @@
       "startTime" : "12:00"
     }, {
       "endTime" : "13:45",
-      "sessions" : [ [  ], [ ], [  ], [], [], [120] ],
+      "sessions" : [ [129 ],[129 ] ,[129 ],[129 ],[129 ],[130] ],
       "startTime" : "13:00"
     }, {
       "endTime" : "14:45",
@@ -400,6 +400,23 @@
       "language" : "Turkish",
       "tags" : [ "Community" ],
       "title" : "TBD"
+    },
+    "129" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 129,
+      "language" : "Turkish",
+      "tags" : [ "General" ],
+      "title" : "Lunch "
+    },
+    "130" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 130,
+      "speakers" : [ 830 ],
+      "language" : "Turkish",
+      "tags" : [ "Community" ],
+      "title" : "WTM Meetup "
     }
   },
   "speakers" : [ {
