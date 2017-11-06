@@ -4,7 +4,7 @@
       "logoUrl" : "/images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
-    }],
+    } ],
     "title" : "General Sponsor"
   }, {
     "logos" : [ {
@@ -34,35 +34,32 @@
       "name" : "Robotistan",
       "url" : "https://www.robotistan.com/",
       "width" : 170
-    } ,
-    {
+    }, {
       "logoUrl" : "images/logos/abaküs.png",
       "name" : "Abaküs Kitap",
       "url" : "http://www.abakuskitap.com/",
       "width" : 170
     } ],
     "title" : "Gift Sponsors"
-  },{
+  }, {
     "logos" : [ {
       "logoUrl" : "images/logos/btnet-logo.png",
       "name" : "BTNet",
       "url" : "http://www.btnet.com.tr/",
       "width" : 170
-    } ,
-    {
+    }, {
       "logoUrl" : "images/logos/chiponline.png",
       "name" : "Chip Online",
       "url" : "https://www.chip.com.tr/",
       "width" : 170
-    } ,
-    {
+    }, {
       "logoUrl" : "images/logos/hdteknohaber-logo.png",
       "name" : "HD TeknoHaber",
       "url" : "http://www.hdteknohaber.com/",
       "width" : 170
     } ],
     "title" : "Press Sponsors"
-  },{
+  }, {
     "logos" : [ {
       "logoUrl" : "http://2017.wtmistanbul.com/img/organizers/wtm_logo.png",
       "name" : "WTM Istanbul",
@@ -87,13 +84,13 @@
       "logoUrl" : "/images/logos/bmo.jpg",
       "name" : "BMO",
       "url" : "http://www.bmo.org.tr/"
-    } ,{
+    }, {
       "logoUrl" : "/images/logos/at_logo-01.png",
       "name" : "Agile Turkey",
       "url" : "http://www.agileturkey.org/"
     } ],
     "title" : "Community Partners"
-  },{
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/gdg-lviv.svg",
       "name" : "GDG Lviv",
@@ -127,29 +124,29 @@
       "startTime" : "11:50"
     }, {
       "endTime" : "12:45",
-      "sessions" : [ [115],[ 116 ], [ 114 ], [ 105 ], [103], [120] ],
+      "sessions" : [ [ 115 ], [ 116 ], [ 114 ], [ 105 ], [ 103 ], [ 120 ] ],
       "startTime" : "12:00"
     }, {
       "endTime" : "13:45",
-      "sessions" : [ [129 ],[129 ] ,[129 ],[129 ],[129 ],[130] ],
+      "sessions" : [ [ 129 ], [ 129 ], [ 129 ], [ 129 ], [ 129 ], [ 130 ] ],
       "startTime" : "13:00"
     }, {
       "endTime" : "14:45",
-      "sessions" : [ [ 117 ], [ 111 ], [ 118 ], [119], [112], [120], [126] ],
+      "sessions" : [ [ 117 ], [ 111 ], [ 118 ], [ 119 ], [ 112 ], [ 120 ], [ 126 ] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "15:45",
-      "sessions" : [ [ 107 ], [121], [122], [123] , [104], [120], [126] ],
+      "sessions" : [ [ 107 ], [ 121 ], [ 122 ], [ 123 ], [ 104 ], [ 120 ], [ 126 ] ],
       "startTime" : "15:00"
     }, {
       "endTime" : "16:45",
-      "sessions" : [ [ 122 ], [ 106 ], [ 109 ] , [127], [110], [120], [126]],
+      "sessions" : [ [ 122 ], [ 106 ], [ 109 ], [ 127 ], [ 110 ], [ 120 ], [ 126 ] ],
       "startTime" : "16:00"
     }, {
       "endTime" : "17:30",
-      "sessions" : [ [ 124 ]],
+      "sessions" : [ [ 124 ] ],
       "startTime" : "17:00"
-    }],
+    } ],
     "tracks" : [ {
       "title" : "Bosphorus"
     }, {
@@ -158,14 +155,14 @@
       "title" : "Rumelia"
     }, {
       "title" : "Cibali"
-    },{
+    }, {
       "title" : "Galata Tower"
-    },{
+    }, {
       "title" : "Eminönü"
-    },{
+    }, {
       "title" : "Fener"
-    }]
-  }],
+    } ]
+  } ],
   "sessions" : {
     "101" : {
       "complexity" : "Beginner",
@@ -294,11 +291,11 @@
     },
     "115" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "Xamarin Giriş-101, Xamarin Nedir?, Xamarin Forms Nedir?, Kod Yapısı, Geliştirici Araçları ,Xamarin İçeriği, Sayfa Yapıları, Tasarım Yapıları, Kontroller",
       "id" : 115,
       "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "tags" : [ "Mobile Technology" ],
+      "title" : "Microsoft Xamarin"
     },
     "116" : {
       "complexity" : "Beginner",
@@ -336,9 +333,9 @@
       "description" : "Community Lounge",
       "id" : 120,
       "language" : "Turkish",
+      "speakers" : [ 830 ],
       "tags" : [ "Community" ],
-      "title" : "Community Lounge",
-      "speakers" : [ 830 ]
+      "title" : "Community Lounge"
     },
     "121" : {
       "complexity" : "Beginner",
@@ -417,8 +414,8 @@
       "complexity" : "",
       "description" : "",
       "id" : 130,
-      "speakers" : [ 830 ],
       "language" : "Turkish",
+      "speakers" : [ 830 ],
       "tags" : [ "Community" ],
       "title" : "WTM Meetup "
     }
@@ -451,7 +448,7 @@
     "photoUrl" : "/images/people/mehmet_aydin.png",
     "shortBio" : "Mehmet N. Aydin, Associate Professor at Management Information Systems Department and the director of INEO Technology Transfer Office...",
     "title" : "Associate Professor"
-  } , {
+  }, {
     "bio" : "Burcu graduated from Department of Computer Engineering at Anadolu University, Eskişehir in 2012. She started Android development out of curiosity, and still haven't lost her excitement to this day. Aside from Android, she's also quite familiar with the iOS platform. She worked in fields such as hospital automation, farm management and banking. She is an organizer of WTM and GDG İstanbul. She loves giving tech talks and making other people love the Android platform. Her hobbies include organizing hackathons, participating in them and travelling to new places.",
     "company" : "GDG İstanbul",
     "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
@@ -473,14 +470,14 @@
       "icon" : "gplus",
       "link" : "https://plus.google.com/u/0/+BurcuTurkmenNn",
       "name" : "Google+"
-    } , {
+    }, {
       "icon" : "website",
       "link" : "http://burcu.co/",
       "name" : "Website"
-      }],
-    "title" : "Senior Mobile Developer",
-    "tags" : [ "Android" ]
-  } , {
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Senior Mobile Developer"
+  }, {
     "bio" : "Murat is an Android developer, and blogger. He is dedicated to continuously discovering, evaluating, and implementing new technologies to maximize development efficiency. He's actively involved in the Android community too – writing blog posts, and giving talks.",
     "company" : "dolap.com",
     "companyLogo" : "/images/logos/dolap.svg",
@@ -494,10 +491,10 @@
       "icon" : "twitter",
       "link" : "https://twitter.com/muratcanbur",
       "name" : "Twitter"
-    }],
-    "title" : "Android Developer",
-    "tags" : [ "Android" ]
-  } , {
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Android Developer"
+  }, {
     "bio" : "Eliza is an Android developer at Pixplicity in the Netherlands, and the Lead for the WomenTechmakers chapter in the Netherlands. Her big passion is to explore and play with new technologies while she enjoys travelling, and attending conferences and meetups.",
     "company" : "Pixplicity",
     "companyLogo" : "/images/logos/Pixplicity.svg",
@@ -511,21 +508,18 @@
       "icon" : "twitter",
       "link" : "https://twitter.com/elizacamber",
       "name" : "Twitter"
-    },
-    {
+    }, {
       "icon" : "gplus",
       "link" : "https://plus.google.com/+ElizaCamber",
       "name" : "Google+"
-    },
-    {
+    }, {
       "icon" : "github",
       "link" : "https://github.com/elizacamber,",
       "name" : "Github"
     } ],
-    "title" : "Android Developer, WTM Lead",
-    "tags" : [ "Cloud" ]
-  } ,
-  {
+    "tags" : [ "Cloud" ],
+    "title" : "Android Developer, WTM Lead"
+  }, {
     "bio" : "Aleksandr is a business logic and database specialist. He has been a professional developer for more than 10 years. Before he used to work with C++ and C#, but recently he has shifted to Java. Aleksandr is also a founder of GDG Nizhny Novgorod. After attending Google I/O 2016 he has been carried away with learning Firebase.",
     "company" : "NetCracker, GDG Nizhny Novgorod",
     "companyLogo" : "/images/logos/netcracker-logo.jpg",
@@ -539,11 +533,10 @@
       "icon" : "facebook",
       "link" : "https://www.facebook.com/alde0615",
       "name" : "Facebook"
-    }],
-    "title" : "Lead Sowtware Engineer, GDG Organizer",
-    "tags" : [ "Firebase" ]
-  } ,
-  {
+    } ],
+    "tags" : [ "Firebase" ],
+    "title" : "Lead Sowtware Engineer, GDG Organizer"
+  }, {
     "bio" : "Cagatay Civici is a member of JavaServer Faces Expert Group in JCP, the founder of popular PrimeFaces, PrimeNG, PrimeReact and PrimeUI projects. He is a recognized speaker in international conferences such as JavaOne, Devoxx and in many local events around the world.",
     "company" : "PrimeTek",
     "companyLogo" : "/images/logos/primelogo.png",
@@ -557,11 +550,10 @@
       "icon" : "twitter",
       "link" : "https://twitter.com/cagataycivici",
       "name" : "Twitter"
-    }],
-    "title" : "CEO",
-    "tags" : [ "Web" ]
-  } ,
-  {
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "CEO"
+  }, {
     "bio" : "Computer Vision Engineer @ATP, Research Intern @ INRIA-France , Software Quality Engineer @ Huawei, Java Developer @Huawei , Long Term Intern @ Tofas . I have decided to specialize on Video Activity Recognition and I am currently working on people tracking project which involves IOT development.",
     "company" : "Ata Technology Platforms",
     "companyLogo" : "/images/logos/atp-logo.png",
@@ -575,11 +567,10 @@
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/nazlitemur/",
       "name" : "Linkedin"
-    }],
-    "title" : "Computer Vision Engineer",
-    "tags" : [ "machine-learning" ]
-  },
-  {
+    } ],
+    "tags" : [ "machine-learning" ],
+    "title" : "Computer Vision Engineer"
+  }, {
     "bio" : "Android Developer for 5 years now. I work at Karify where we are building an online healthcare platform to help treat and manage patients in Mental healthcare. I work on the Android app and helped build the REST Api for the platform. </br> Beside making awesome Apps I help manage the technical part of the food blog Betty’s Kitchen which is run by my wife  which has about 80/90k visitors per month",
     "company" : "Karify, Betty's Kitchen",
     "companyLogo" : "/images/logos/karify.png",
@@ -593,26 +584,22 @@
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/dylandrost/",
       "name" : "Linkedin"
-    },
-    {
+    }, {
       "icon" : "twitter",
       "link" : "https://twitter.com/aegis321",
       "name" : "Twitter"
-    },
-    {
+    }, {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/dylan.drost",
       "name" : "Facebook"
-    },
-    {
+    }, {
       "icon" : "github",
       "link" : "https://github.com/aegis123",
       "name" : "Github"
-    }],
-    "title" : "Fluttering around in Dart",
-    "tags" : [ "Flutter" ]
-  },
-  {
+    } ],
+    "tags" : [ "Flutter" ],
+    "title" : "Fluttering around in Dart"
+  }, {
     "bio" : "Caner is a UX designer who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android.</br>Previously he worked in a publication company on digital magazines. Today, he works at t-mob, Turkey's leading mobile development agency in Istanbul making and creating apps that users love.</br>Caner has been a user group leader at GDG Istanbul since 2013, organizing, participating, and speaking at events. He shares his experience in User Experience via conferences or workshops at Droidcon, DevFest, and other conferences.",
     "company" : "t-mob",
     "companyLogo" : "/images/logos/tmob-logo.png",
@@ -626,127 +613,137 @@
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/protechman",
       "name" : "Linkedin"
-    },
-    {
+    }, {
       "icon" : "twitter",
       "link" : "https://twitter.com/protechman",
       "name" : "Twitter"
-    },
-    {
+    }, {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/protechman",
       "name" : "Facebook"
-    },
-    {
+    }, {
       "icon" : "website",
       "link" : "https://dribbble.com/protechman",
       "name" : "Website"
-    }],
-  "title" : "Experience Designer / Google Product Design Expert",
-  "tags" : [ "UX" ]
-},
-{
-  "bio" : "Software Developer with 10 years of experience in the market, mentor and programming teacher. GDG Rio de la Plata and WTM organizer, passionate about technology and education projects. Currently digital nomad, freelancer and communicator everywhere I go.",
-  "company" : "Freelancer",
-  "companyLogo" : "",
-  "country" : "Argentina",
-  "featured" : false,
-  "id" : 811,
-  "name" : "Laura Morinigo",
-  "photoUrl" : "/images/people/laura.jpg",
-  "shortBio" : "Software Developer with 10 years of experience in the market, mentor and programming teacher. GDG Rio de la Plata and WTM organizer, passionate about technology...",
-  "socials" : [ {
-    "icon" : "linkedin",
-    "link" : "https://www.linkedin.com/in/laurasmorinigo/?locale=en_US",
-    "name" : "Linkedin"
-  },
-  {
-    "icon" : "twitter",
-    "link" : "https://twitter.com/lala_morinigo",
-    "name" : "Twitter"
-  },
-  {
-    "icon" : "github",
-    "link" : "https://github.com/lauramorinigo",
-    "name" : "Github"
-  },
-  {
-    "icon" : "website",
-    "link" : "https://medium.com/@laura.s.morinigo",
-    "name" : "Website"
-  }],
-"title" : "Software Developer",
-"tags" : [ "Firebase" ]
-},
-{
-  "bio" : "Elif Boncuk has been working on mobile technologies especially on Android (since Eclair) and also IOS as a full-stack developer since the team formation in her current company. She is a Senior Software Specialist at Garanti Technology.</br>Elif is engaged with GDG and WTM Istanbul as co-organizer. She loves to speak at tech events and also organize and attend to them. She blogs in her native language at her blog(elifboncuk.com) about everything but mostly tech and also at Medium in English and only tech.</br>In addition, she loves to travel and she is a professional photographer but her favourite photography object is Android sculpture. You can find her taking photos with Androids at any time.",
-  "company" : "Garanti Teknoloji",
-  "companyLogo" : "/images/logos/gt.jpg",
-  "country" : "Turkey",
-  "featured" : false,
-  "id" : 812,
-  "name" : "Elif Boncuk",
-  "photoUrl" : "/images/people/elifgde.png",
-  "shortBio" : "Elif Boncuk has been working on mobile technologies especially on Android (since Eclair) and also IOS as a full-stack developer since the team formation in her current...",
-  "socials" : [ {
-    "icon" : "linkedin",
-    "link" : "https://www.linkedin.com/in//elif-boncuk-855a8728/",
-    "name" : "Linkedin"
-  },
-  {
-    "icon" : "twitter",
-    "link" : "https://twitter.com/elifbon_",
-    "name" : "Twitter"
-  },
-  {
-    "icon" : "website",
-    "link" : "https://elifboncuk.com/",
-    "name" : "Github"
-  },
-  {
-    "icon" : "website",
-    "link" : "https://medium.com/@elifbon",
-    "name" : "Website"
-  }],
-"title" : "Senior Software Speacialist, Google Developer Expert on Android",
-"tags" : [ "Android" ]
-},
-{
-  "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
-  "company" : "GDG Istanbul",
-  "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
-  "country" : "Turkey",
-  "featured" : false,
-  "id" : 830,
-  "name" : "GDG Istanbul",
-  "photoUrl" : "/images/logos/icon.png",
-  "shortBio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
-  "socials" : [ {
-    "icon" : "linkedin",
-    "link" : "https://www.linkedin.com/company/2943205/",
-    "name" : "Linkedin"
-  },
-  {
-    "icon" : "twitter",
-    "link" : "https://twitter.com/GDGIstanbul",
-    "name" : "Twitter"
-  },
-  {
-    "icon" : "facebook",
-    "link" : "https://www.facebook.com/GDGIstanbul/",
-    "name" : "Facebook"
-  },{
-    "icon" : "github",
-    "link" : "https://github.com/gdgistanbul/",
-    "name" : "Github"
-  },
-  {
-    "icon" : "website",
-    "link" : "http://www.gdgistanbul.com/",
-    "name" : "Website"
-  }],
-"tags" : [ "Community" ]
-}],
+    } ],
+    "tags" : [ "UX" ],
+    "title" : "Experience Designer / Google Product Design Expert"
+  }, {
+    "bio" : "Software Developer with 10 years of experience in the market, mentor and programming teacher. GDG Rio de la Plata and WTM organizer, passionate about technology and education projects. Currently digital nomad, freelancer and communicator everywhere I go.",
+    "company" : "Freelancer",
+    "companyLogo" : "",
+    "country" : "Argentina",
+    "featured" : false,
+    "id" : 811,
+    "name" : "Laura Morinigo",
+    "photoUrl" : "/images/people/laura.jpg",
+    "shortBio" : "Software Developer with 10 years of experience in the market, mentor and programming teacher. GDG Rio de la Plata and WTM organizer, passionate about technology...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/laurasmorinigo/?locale=en_US",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/lala_morinigo",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/lauramorinigo",
+      "name" : "Github"
+    }, {
+      "icon" : "website",
+      "link" : "https://medium.com/@laura.s.morinigo",
+      "name" : "Website"
+    } ],
+    "tags" : [ "Firebase" ],
+    "title" : "Software Developer"
+  }, {
+    "bio" : "Elif Boncuk has been working on mobile technologies especially on Android (since Eclair) and also IOS as a full-stack developer since the team formation in her current company. She is a Senior Software Specialist at Garanti Technology.</br>Elif is engaged with GDG and WTM Istanbul as co-organizer. She loves to speak at tech events and also organize and attend to them. She blogs in her native language at her blog(elifboncuk.com) about everything but mostly tech and also at Medium in English and only tech.</br>In addition, she loves to travel and she is a professional photographer but her favourite photography object is Android sculpture. You can find her taking photos with Androids at any time.",
+    "company" : "Garanti Teknoloji",
+    "companyLogo" : "/images/logos/gt.jpg",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 812,
+    "name" : "Elif Boncuk",
+    "photoUrl" : "/images/people/elifgde.png",
+    "shortBio" : "Elif Boncuk has been working on mobile technologies especially on Android (since Eclair) and also IOS as a full-stack developer since the team formation in her current...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in//elif-boncuk-855a8728/",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/elifbon_",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://elifboncuk.com/",
+      "name" : "Github"
+    }, {
+      "icon" : "website",
+      "link" : "https://medium.com/@elifbon",
+      "name" : "Website"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Senior Software Speacialist, Google Developer Expert on Android"
+  }, {
+    "bio" : "Yiğit Özaksüt graduated from Computer Technologies and he has master degree in department of Software Engineering. He is expert on Microsoft technologies. He worked with Xamarin since 2013 and founded Xamarin Turkey community in 2016.",
+    "company" : "Microsoft MVP",
+    "companyLogo" : "https://assets.onestore.ms/cdnfiles/external/uhf/long/9a49a7e9d8e881327e81b9eb43dabc01de70a9bb/images/microsoft-gray.png",
+    "country" : "Turkey",
+    "featured" : true,
+    "id" : 813,
+    "name" : "Yiğit Özaksüt",
+    "photoUrl" : "https://pbs.twimg.com/profile_images/810596538875609088/zNCQ2e14_400x400.jpg",
+    "shortBio" : "Yiğit Özaksüt graduated from Computer Technologies and he has master degree in department of Software Engineering..",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/yigitozaksut/",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/ozaksuty",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/ozaksuty/",
+      "name" : "Github"
+    } ],
+    "tags" : [ "Mobile Technologies" ],
+    "title" : "Microsoft MVP"
+  }, {
+    "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
+    "company" : "GDG Istanbul",
+    "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 830,
+    "name" : "GDG Istanbul",
+    "photoUrl" : "/images/logos/icon.png",
+    "shortBio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/company/2943205/",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/GDGIstanbul",
+      "name" : "Twitter"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/GDGIstanbul/",
+      "name" : "Facebook"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/gdgistanbul/",
+      "name" : "Github"
+    }, {
+      "icon" : "website",
+      "link" : "http://www.gdgistanbul.com/",
+      "name" : "Website"
+    } ],
+    "tags" : [ "Community" ]
+  } ],
   "team" : [ {
     "members" : [ {
       "name" : "Oleh Zasadnyy",
