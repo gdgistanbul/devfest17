@@ -128,7 +128,7 @@
       "startTime" : "11:50"
     }, {
       "endTime" : "12:45",
-      "sessions" : [ [ 115 ], [ 116 ], [ 114 ], [ 105 ], [ 103 ], [ 120 ] ],
+      "sessions" : [ [ 115 ], [ 105 ], [ 122 ], [ 123 ], [ 103 ], [ 120 ] ],
       "startTime" : "12:00"
     }, {
       "endTime" : "13:45",
@@ -140,11 +140,11 @@
       "startTime" : "14:00"
     }, {
       "endTime" : "15:45",
-      "sessions" : [ [ 107 ], [ 121 ], [ 122 ], [ 123 ], [ 104 ], [ 120 ], [ 126 ] ],
+      "sessions" : [ [ 107 ], [ 121 ], [ 116 ], [ 114 ], [ 104 ], [ 120 ], [ 126 ] ],
       "startTime" : "15:00"
     }, {
       "endTime" : "16:45",
-      "sessions" : [ [ 122 ], [ 106 ], [ 109 ], [ 127 ], [ 110 ], [ 120 ], [ 126 ] ],
+      "sessions" : [ [ 122 ], [ 106,108 ], [ 109 ], [ 127 ], [ 110 ], [ 120 ], [ 126 ] ],
       "startTime" : "16:00"
     }, {
       "endTime" : "17:30",
@@ -295,11 +295,11 @@
     },
     "115" : {
       "complexity" : "Beginner",
-      "description" : "Xamarin Giriş-101, Xamarin Nedir?, Xamarin Forms Nedir?, Kod Yapısı, Geliştirici Araçları ,Xamarin İçeriği, Sayfa Yapıları, Tasarım Yapıları, Kontroller",
+      "description" : "TBD",
       "id" : 115,
       "language" : "Turkish",
-      "tags" : [ "Mobile Technology" ],
-      "title" : "Microsoft Xamarin"
+      "tags" : [ "Community" ],
+      "title" : "TBD"
     },
     "116" : {
       "complexity" : "Beginner",
@@ -311,11 +311,12 @@
     },
     "117" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "",
       "id" : 117,
+      "speakers" : [ 814 ],
       "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "tags" : [ "Firebase" ],
+      "title" : "Firebase New Updates"
     },
     "118" : {
       "complexity" : "Beginner",
@@ -359,11 +360,12 @@
     },
     "123" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "Xamarin Giriş-101, Xamarin Nedir?, Xamarin Forms Nedir?, Kod Yapısı, Geliştirici Araçları ,Xamarin İçeriği, Sayfa Yapıları, Tasarım Yapıları, Kontroller",
       "id" : 123,
+      "speakers" : [ 813 ],
       "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "tags" : [ "Xamarin" ],
+      "title" : "Microsoft Xamarin"
     },
     "124" : {
       "complexity" : "Beginner",
@@ -407,12 +409,10 @@
       "title" : "TBD"
     },
     "129" : {
-      "complexity" : "",
-      "description" : "",
+      "description" : "Foooooooood!",
       "id" : 129,
-      "language" : "Turkish",
-      "tags" : [ "General" ],
-      "title" : "Lunch "
+      "image" : "/images/backgrounds/lunch.jpg",
+      "title" : "Lunch"
     },
     "130" : {
       "complexity" : "",
@@ -713,7 +713,7 @@
       "link" : "https://github.com/ozaksuty/",
       "name" : "Github"
     } ],
-    "tags" : [ "Mobile Technologies" ],
+    "tags" : [ "Xamarin" ],
     "title" : "Microsoft MVP"
   },
   {
