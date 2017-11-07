@@ -715,7 +715,26 @@
     } ],
     "tags" : [ "Mobile Technologies" ],
     "title" : "Microsoft MVP"
-  }, {
+  },
+  {
+    "bio" : "Serhat Atayeter has been graduated from Information Systems and Technologies as well as International Business and Trade departments. He holds MBA degree from Koc University. He was the co-founder of el6 (an ad-hoc social network) before joining Google in 2011. He worked as Account Strategist in travel vertical at Google until 2013 before he's joined Customer Solution and Innovation team as Performance Marketing Consultant. He also teaches Data-driven Decision Making course at Bogazici University as part-time lecturer.",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/google.svg",
+    "country" : "Turkey",
+    "featured" : true,
+    "id" : 814,
+    "name" : "Serhat Atayeter",
+    "photoUrl" : "/images/people/serhat_google.jpg",
+    "shortBio" : "Serhat Atayeter has been graduated from Information Systems and Technologies as well as International Business and Trade departments.",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/msatayeter",
+      "name" : "Linkedin"
+    }],
+    "tags" : [ "Firebase" ],
+    "title" : "Mobile Solutions Lead"
+  }
+  , {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
     "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
