@@ -136,21 +136,25 @@
       "startTime" : "12:00"
     }, {
       "endTime" : "13:45",
-      "sessions" : [ [ 129 ], [ 129 ], [ 129 ], [ 129 ], [ 129 ], [ 130 ] ],
+      "sessions" : [ [ 129 ], [ 130 ] ],
       "startTime" : "13:00"
     }, {
       "endTime" : "14:45",
-      "sessions" : [ [ 107 ], [ 111 ], [ 118 ], [ 119 ], [ 112 ], [ 120 ], [ 126 ] ],
+      "sessions" : [ [ 107 ], [ 111 ], [ 118 ], [ 119 ], [ 112 ], [ 120 ] ],
+      "startTime" : "14:00"
+    }, {
+      "endTime" : "16:45",
+      "sessions" : [ [ 126 ] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "15:45",
-      "sessions" : [ [ 117 ], [ 121 ], [ 116 ], [ 114 ], [ 104 ], [ 120 ], [ 126 ] ],
+      "sessions" : [ [ 117 ], [ 121 ], [ 116 ], [ 114 ], [ 104 ], [ 120 ] ],
       "startTime" : "15:00"
     }, {
       "endTime" : "16:45",
-      "sessions" : [ [ 122 ], [ 106,108 ], [ 109 ], [ 127 ], [ 110 ], [ 120 ], [ 126 ] ],
+      "sessions" : [ [ 122 ], [ 106,108 ], [ 109 ], [ 127 ], [ 110 ], [ 120 ] ],
       "startTime" : "16:00"
-    }, {
+    },{
       "endTime" : "17:30",
       "sessions" : [ [ 124 ] ],
       "startTime" : "17:00"
@@ -391,11 +395,13 @@
     },
     "126" : {
       "complexity" : "Intermediate",
-      "description" : "",
+      "description" : "Notification channels and badges are part of the many updates in Android O. Starting in Android O, you divide all of your notifications into different notification channels, depending on the type of notification your app is sending. Using channels, you can easily differentiate between different types of communication and provide different default sounds, importance, icons, and more. Once a notification channel exists on the device, users have full control over the settings per notification channel.",
       "id" : 126,
+      "track" :  {"title" : "Fener"},
+      "speakers" : [ 816 ],
       "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "Workshop"
+      "tags" : [ "Codelab", "Firebase", "Android" ],
+      "title" : "Notification Channel and Badges in Kotlin"
     },
     "127" : {
       "complexity" : "Beginner",
@@ -417,6 +423,7 @@
       "description" : "Foooooooood!",
       "id" : 129,
       "image" : "/images/backgrounds/lunch.jpg",
+      "track" :  {"title" : "Fuayeler"},
       "title" : "Lunch"
     },
     "130" : {
@@ -426,6 +433,7 @@
       "language" : "Turkish",
       "speakers" : [ 830 ],
       "tags" : [ "Community" ],
+      "track" :  {"title" : "Eminönü Fuaye"},
       "title" : "WTM Meetup "
     }
   },
@@ -766,6 +774,24 @@
     }],
     "tags" : [ "Web" ],
     "title" : "Software Engineer"
+  },
+  {
+    "bio" : "Mert is a Android Engineer, currently focused on developing Android Applications. He is very visible in public conferences and organizer of Android Istanbul, also active member of GDG Istanbul. He is also blogging about android technologies and trends weekly, also love to share his experiences as open source library at github.com. In his quiet time, he loves to draw and travel.",
+    "company" : "Sahibinden",
+    "companyLogo" : "/images/logos/sahibinden.png",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 816,
+    "name" : "Mert Şimşek",
+    "photoUrl" : "/images/people/mertsimsek.png",
+    "shortBio" : "Mert is a Android Engineer, currently focused on developing Android Applications. He is very visible in public conferences and organizer of Android Istanbul, also active member...",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/iammert",
+      "name" : "Github"
+    }],
+    "tags" : [ "Firebase", "Android" ],
+    "title" : "Android Engineer"
   }
   , {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
