@@ -400,7 +400,7 @@
       "track" :  {"title" : "Fener"},
       "speakers" : [ 816 ],
       "language" : "Turkish",
-      "tags" : [ "Codelab", "Firebase", "Android" ],
+      "tags" : [ "Firebase", "Android" , "Codelab"],
       "title" : "Notification Channel and Badges in Kotlin"
     },
     "127" : {
