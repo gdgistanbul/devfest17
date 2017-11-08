@@ -306,12 +306,13 @@
       "title" : "TBD"
     },
     "116" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
+      "complexity" : "Intermediate",
+      "description" : "The main thought - developers should be able to enjoy their work.</br>Assume you’ve started working on development of the web application. By the time you’ve got to the spot of enjoyable developemt, you would have to go through all the complex details of  building the basement for your app, taking care about the backend, servers and more...Cloud Functions allows Firebase developers to create a backend without having to worry about servers. During the talk you will learn what's possible with Cloud Functions and how it can be used for many different key use cases for your web app and not only. You'll see real world examples that show how Cloud Functions for Firebase is the programmatic glue that allows you to extend and connect Firebase products and cloud services.",
       "id" : 116,
+      "speakers" : [ 815 ],
       "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "tags" : [ "Web" ],
+      "title" : "Go beyond the web development with Firebase Cloud Functions"
     },
     "117" : {
       "complexity" : "Beginner",
@@ -737,6 +738,34 @@
     }],
     "tags" : [ "Firebase" ],
     "title" : "Mobile Solutions Lead"
+  },
+  {
+    "bio" : "Sofia has been working as Full Stack Software Engineers for more than 3 years and she is really passionate about web, especially everything related to Progressive Web Apps and developing fancy web application using Polymer. She always tries to go beyond the day to day life and learn something new, for now is interested a lot in Machine Learning.</br>Despite that, Sofia is a manager of GDG Lviv and also leads local WTM community in Lviv. Additionally, one of organisers of GDG DevFest Ukraine (https://devfest.gdg.org.ua/). ",
+    "company" : "Just Answer",
+    "companyLogo" : "/images/logos/justanswer.jpeg",
+    "country" : "Ukraine",
+    "featured" : false,
+    "id" : 815,
+    "name" : "Sofia Huts",
+    "photoUrl" : "/images/people/sofiahuts.jpg",
+    "shortBio" : "Sofia has been working as Full Stack Software Engineers for more than 3 years and she is really passionate about web, especially everything related to Progressive...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/sofiya-huts-4b314a9a",
+      "name" : "Linkedin"
+    },
+    {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/sophie_h29",
+      "name" : "Twitter"
+    },
+    {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/sophie.huts.7",
+      "name" : "Facebook"
+    }],
+    "tags" : [ "Web" ],
+    "title" : "Software Engineer"
   }
   , {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
