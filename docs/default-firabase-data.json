@@ -92,6 +92,10 @@
       "logoUrl" : "/images/logos/at_logo-01.png",
       "name" : "Agile Turkey",
       "url" : "http://www.agileturkey.org/"
+    }, {
+      "logoUrl" : "/images/logoskadin-yazilimci-logo.png",
+      "name" : "Kadın Yazılımcı",
+      "url" : "http://www.kadinyazilimci.com/en/"
     } ],
     "title" : "Community Partners"
   }, {
@@ -664,7 +668,7 @@
   }, {
     "bio" : "Elif Boncuk has been working on mobile technologies especially on Android (since Eclair) and also IOS as a full-stack developer since the team formation in her current company. She is a Senior Software Specialist at Garanti Technology.</br>Elif is engaged with GDG and WTM Istanbul as co-organizer. She loves to speak at tech events and also organize and attend to them. She blogs in her native language at her blog(elifboncuk.com) about everything but mostly tech and also at Medium in English and only tech.</br>In addition, she loves to travel and she is a professional photographer but her favourite photography object is Android sculpture. You can find her taking photos with Androids at any time.",
     "company" : "Garanti Teknoloji",
-    "companyLogo" : "/images/logos/gt.jpg",
+    "companyLogo" : "/images/logos/GarantiTeknoloji-01.jpg",
     "country" : "Turkey",
     "featured" : false,
     "id" : 812,
