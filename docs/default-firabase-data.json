@@ -310,12 +310,12 @@
       "title" : "TBD"
     },
     "115" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
+      "complexity" : "Intermediate",
+      "description" : "Bots are new apps! With the power of AI (Artificial Intelligence) chatbots provide an enhanced experience for our clients, employees, and partners. Today’s users expect to have real-time information at their fingertips. Chatbots allow the users to get the information they need, when they need it - putting them in control of their digital world. Because of this self-service enablement, there will be a noticeable reduction of operational costs, heightened client satisfaction, and the facilitation of modern user experiences in workflows.",
       "id" : 115,
       "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "tags" : [ "machine-learning" ],
+      "title" : "Building an Intelligent ChatBot with BotFramework and Microsoft Cognitive Services"
     },
     "116" : {
       "complexity" : "Intermediate",
