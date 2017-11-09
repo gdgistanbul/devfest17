@@ -400,7 +400,7 @@
       "track" :  {"title" : "Fener"},
       "speakers" : [ 816 ],
       "language" : "Turkish",
-      "tags" : [ "Firebase", "Android" , "Codelab"],
+      "tags" : [ "Android" , "Codelab"],
       "title" : "Notification Channel and Badges in Kotlin"
     },
     "127" : {
@@ -790,7 +790,7 @@
       "link" : "https://github.com/iammert",
       "name" : "Github"
     }],
-    "tags" : [ "Firebase", "Android" ],
+    "tags" : [ "Android" ],
     "title" : "Android Engineer"
   }
   , {
