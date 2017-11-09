@@ -1,0 +1,63 @@
+[debug] [2017-11-09T21:06:56.317Z] ----------------------------------------------------------------------
+[debug] [2017-11-09T21:06:56.320Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy
+[debug] [2017-11-09T21:06:56.321Z] CLI Version:   3.13.1
+[debug] [2017-11-09T21:06:56.321Z] Platform:      darwin
+[debug] [2017-11-09T21:06:56.321Z] Node Version:  v6.3.1
+[debug] [2017-11-09T21:06:56.321Z] Time:          Fri Nov 10 2017 00:06:56 GMT+0300 (+03)
+[debug] [2017-11-09T21:06:56.322Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-09T21:06:56.359Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-09T21:06:56.359Z] > authorizing via signed-in user
+[debug] [2017-11-09T21:06:56.362Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-11-09T21:06:56.363Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/S8dLOJlihfeuF6itVnfT8a_wyelGtt0iUpJSZb_LS98',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Fri Nov 10 2017 00:06:56 GMT+0300 (+03)
+[debug] [2017-11-09T21:06:56.744Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-09T21:06:56.750Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/gdg-istanbul-devfest-2017  
+ Fri Nov 10 2017 00:06:56 GMT+0300 (+03)
+[debug] [2017-11-09T21:06:57.755Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-09T21:06:57.757Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/gdg-istanbul-devfest-2017/tokens  
+ Fri Nov 10 2017 00:06:57 GMT+0300 (+03)
+[debug] [2017-11-09T21:06:58.606Z] <<< HTTP RESPONSE 200
+[info] 2
+[info] 
+[info] === Deploying to 'gdg-istanbul-devfest-2017'...
+[info] 
+[info] i  deploying database, hosting
+[info] i  database: checking rules syntax...
+[debug] [2017-11-09T21:07:00.366Z] >>> HTTP REQUEST PUT https://gdg-istanbul-devfest-2017.firebaseio.com/.settings/rules.json?dryRun=true {
+  "rules": {
+    ".read": true,
+    ".write": false,
+    "ratings": {
+      ".read": false,
+      ".write": false,
+      "$uid": {
+        ".read": "auth.uid === $uid",
+        ".write": "auth.uid === $uid"
+      }
+    },
+    "userSessions": {
+      ".read": false,
+      ".write": false,
+      "$uid": {
+        ".read": "auth.uid === $uid",
+        ".write": "auth.uid === $uid"
+      }
+    },
+    "speakers": {
+      ".read": true,
+      ".write": "root.child('users').child(auth.uid).child('rules').child('speakers').val() === true"
+    }
+  }
+}
+ 
+ Fri Nov 10 2017 00:07:00 GMT+0300 (+03)
+[debug] [2017-11-09T21:07:01.397Z] <<< HTTP RESPONSE 200
+[info] ✔  database: rules syntax is valid
+[info] i  hosting: preparing ./build directory for upload...
+[debug] [2017-11-09T21:07:02.393Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/gdg-istanbul-devfest-2017/uploads/-KyXas8A7gTD_ST5ueLs?fileCount=206&message=  
+ Fri Nov 10 2017 00:07:02 GMT+0300 (+03)
