@@ -16,6 +16,14 @@
     "title" : "Gold Sponsor"
   }, {
     "logos" : [ {
+      "logoUrl" : "/images/logos/garanti_partnerrs_logo.ai",
+      "name" : "Garanti Partners",
+      "url" : "https://www.garantipartners.com/",
+      "width" : 200
+    } ],
+    "title" : "Sponsors"
+  }, {
+    "logos" : [ {
       "logoUrl" : "../images/logos/kadirhasuni.png",
       "name" : "Kadir Has Üniversitesi",
       "url" : "http://www.khas.edu.tr/en/"
