@@ -16,7 +16,7 @@
     "title" : "Gold Sponsor"
   }, {
     "logos" : [ {
-      "logoUrl" : "/images/logos/garanti_partnerrs_logo.ai",
+      "logoUrl" : "/images/logos/garanti_partnerrs_logo.jpg",
       "name" : "Garanti Partners",
       "url" : "https://www.garantipartners.com/",
       "width" : 200
@@ -630,7 +630,7 @@
     "company" : "t-mob",
     "companyLogo" : "/images/logos/tmob-logo.png",
     "country" : "Turkey",
-    "featured" : true,
+    "featured" : false,
     "id" : 810,
     "name" : "Resul Caner Yıldırım",
     "photoUrl" : "/images/people/caner_pd_expert.jpg",
