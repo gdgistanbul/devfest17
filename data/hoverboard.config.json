@@ -44,6 +44,10 @@
       "permalink": "/"
     },
     {
+      "route": "speakers",
+      "permalink": "/speakers"
+    },
+    {
       "route": "blog",
       "permalink": "http://gdgistanbul.com/"
     }
