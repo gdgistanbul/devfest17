@@ -163,9 +163,13 @@
       "sessions" : [ [ 122 ], [ 106, 108 ], [ 109 ], [ 127 ], [ 110 ], [ 120 ] ],
       "startTime" : "16:00"
     }, {
-      "endTime" : "17:30",
-      "sessions" : [ [ 124 ] ],
+      "endTime" : "17:45",
+      "sessions" : [ [ 131 ], [ 132 ], [ 133 ], [ 134 ], [ 135 ], [ 120 ] ],
       "startTime" : "17:00"
+    }, {
+      "endTime" : "18:30",
+      "sessions" : [ [ 124 ] ],
+      "startTime" : "18:00"
     } ],
     "tracks" : [ {
       "title" : "Bosphorus"
@@ -450,6 +454,46 @@
       "title" : "WTM Meetup ",
       "track" : {
         "title" : "Eminönü Fuaye"
+      },
+      "131" : {
+        "complexity" : "Beginner",
+        "description" : "TBD",
+        "id" : 131,
+        "language" : "Turkish",
+        "tags" : [ "Community" ],
+        "title" : "TBD"
+      },
+      "132" : {
+        "complexity" : "Beginner",
+        "description" : "TBD",
+        "id" : 132,
+        "language" : "Turkish",
+        "tags" : [ "Community" ],
+        "title" : "TBD"
+      },
+      "133" : {
+        "complexity" : "Beginner",
+        "description" : "TBD",
+        "id" : 133,
+        "language" : "Turkish",
+        "tags" : [ "Community" ],
+        "title" : "TBD"
+      },
+      "134" : {
+        "complexity" : "Beginner",
+        "description" : "TBD",
+        "id" : 134,
+        "language" : "Turkish",
+        "tags" : [ "Community" ],
+        "title" : "TBD"
+      },
+      "135" : {
+        "complexity" : "Beginner",
+        "description" : "TBD",
+        "id" : 135,
+        "language" : "Turkish",
+        "tags" : [ "Community" ],
+        "title" : "TBD"
       }
     }
   },
