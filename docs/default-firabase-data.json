@@ -65,11 +65,11 @@
       "name" : "HD TeknoHaber",
       "url" : "http://www.hdteknohaber.com/",
       "width" : 170
-    } , {
+    }, {
       "logoUrl" : "/images/logos/webmasto.png",
       "name" : "WebMasto",
       "url" : "http://www.webmasto.com/"
-    }],
+    } ],
     "title" : "Press Sponsors"
   }, {
     "logos" : [ {
@@ -160,9 +160,9 @@
       "startTime" : "15:00"
     }, {
       "endTime" : "16:45",
-      "sessions" : [ [ 122 ], [ 106,108 ], [ 109 ], [ 127 ], [ 110 ], [ 120 ] ],
+      "sessions" : [ [ 122 ], [ 106, 108 ], [ 109 ], [ 127 ], [ 110 ], [ 120 ] ],
       "startTime" : "16:00"
-    },{
+    }, {
       "endTime" : "17:30",
       "sessions" : [ [ 124 ] ],
       "startTime" : "17:00"
@@ -313,8 +313,8 @@
       "complexity" : "Intermediate",
       "description" : "Bots are new apps! With the power of AI (Artificial Intelligence) chatbots provide an enhanced experience for our clients, employees, and partners. Today’s users expect to have real-time information at their fingertips. Chatbots allow the users to get the information they need, when they need it - putting them in control of their digital world. Because of this self-service enablement, there will be a noticeable reduction of operational costs, heightened client satisfaction, and the facilitation of modern user experiences in workflows.",
       "id" : 115,
-      "speakers" : [ 817 ],
       "language" : "Turkish",
+      "speakers" : [ 817 ],
       "tags" : [ "machine-learning" ],
       "title" : "Building an Intelligent ChatBot with BotFramework and Microsoft Cognitive Services"
     },
@@ -322,8 +322,8 @@
       "complexity" : "Intermediate",
       "description" : "The main thought - developers should be able to enjoy their work.</br>Assume you’ve started working on development of the web application. By the time you’ve got to the spot of enjoyable developemt, you would have to go through all the complex details of  building the basement for your app, taking care about the backend, servers and more...Cloud Functions allows Firebase developers to create a backend without having to worry about servers. During the talk you will learn what's possible with Cloud Functions and how it can be used for many different key use cases for your web app and not only. You'll see real world examples that show how Cloud Functions for Firebase is the programmatic glue that allows you to extend and connect Firebase products and cloud services.",
       "id" : 116,
-      "speakers" : [ 815 ],
       "language" : "Turkish",
+      "speakers" : [ 815 ],
       "tags" : [ "Web" ],
       "title" : "Go beyond the web development with Firebase Cloud Functions"
     },
@@ -331,8 +331,8 @@
       "complexity" : "Beginner",
       "description" : "",
       "id" : 117,
-      "speakers" : [ 814 ],
       "language" : "Turkish",
+      "speakers" : [ 814 ],
       "tags" : [ "Firebase" ],
       "title" : "Firebase New Updates"
     },
@@ -380,8 +380,8 @@
       "complexity" : "Beginner",
       "description" : "Xamarin Giriş-101, Xamarin Nedir?, Xamarin Forms Nedir?, Kod Yapısı, Geliştirici Araçları ,Xamarin İçeriği, Sayfa Yapıları, Tasarım Yapıları, Kontroller",
       "id" : 123,
-      "speakers" : [ 813 ],
       "language" : "Turkish",
+      "speakers" : [ 813 ],
       "tags" : [ "Xamarin" ],
       "title" : "Microsoft Xamarin"
     },
@@ -406,19 +406,22 @@
       "complexity" : "Intermediate",
       "description" : "Notification channels and badges are part of the many updates in Android O. Starting in Android O, you divide all of your notifications into different notification channels, depending on the type of notification your app is sending. Using channels, you can easily differentiate between different types of communication and provide different default sounds, importance, icons, and more. Once a notification channel exists on the device, users have full control over the settings per notification channel.",
       "id" : 126,
-      "track" :  {"title" : "Fener"},
-      "speakers" : [ 816 ],
       "language" : "Turkish",
-      "tags" : [ "Android" , "Codelab"],
-      "title" : "Notification Channel and Badges in Kotlin"
+      "speakers" : [ 816 ],
+      "tags" : [ "Android", "Codelab" ],
+      "title" : "Notification Channel and Badges in Kotlin",
+      "track" : {
+        "title" : "Fener"
+      }
     },
     "127" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
+      "complexity" : "Intermediate",
+      "description" : "2 speakers for the price of 1! A step by step guide to all the features Apache NetBeans offers for developers a single, complete solution to create,edit, test and ship code in Java, android, html5, JavaScript and other languages",
       "id" : 127,
-      "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "language" : "English",
+      "speakers" : [ 818, 819 ],
+      "tags" : [ "Web" ],
+      "title" : "Developing, testing and writing better Code with the Apache NetBeans IDE"
     },
     "128" : {
       "complexity" : "Beginner",
@@ -432,8 +435,10 @@
       "description" : "Foooooooood!",
       "id" : 129,
       "image" : "/images/backgrounds/lunch.jpg",
-      "track" :  {"title" : "Fuayeler"},
-      "title" : "Lunch"
+      "title" : "Lunch",
+      "track" : {
+        "title" : "Fuayeler"
+      }
     },
     "130" : {
       "complexity" : "",
@@ -442,8 +447,10 @@
       "language" : "Turkish",
       "speakers" : [ 830 ],
       "tags" : [ "Community" ],
-      "track" :  {"title" : "Eminönü Fuaye"},
-      "title" : "WTM Meetup "
+      "title" : "WTM Meetup ",
+      "track" : {
+        "title" : "Eminönü Fuaye"
+      }
     }
   },
   "speakers" : [ {
@@ -737,8 +744,7 @@
     } ],
     "tags" : [ "Xamarin" ],
     "title" : "Microsoft MVP"
-  },
-  {
+  }, {
     "bio" : "Serhat Atayeter has been graduated from Information Systems and Technologies as well as International Business and Trade departments. He holds MBA degree from Koc University. He was the co-founder of el6 (an ad-hoc social network) before joining Google in 2011. He worked as Account Strategist in travel vertical at Google until 2013 before he's joined Customer Solution and Innovation team as Performance Marketing Consultant. He also teaches Data-driven Decision Making course at Bogazici University as part-time lecturer.",
     "company" : "Google",
     "companyLogo" : "/images/logos/google.svg",
@@ -752,11 +758,10 @@
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/msatayeter",
       "name" : "Linkedin"
-    }],
+    } ],
     "tags" : [ "Firebase" ],
     "title" : "Mobile Solutions Lead"
-  },
-  {
+  }, {
     "bio" : "Sofia has been working as Full Stack Software Engineers for more than 3 years and she is really passionate about web, especially everything related to Progressive Web Apps and developing fancy web application using Polymer. She always tries to go beyond the day to day life and learn something new, for now is interested a lot in Machine Learning.</br>Despite that, Sofia is a manager of GDG Lviv and also leads local WTM community in Lviv. Additionally, one of organisers of GDG DevFest Ukraine (https://devfest.gdg.org.ua/). ",
     "company" : "Just Answer",
     "companyLogo" : "/images/logos/justanswer.jpeg",
@@ -770,21 +775,18 @@
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/sofiya-huts-4b314a9a",
       "name" : "Linkedin"
-    },
-    {
+    }, {
       "icon" : "twitter",
       "link" : "https://twitter.com/sophie_h29",
       "name" : "Twitter"
-    },
-    {
+    }, {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/sophie.huts.7",
       "name" : "Facebook"
-    }],
+    } ],
     "tags" : [ "Web" ],
     "title" : "Software Engineer"
-  },
-  {
+  }, {
     "bio" : "Mert is a Android Engineer, currently focused on developing Android Applications. He is very visible in public conferences and organizer of Android Istanbul, also active member of GDG Istanbul. He is also blogging about android technologies and trends weekly, also love to share his experiences as open source library at github.com. In his quiet time, he loves to draw and travel.",
     "company" : "Sahibinden",
     "companyLogo" : "/images/logos/sahibinden.png",
@@ -798,11 +800,10 @@
       "icon" : "github",
       "link" : "https://github.com/iammert",
       "name" : "Github"
-    }],
+    } ],
     "tags" : [ "Android" ],
     "title" : "Android Engineer"
-  },
-  {
+  }, {
     "bio" : "Ibrahim KIVANC is Software Development Engineer at Microsoft, CSE (Commerical Software Engineering) delivers programs ensuring latest Microsoft technologies and platforms are accessible and implemented. Prior to this role he was responsible for Middle East and Africa HQ over 4 years. After that worked in Microsoft Turkey for 2 years and now he's covering Microsoft Middle East region. He is responsible with the latest development technologies at Microsoft.</br>Ibrahim received his bachelor' degree in Computer Engineering and holds a master's degree in Management and Infromation System with his thesis on 'Cross Platform Development Strategies for Enterprise Companies' . He's also a former Microsoft Student Partner and winner of Imagine Cup in Turkey, represented Turkey in World Wide Finals in Poland 2010.</br>His major skills are based on Cross Platform Development tools for Android, iOS and Windows, Xbox One Development, IoT, Office Apps, Chat Bots, Cognitive Services and Unity.",
     "company" : "Microsoft",
     "companyLogo" : "https://assets.onestore.ms/cdnfiles/external/uhf/long/9a49a7e9d8e881327e81b9eb43dabc01de70a9bb/images/microsoft-gray.png",
@@ -816,15 +817,48 @@
       "icon" : "linkedin",
       "link" : "https://tr.linkedin.com/in/ibrahimkivanc",
       "name" : "Linkedin"
-    },{
+    }, {
       "icon" : "twitter",
       "link" : "https://twitter.com/ikivanc",
       "name" : "Twitter"
-    }],
+    } ],
     "tags" : [ "machine-learning" ],
     "title" : "Software Development Engineer"
-  }
-  , {
+  }, {
+    "bio" : "Mark Stephens was a speaker at DevFest 13,14, and 15. He has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup his own company in 1999. IDRsolutions develops a Java PDF library and a PDF to HTML5/SVG converter. He is a keen NetBeans user and helps to organise NetBeans UK conference. Mark has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as he can combine software and coding with palaces, churches, mosques and cisterns.",
+    "company" : "IDRsolutions",
+    "companyLogo" : "images/logos/idrsolutions.png",
+    "country" : "United Kingdom",
+    "featured" : false,
+    "id" : 818,
+    "name" : "Mark Stephens",
+    "photoUrl" : "/images/people/mark-mugshot.jpg",
+    "shortBio" : "Mark Stephens was a speaker at DevFest 13,14, and 15. He has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup his own company ...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/javapdf",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Developer"
+  }, {
+    "bio" : "Georgia Ingham is a Java developer at IDRsolutions where she works on the Java PDF library and PDF to HTML5/SVG converters. Georgia has spoken twice at JavaOne and organised a NetBeans conference in the UK. She is really looking forward to her very first DevFest and trip to Turkey with the chance to share her enthusiasm for NetBeans, meet lots of new people, see the sites and say hello to the cats in Istanbul.",
+    "company" : "IDRsolutions",
+    "companyLogo" : "images/logos/idrsolutions.png",
+    "country" : "United Kingdom",
+    "featured" : false,
+    "id" : 819,
+    "name" : "Georgia Ingham",
+    "photoUrl" : "/images/people/georgia-mugshot.jpg",
+    "shortBio" : "Georgia Ingham is a Java developer at IDRsolutions where she works on the Java PDF library and PDF to HTML5/SVG converters. Georgia has spoken twice at JavaOne and organised a NetBeans ...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/georgia-ingham-2b1807a6",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Developer"
+  }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
     "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
