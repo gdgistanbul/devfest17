@@ -825,29 +825,12 @@
     "tags" : [ "machine-learning" ],
     "title" : "Software Development Engineer"
   }, {
-    "bio" : "Mark Stephens was a speaker at DevFest 13,14, and 15. He has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup his own company in 1999. IDRsolutions develops a Java PDF library and a PDF to HTML5/SVG converter. He is a keen NetBeans user and helps to organise NetBeans UK conference. Mark has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as he can combine software and coding with palaces, churches, mosques and cisterns.",
-    "company" : "IDRsolutions",
-    "companyLogo" : "images/logos/idrsolutions.png",
-    "country" : "United Kingdom",
-    "featured" : false,
-    "id" : 818,
-    "name" : "Mark Stephens",
-    "photoUrl" : "/images/people/mark-mugshot.jpg",
-    "shortBio" : "Mark Stephens was a speaker at DevFest 13,14, and 15. He has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup his own company ...",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/javapdf",
-      "name" : "Twitter"
-    } ],
-    "tags" : [ "Web" ],
-    "title" : "Developer"
-  }, {
     "bio" : "Georgia Ingham is a Java developer at IDRsolutions where she works on the Java PDF library and PDF to HTML5/SVG converters. Georgia has spoken twice at JavaOne and organised a NetBeans conference in the UK. She is really looking forward to her very first DevFest and trip to Turkey with the chance to share her enthusiasm for NetBeans, meet lots of new people, see the sites and say hello to the cats in Istanbul.",
     "company" : "IDRsolutions",
     "companyLogo" : "images/logos/idrsolutions.png",
     "country" : "United Kingdom",
     "featured" : false,
-    "id" : 819,
+    "id" : 818,
     "name" : "Georgia Ingham",
     "photoUrl" : "/images/people/georgia-mugshot.jpg",
     "shortBio" : "Georgia Ingham is a Java developer at IDRsolutions where she works on the Java PDF library and PDF to HTML5/SVG converters. Georgia has spoken twice at JavaOne and organised a NetBeans ...",
@@ -855,6 +838,23 @@
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/georgia-ingham-2b1807a6",
       "name" : "Linkedin"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Developer"
+  },{
+    "bio" : "Mark Stephens was a speaker at DevFest 13,14, and 15. He has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup his own company in 1999. IDRsolutions develops a Java PDF library and a PDF to HTML5/SVG converter. He is a keen NetBeans user and helps to organise NetBeans UK conference. Mark has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as he can combine software and coding with palaces, churches, mosques and cisterns.",
+    "company" : "IDRsolutions",
+    "companyLogo" : "images/logos/idrsolutions.png",
+    "country" : "United Kingdom",
+    "featured" : false,
+    "id" : 819,
+    "name" : "Mark Stephens",
+    "photoUrl" : "/images/people/mark-mugshot.jpg",
+    "shortBio" : "Mark Stephens was a speaker at DevFest 13,14, and 15. He has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup his own company ...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/javapdf",
+      "name" : "Twitter"
     } ],
     "tags" : [ "Web" ],
     "title" : "Developer"
