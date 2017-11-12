@@ -156,7 +156,7 @@
       "startTime" : "14:00"
     }, {
       "endTime" : "15:45",
-      "sessions" : [ [ 117 ], [ 121 ], [ 116 ], [ 123 ], [ 104 ], [ 120 ] ],
+      "sessions" : [ [ 117, 136 ], [ 121 ], [ 116 ], [ 123 ], [ 104 ], [ 120 ] ],
       "startTime" : "15:00"
     }, {
       "endTime" : "16:45",
@@ -498,6 +498,15 @@
       "language" : "Turkish",
       "tags" : [ "Community" ],
       "title" : "TBD"
+    ,
+    "136" : {
+      "complexity" : "Beginner",
+      "description" : "You can now speed through online checkout on many of your favorite apps and websites with a few quick clicks.",
+      "id" : 135,
+      "language" : "English, Turkish",
+      "speakers" : [ 823 ],
+      "tags" : [ "Community" ],
+      "title" : "Pay with Google and speed through checkout"
     }
   },
   "speakers" : [ {
@@ -946,7 +955,7 @@
     "link" : "https://twitter.com/@_tiwiz",
     "name" : "Twitter"
   }],
-  "tags" : [ "Cloud" ],
+  "tags" : [ "Android" ],
   "title" : "Android Engineer / Android GDE"
 }, {
  "bio" : "Lemi Orhan Ergin has been working as Agile Software Craftsman and Agile Practice Lead at iyzico. He completed his undergraduate and graduate degree in Computer Engineering department of Marmara University. He has been actively developing software since 2001. He has worked as software architect, software craftsman, technical leader, team leader, technical coordinator, Scrum Master and Agile coach in dozens of software projects at BYM, GittiGidiyor / eBay and Sony. As a managing partner in ACM, he has provided consulting services to dozens of companies. He has led the establishment of agile software cultures, continuity and sustainability in software teams.<br><br>He has been sharing his experience about Agile / Scrum, Kanban, Management 3.0, Git, ALM Processes, TDD, Clean Code, Agile Engineering Practices and Software Craftsmanship with hundreds of professionals. He has been a national and international conference speaker. Slides of his talks has been displayed more than 1 million times on the Internet.<br><br>He works voluntarily in software communities. He is the founder of the Software Craftsmanship Turkey community. He had been the leader of the community and the product owner of Agile Turkey Summit and CraftSummit conferences for two years.",
@@ -980,9 +989,27 @@
    "link" : "http://www.lemiorhanergin.com",
    "name" : "Blog"
  } ],
- "tags" : [ "Cloud" ],
+ "tags" : [ "Tools" ],
  "title" : "Agile Software Craftsman"
-}, {
+},  {
+ "bio" : "Can Ali Avunduk works on digital platforms and fintech since 2008. Prior to his work at Google, Mr. Avunduk was in charge of Garanti Bank's products and services running on mobile platforms. Before he joined Garanti, he was working at 3pay.com, Turkey's first mobile payment start-up, now a Wirecard company. Mr. Avunduk received his B.Sc. Degree from Bilkent University with a major in Industrial Engineering and his M.Sc. degree from Bogazici University's Engineering and Technology Management program.",
+ "company" : "Google",
+ "companyLogo" : "images/logos/google.svg",
+ "country" : "Turkey",
+ "featured" : false,
+ "id" : 823,
+ "name" : "Can Ali Avunduk",
+ "photoUrl" : "/images/people/Can_Profile.jpeg",
+ "shortBio" : "Can Ali Avunduk works on digital platforms and fintech since 2008. Prior to his work at Google, Mr. Avunduk was in charge of Garanti Bank's products and services running on mobile platforms. Before he joined Garanti, he was working at 3pay.com, Turkey's first mobile payment start-up, now a Wirecard company. Mr. Avunduk ...",
+ "socials" : [
+  {
+   "icon" : "linkedin",
+   "link" : "https://tr.linkedin.com/in/avunduk",
+   "name" : "Linkedin"
+ }],
+ "tags" : [ "Mobile Technologies" ],
+ "title" : "Product Ops Lead - Payments"
+},{
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
     "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
