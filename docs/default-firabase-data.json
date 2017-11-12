@@ -375,11 +375,11 @@
     },
     "122" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "Writing async code is never easy, but nowadays we have many solutions. One approach would be to use RxJava and its schedulers but... have you heard of Kotlin Coroutines? Join us and let's see how good they are today!",
       "id" : 122,
-      "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "language" : "English",
+      "tags" : [ "Android" ],
+      "title" : "eAsync Kotlin"
     },
     "123" : {
       "complexity" : "Beginner",
@@ -930,6 +930,23 @@
    "tags" : [ "Cloud" ],
    "title" : "Siber Güvenlik Araştırmacısı"
  }, {
+  "bio" : "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices. I love to learn new languages such as Kotlin, patterns and everything Android-related. I recently joined The New York Times Android team as Android Engineer.",
+  "company" : "NYTimes",
+  "companyLogo" : "images/logos/The_New_York_Times_logo.jpg",
+  "country" : "Italy",
+  "featured" : true,
+  "id" : 821,
+  "name" : "Roberto Orgiu",
+  "photoUrl" : "/images/people/roberto.jpg",
+  "shortBio" : "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices. I love to learn new languages such as Kotlin, patterns and everything...",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/@_tiwiz",
+    "name" : "Twitter"
+  }],
+  "tags" : [ "Cloud" ],
+  "title" : "Android Engineer / Android GDE"
+}, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
     "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
