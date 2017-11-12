@@ -378,6 +378,7 @@
       "description" : "Writing async code is never easy, but nowadays we have many solutions. One approach would be to use RxJava and its schedulers but... have you heard of Kotlin Coroutines? Join us and let's see how good they are today!",
       "id" : 122,
       "language" : "English",
+      "speakers" : [ 821 ],
       "tags" : [ "Android" ],
       "title" : "eAsync Kotlin"
     },
