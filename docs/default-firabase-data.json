@@ -140,7 +140,7 @@
       "startTime" : "11:50"
     }, {
       "endTime" : "12:45",
-      "sessions" : [ [ 115 ], [ 105 ], [ 122 ], [ 114 ], [ 103 ], [ 120 ] ],
+      "sessions" : [ [ 115 ], [ 105 ], [ 138 ], [ 114 ], [ 103 ], [ 120 ] ],
       "startTime" : "12:00"
     }, {
       "endTime" : "13:45",
@@ -505,7 +505,7 @@
       "id" : 136,
       "language" : "English, Turkish",
       "speakers" : [ 823 ],
-      "tags" : [ "Community" ],
+      "tags" : [ "Android" ],
       "title" : "Pay with Google and speed through checkout"
     },
     "137" : {
@@ -516,6 +516,15 @@
       "speakers" : [ 824 ],
       "tags" : [ "Community" ],
       "title" : "Open Source ve Google Code-In"
+    },
+    "138" : {
+      "complexity" : "Beginner",
+      "description" : "What is the ultimate hack of our lives? What is the one thing that we strive to learn the most about? What is the thing that will truly unlock our potentials? This talk is a demonstration of an open-source Brain-Computer Interface that is completely developed with JavaScript, from the ground up, using neural networks and signal processing. The speaker hits the stage with a wireless EEG headset, shows how to read signals from the brain in JavaScript using native C++ Node.js modules over USB, and the implementation in Electron, including tweeting with brain signals.",
+      "id" : 138,
+      "language" : "English, Turkish",
+      "speakers" : [ 825 ],
+      "tags" : [ "machine-learning" ],
+      "title" : "Brain: The ultimate hack"
     }
   },
   "speakers" : [ {
@@ -1044,7 +1053,28 @@
  }],
  "tags" : [ "Google Code-In ve Open Source" ],
  "title" : "Developer"
-},{
+}, {
+ "bio" : "Armagan is the Head of Software Engineering at unu GmbH, and is currently working on building the infrastucture for the future of mobility. A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of cote, a library for building microservices with Node.js. He spends most of his free time teaching JavaScript as a university lecturer, a consultant or NGO worker. He also leads Lonca Works, a software craftsmanship guild.",
+ "company" : "unu GmbH",
+ "companyLogo" : "images/logos/unu.png",
+ "country" : "Germany",
+ "featured" : false,
+ "id" : 825,
+ "name" : "Armağan Amcalar",
+ "photoUrl" : "/images/people/armagan.jpg",
+ "shortBio" : "Armagan is the Head of Software Engineering at unu GmbH, and is currently working on building the infrastucture for the future of mobility. A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of cote, a library for building ...",
+ "socials" : [ {
+   "icon" : "twitter",
+   "link" : "https://twitter.com/dashersw",
+   "name" : "Twitter"
+ },{
+   "icon" : "github",
+   "link" : "https://github.com/dashersw",
+   "name" : "Github"
+ }],
+ "tags" : [ "machine-learning" ],
+ "title" : "Head of Software Engineering"
+}, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
     "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
