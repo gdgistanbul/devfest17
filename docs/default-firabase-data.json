@@ -1102,7 +1102,7 @@
  "tags" : [ "machine-learning" ],
  "title" : "Expert Software Engineer"
 }, {
- "bio" : "",
+ "bio" : "Data scientist with PhD in structured data mining, and business intelligence, big data management, and analytics expertise. Current focus on real time machine learning and predictive analytics. Prior research and development experience in distributed query execution, graph and network analytics, data integration, and information extraction.",
  "company" : "iyzico",
  "companyLogo" : "images/logos/iyzico.png",
  "country" : "Turkey",
@@ -1110,7 +1110,7 @@
  "id" : 827,
  "name" : "Murat Kıraç",
  "photoUrl" : "/images/people/Mustafa_Kirac.jpg",
- "shortBio" : "...",
+ "shortBio" : "Data scientist with PhD in structured data mining, and business intelligence, big data management, and analytics expertise. Current focus on real time machine learning and predictive ...",
  "socials" : [ {
    "icon" : "twitter",
    "link" : "https://twitter.com/muskirac",
