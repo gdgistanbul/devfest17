@@ -341,12 +341,13 @@
       "title" : "Firebase New Updates"
     },
     "118" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
+      "complexity" : "Intermediate",
+      "description" : "H2O is a high-available, scalable and light-weight machine learning and deep learning framework. Nowadays it is a big challenge for data scientists and developers to deploy and maintain a machine learning model on production environment. Devops and continuous delivery is also a critical issue for a machine learning product pipeline. In this session development of machine learning model with H2O framework and its devops pipeline will be introduced.",
       "id" : 118,
+      "speakers" : [ 826, 827 ],
       "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "tags" : [ "machine-learning" ],
+      "title" : "AI Development with h2o.ai"
     },
     "119" : {
       "complexity" : "Beginner",
@@ -1074,6 +1075,58 @@
  }],
  "tags" : [ "machine-learning" ],
  "title" : "Head of Software Engineering"
+}, {
+ "bio" : "Actually I develop a real-time fraud detection product at iyzico to detect credit card fraud with machine learning and artificial intelligence. I am also a master science student at Galatasaray University Computer Engineering Department in machine learning area. Previously I worked for ZeroBuffer, Vodafone and Bilge Adam as a software engineer. I am also a reviewer of a book named 'Appium Essentials' on mobile test automation.",
+ "company" : "iyzico",
+ "companyLogo" : "images/logos/iyzico.png",
+ "country" : "Turkey",
+ "featured" : false,
+ "id" : 826,
+ "name" : "Yalçın Yenigün",
+ "photoUrl" : "/images/people/Yalcin_Yenigun.png",
+ "shortBio" : "Actually I develop a real-time fraud detection product at iyzico to detect credit card fraud with machine learning and artificial intelligence. I am also a master science student at Galatasaray University Computer Engineering Department in machine learning area. Previously I worked for ZeroBuffer, Vodafone and Bilge Adam as a software engineer. I am also a reviewer of a book named 'Appium Essentials' on mobile test automation....",
+ "socials" : [ {
+   "icon" : "twitter",
+   "link" : "https://twitter.com/yalcinyenigun",
+   "name" : "Twitter"
+ },
+  {
+   "icon" : "linkedin",
+   "link" : "https://www.linkedin.com/in/yalcinyenigun",
+   "name" : "Linkedin"
+ }, {
+   "icon" : "github",
+   "link" : "https://github.com/yyenigun",
+   "name" : "Github"
+ }],
+ "tags" : [ "machine-learning" ],
+ "title" : "Expert Software Engineer"
+}, {
+ "bio" : "",
+ "company" : "iyzico",
+ "companyLogo" : "images/logos/iyzico.png",
+ "country" : "Turkey",
+ "featured" : false,
+ "id" : 827,
+ "name" : "Murat Kıraç",
+ "photoUrl" : "/images/people/Mustafa_Kirac.jpg",
+ "shortBio" : "...",
+ "socials" : [ {
+   "icon" : "twitter",
+   "link" : "https://twitter.com/muskirac",
+   "name" : "Twitter"
+ },
+  {
+   "icon" : "linkedin",
+   "link" : "https://www.linkedin.com/in/mustafakirac",
+   "name" : "Linkedin"
+ }, {
+   "icon" : "medium",
+   "link" : "https://medium.com/@muskirac",
+   "name" : "Medium"
+ }],
+ "tags" : [ "machine-learning" ],
+ "title" : "Expert Software Engineer"
 }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
