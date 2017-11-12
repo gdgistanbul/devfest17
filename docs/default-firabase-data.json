@@ -156,7 +156,7 @@
       "startTime" : "14:00"
     }, {
       "endTime" : "15:45",
-      "sessions" : [ [ 117, 136 ], [ 121 ], [ 116 ], [ 123 ], [ 104 ], [ 120 ] ],
+      "sessions" : [ [ 117, 136 ], [ 121 ], [ 116 ], [ 123 ], [ 104 ], [ 137 ] ],
       "startTime" : "15:00"
     }, {
       "endTime" : "16:45",
@@ -502,11 +502,20 @@
     "136" : {
       "complexity" : "Beginner",
       "description" : "You can now speed through online checkout on many of your favorite apps and websites with a few quick clicks.",
-      "id" : 135,
+      "id" : 136,
       "language" : "English, Turkish",
       "speakers" : [ 823 ],
       "tags" : [ "Community" ],
       "title" : "Pay with Google and speed through checkout"
+    },
+    "137" : {
+      "complexity" : "Beginner",
+      "description" : "Open Source projelerin ne anlama geldiği, önemi hakkında konuşacağım. Bunun dışında katıldığım Google Code-In ve Google Summer of Code hakkında genel bilgi vereceğim.",
+      "id" : 137,
+      "language" : "Turkish",
+      "speakers" : [ 824 ],
+      "tags" : [ "Community" ],
+      "title" : "Open Source ve Google Code-In"
     }
   },
   "speakers" : [ {
@@ -1009,6 +1018,32 @@
  }],
  "tags" : [ "Mobile Technologies" ],
  "title" : "Product Ops Lead - Payments"
+}, {
+ "bio" : "Deniz Karakay is a high school student and 17 years old. He has been programming for 2.5 years and experienced with Android, Arduino, Unity and a little bit Swift. He has been selected as a grand prize winner in Google Code-In 2016. Now he is leading a programming club in Kadıköy Anatolian Highschool.",
+ "company" : "Kadıköy Anadolu Lisesi",
+ "companyLogo" : "images/logos/kal.jpeg",
+ "country" : "Turkey",
+ "featured" : false,
+ "id" : 824,
+ "name" : "Deniz Karakay",
+ "photoUrl" : "/images/people/deniz_karakay.jpg",
+ "shortBio" : "Deniz Karakay is a high school student and 17 years old. He has been programming for 2.5 years and experienced with Android, Arduino, Unity and a little bit Swift. He has been selected as a grand prize winner in Google Code-In 2016. Now he is leading a programming club in...",
+ "socials" : [
+  {
+   "icon" : "facebook",
+   "link" : "https://www.facebook.com/deniz.karakay",
+   "name" : "Facebook"
+ }, {
+   "icon" : "github",
+   "link" : "https://github.com/dkarakay",
+   "name" : "Github"
+ },{
+   "icon" : "instagram",
+   "link" : "https://www.instagram.com/dkarakay402/",
+   "name" : "Instagram"
+ }],
+ "tags" : [ "Google Code-In ve Open Source" ],
+ "title" : "Developer"
 },{
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
