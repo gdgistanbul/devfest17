@@ -366,11 +366,12 @@
     },
     "121" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "Docker has had a built in orchestrator for more than one year. It includes health checking, auto failover, scaling, key-value store, load balancing, virtual extensible lan support, IPSec encryption, secret and config management out of the box. In this talk, many of these aspects will be explained with examples and demos. There will be some scenarios discussed about deploying to production. Sample microservices and deployment with Docker Stack YAML files will be examined.",
       "id" : 121,
+      "speakers" : [ 820 ],
       "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "tags" : [ "Cloud" ],
+      "title" : "Docker Swarm Mode"
     },
     "122" : {
       "complexity" : "Beginner",
