@@ -959,58 +959,7 @@
    }],
    "tags" : [ "Cloud" ],
    "title" : "Siber Güvenlik Araştırmacısı"
- }, {
-  "bio" : "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices. I love to learn new languages such as Kotlin, patterns and everything Android-related. I recently joined The New York Times Android team as Android Engineer.",
-  "company" : "NYTimes",
-  "companyLogo" : "images/logos/The_New_York_Times_logo.png",
-  "country" : "Italy",
-  "featured" : true,
-  "id" : 821,
-  "name" : "Roberto Orgiu",
-  "photoUrl" : "/images/people/roberto.jpg",
-  "shortBio" : "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices. I love to learn new languages such as Kotlin, patterns and everything...",
-  "socials" : [ {
-    "icon" : "twitter",
-    "link" : "https://twitter.com/@_tiwiz",
-    "name" : "Twitter"
-  }],
-  "tags" : [ "Android" ],
-  "title" : "Android Engineer / Android GDE"
-}, {
- "bio" : "Lemi Orhan Ergin has been working as Agile Software Craftsman and Agile Practice Lead at iyzico. He completed his undergraduate and graduate degree in Computer Engineering department of Marmara University. He has been actively developing software since 2001. He has worked as software architect, software craftsman, technical leader, team leader, technical coordinator, Scrum Master and Agile coach in dozens of software projects at BYM, GittiGidiyor / eBay and Sony. As a managing partner in ACM, he has provided consulting services to dozens of companies. He has led the establishment of agile software cultures, continuity and sustainability in software teams.<br><br>He has been sharing his experience about Agile / Scrum, Kanban, Management 3.0, Git, ALM Processes, TDD, Clean Code, Agile Engineering Practices and Software Craftsmanship with hundreds of professionals. He has been a national and international conference speaker. Slides of his talks has been displayed more than 1 million times on the Internet.<br><br>He works voluntarily in software communities. He is the founder of the Software Craftsmanship Turkey community. He had been the leader of the community and the product owner of Agile Turkey Summit and CraftSummit conferences for two years.",
- "company" : "iyzico",
- "companyLogo" : "images/logos/iyzico.png",
- "country" : "Turkey",
- "featured" : true,
- "id" : 822,
- "name" : "Lemi Orhan Ergin",
- "photoUrl" : "/images/people/lemiorhan.jpeg",
- "shortBio" : "Lemi Orhan Ergin has been working as Agile Software Craftsman and Agile Practice Lead at iyzico. He completed his undergraduate and graduate degree in Computer Engineering department of Marmara University. He has been actively developing software since 2001. He has worked as software architect, software craftsman...",
- "socials" : [ {
-   "icon" : "twitter",
-   "link" : "https://twitter.com/lemiorhan",
-   "name" : "Twitter"
- },
-  {
-   "icon" : "linkedin",
-   "link" : "https://www.linkedin.com/in/lemiorhan",
-   "name" : "Linkedin"
- }, {
-   "icon" : "github",
-   "link" : "https://github.com/lemiorhan",
-   "name" : "Github"
- },{
-   "icon" : "gplus",
-   "link" : "https://plus.google.com/+lemiorhanergin",
-   "name" : "Google+"
- },{
-   "icon" : "website",
-   "link" : "http://www.lemiorhanergin.com",
-   "name" : "Blog"
- } ],
- "tags" : [ "Tools" ],
- "title" : "Agile Software Craftsman"
-},  {
+ },  {
  "bio" : "Can Ali Avunduk works on digital platforms and fintech since 2008. Prior to his work at Google, Mr. Avunduk was in charge of Garanti Bank's products and services running on mobile platforms. Before he joined Garanti, he was working at 3pay.com, Turkey's first mobile payment start-up, now a Wirecard company. Mr. Avunduk received his B.Sc. Degree from Bilkent University with a major in Industrial Engineering and his M.Sc. degree from Bogazici University's Engineering and Technology Management program.",
  "company" : "Google",
  "companyLogo" : "images/logos/google.svg",
