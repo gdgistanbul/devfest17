@@ -109,7 +109,11 @@
       "logoUrl" : "/images/logoskadin-yazilimci-logo.png",
       "name" : "Kadın Yazılımcı",
       "url" : "http://www.kadinyazilimci.com/en/"
-    } ],
+    } , {
+      "logoUrl" : "/images/open_agile.png",
+      "name" : "Open Agile Turkey",
+      "url" : "http://openagileturkey.org/"
+    }],
     "title" : "Community Partners"
   }, {
     "logos" : [ {
