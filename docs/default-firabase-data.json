@@ -310,6 +310,7 @@
       "description" : "Learn about how to use  Cloud functions and Cloud Firestore to build mobile apps, Crashlytics and Performance Monitoring to gain insights into your app's issues and performance.",
       "id" : 114,
       "language" : "English, Turkish",
+      "speakers" : [ 828 ],
       "tags" : [ "Cloud" ],
       "title" : "Develop your next app with Firebase"
     },
