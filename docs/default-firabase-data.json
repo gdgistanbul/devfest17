@@ -499,11 +499,12 @@
     },
     "134" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "How we make the AMP as PWA and what kind of restrictions we faced.",
       "id" : 134,
       "language" : "Turkish",
+      "speakers" : [ 829 ],
       "tags" : [ "Community" ],
-      "title" : "TBD"
+      "title" : "AMP as PWA Case Study"
     },
     "135" : {
       "complexity" : "Beginner",
@@ -1107,6 +1108,32 @@
  }],
  "tags" : [ "machine-learning" ],
  "title" : "Technical Solutions Consultant/Publishers"
+}, {
+ "bio" : "Born in 1990 in Mardin, Kadir Caner Ergün graduated from İstanbul Computer Education and Instructional Technology Major. He worked in Düş Fırçası,Sevgilikitabi.com,Infovas as a PHP & Android Developer. Kadir Caner Ergün has been working at Mynet A.S as Full Stack Developer since 2016. He has participated in various projects such as Mynet CMS integration and mobile AMP, etc.  At the same time he is Istanbul University Informatics Master Student.",
+ "company" : "Mynet Medya",
+ "companyLogo" : "images/logos/mynetmedya.png",
+ "country" : "Turkey",
+ "featured" : false,
+ "id" : 829,
+ "name" : "Kadir Caner Ergün",
+ "photoUrl" : "/images/people/kadir_caner.jpg",
+ "shortBio" : "Born in 1990 in Mardin, Kadir Caner Ergün graduated from İstanbul Computer Education and Instructional Technology Major. He worked in Düş Fırçası,Sevgilikitabi.com,Infovas as a PHP & Android Developer. Kadir Caner Ergün has been...",
+ "socials" : [ {
+   "icon" : "twitter",
+   "link" : "https://twitter.com/KadirCanerErgun",
+   "name" : "Twitter"
+ },
+  {
+   "icon" : "linkedin",
+   "link" : "https://www.linkedin.com/in/kadir-caner-erg%C3%BCn-65613493/",
+   "name" : "Linkedin"
+ }, {
+   "icon" : "github",
+   "link" : "https://github.com/kadircanerergun",
+   "name" : "Github"
+ }],
+ "tags" : [ "machine-learning" ],
+ "title" : "Expert Software Engineer"
 }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
