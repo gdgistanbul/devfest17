@@ -307,11 +307,11 @@
     },
     "114" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "Learn about how to use  Cloud functions and Cloud Firestore to build mobile apps, Crashlytics and Performance Monitoring to gain insights into your app's issues and performance.",
       "id" : 114,
-      "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "language" : "English, Turkish",
+      "tags" : [ "Cloud" ],
+      "title" : "Develop your next app with Firebase"
     },
     "115" : {
       "complexity" : "Intermediate",
@@ -1076,6 +1076,24 @@
  }],
  "tags" : [ "machine-learning" ],
  "title" : "Expert Software Engineer"
+}, {
+ "bio" : "Erdem Demir is a a software engineer and technical consultant.  Erdem holds a PhD from University of California in Software Engineering, he has over 10 years of experience in building complex software systems and technical consulting.  He worked as a Software Engineer for Google from 2007 to 2011, worked as a Software Architect for Ericsson between 2011 and 2013, and has been working as a Publishers Technical Consultant with Google since 2013.",
+ "company" : "Google",
+ "companyLogo" : "images/logos/google.svg",
+ "country" : "Turkey",
+ "featured" : false,
+ "id" : 828,
+ "name" : "Erdem Demir",
+ "photoUrl" : "/images/people/erdem_demir.jpg",
+ "shortBio" : "Erdem Demir is a a software engineer and technical consultant.  Erdem holds a PhD from University of California in Software Engineering, he has over 10 years of experience in building complex...",
+ "socials" : [
+  {
+   "icon" : "linkedin",
+   "link" : "https://www.linkedin.com/in/edemir/",
+   "name" : "Linkedin"
+ }],
+ "tags" : [ "machine-learning" ],
+ "title" : "Technical Solutions Consultant/Publishers"
 }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
