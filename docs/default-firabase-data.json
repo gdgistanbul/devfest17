@@ -43,7 +43,7 @@
       "url" : "https://www.robotistan.com/",
       "width" : 170
     }, {
-      "logoUrl" : "images/logos/abaküs.png",
+      "logoUrl" : "images/logos/abakus.png",
       "name" : "Abaküs Kitap",
       "url" : "http://www.abakuskitap.com/",
       "width" : 170
@@ -106,7 +106,7 @@
       "name" : "Agile Turkey",
       "url" : "http://www.agileturkey.org/"
     }, {
-      "logoUrl" : "/images/logoskadin-yazilimci-logo.png",
+      "logoUrl" : "/images/logos/kadin-yazilimci-logo.png",
       "name" : "Kadın Yazılımcı",
       "url" : "http://www.kadinyazilimci.com/en/"
     } , {
