@@ -502,7 +502,7 @@
       "description" : "How we make the AMP as PWA and what kind of restrictions we faced.",
       "id" : 134,
       "language" : "Turkish",
-      "speakers" : [ 829 ],
+      "speakers" : [ 829, 831 ],
       "tags" : [ "Web" ],
       "title" : "AMP as PWA Case Study"
     },
@@ -1132,41 +1132,58 @@
    "link" : "https://github.com/kadircanerergun",
    "name" : "Github"
  }],
- "tags" : [ "web" ],
+ "tags" : [ "Web" ],
  "title" : "Full Stack Developer"
 }, {
-    "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
-    "company" : "GDG Istanbul",
-    "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
+    "bio" : "Engin Deveci is a solution architect and technology consultant. He holds a PhD from Boğaziçi University in Computer Science and has 10+ years of experience in designing, developing and delivering telecommunications, mobile and web solutions. He worked as a developer/architect for Telsim/Oksijen, Ericsson and for his own startup. Engin has been working as a technology consultant with Google since 2017.",
+    "company" : "Google",
+    "companyLogo" : "images/logos/google.svg",
     "country" : "Turkey",
     "featured" : false,
-    "id" : 830,
-    "name" : "GDG Istanbul",
-    "photoUrl" : "/images/logos/icon.png",
-    "shortBio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
+    "id" : 831,
+    "name" : "Engin Deveci",
+    "photoUrl" : "/images/people/engin_deveci.png",
+    "shortBio" : "Engin Deveci is a solution architect and technology consultant. He holds a PhD from Boğaziçi University in Computer Science and has 10+ years of experience in designing...",
     "socials" : [ {
       "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/company/2943205/",
+      "link" : "http://www.linkedin.com/in/engindeveci/",
       "name" : "Linkedin"
-    }, {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/GDGIstanbul",
-      "name" : "Twitter"
-    }, {
-      "icon" : "facebook",
-      "link" : "https://www.facebook.com/GDGIstanbul/",
-      "name" : "Facebook"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/gdgistanbul/",
-      "name" : "Github"
-    }, {
-      "icon" : "website",
-      "link" : "http://www.gdgistanbul.com/",
-      "name" : "Website"
     } ],
-    "tags" : [ "Community" ]
-  } ],
+    "tags" : [ "Web" ],
+    "title": "Technical Solutions Consultant/Publishers"
+  }, {
+      "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
+      "company" : "GDG Istanbul",
+      "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
+      "country" : "Turkey",
+      "featured" : false,
+      "id" : 830,
+      "name" : "GDG Istanbul",
+      "photoUrl" : "/images/logos/icon.png",
+      "shortBio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/company/2943205/",
+        "name" : "Linkedin"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/GDGIstanbul",
+        "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/GDGIstanbul/",
+        "name" : "Facebook"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/gdgistanbul/",
+        "name" : "Github"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.gdgistanbul.com/",
+        "name" : "Website"
+      } ],
+      "tags" : [ "Community" ]
+    } ],
   "team" : [ {
     "members" : [ {
       "name" : "Oleh Zasadnyy",
