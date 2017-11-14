@@ -47,7 +47,12 @@
       "name" : "Abaküs Kitap",
       "url" : "http://www.abakuskitap.com/",
       "width" : 170
-    } ],
+    }, {
+        "logoUrl" : "images/logos/3dworks.jpg",
+        "name" : "Robotistan",
+        "url" : "https://www.instagram.com/3dworkstr/",
+        "width" : 170
+      } ],
     "title" : "Gift Sponsors"
   }, {
     "logos" : [ {
