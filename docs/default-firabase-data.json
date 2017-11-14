@@ -322,7 +322,7 @@
       "description" : "Learn about how to use  Cloud functions and Cloud Firestore to build mobile apps, Crashlytics and Performance Monitoring to gain insights into your app's issues and performance.",
       "id" : 114,
       "language" : "English, Turkish",
-      "speakers" : [ 828 ],
+      "speakers" : [ 828, 831 ],
       "tags" : [ "Cloud" ],
       "title" : "Develop your next app with Firebase"
     },
@@ -502,7 +502,7 @@
       "description" : "How we make the AMP as PWA and what kind of restrictions we faced.",
       "id" : 134,
       "language" : "Turkish",
-      "speakers" : [ 829, 831 ],
+      "speakers" : [ 829 ],
       "tags" : [ "Web" ],
       "title" : "AMP as PWA Case Study"
     },
