@@ -50,7 +50,7 @@
     }, {
         "logoUrl" : "images/logos/3dworks.jpg",
         "name" : "3DWorks",
-        "url" : "https://www.instagram.com/3dworkstr/",
+        "url" : "https://www.instagram.com/3dworkstr/"
       } ],
     "title" : "Gift Sponsors"
   }, {
@@ -503,7 +503,7 @@
       "id" : 134,
       "language" : "Turkish",
       "speakers" : [ 829 ],
-      "tags" : [ "Community" ],
+      "tags" : [ "Web" ],
       "title" : "AMP as PWA Case Study"
     },
     "135" : {
@@ -1132,8 +1132,8 @@
    "link" : "https://github.com/kadircanerergun",
    "name" : "Github"
  }],
- "tags" : [ "machine-learning" ],
- "title" : "Expert Software Engineer"
+ "tags" : [ "web" ],
+ "title" : "Full Stack Developer"
 }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
