@@ -1181,168 +1181,150 @@
   } ],
   "team" : [ {
     "members" : [ {
-      "name" : "Oleh Zasadnyy",
-      "photoUrl" : "/images/people/oleh_zasadnyy.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Website and sponsors"
-    }, {
-      "name" : "Sofiya Huts",
-      "photoUrl" : "/images/people/sofiya_huts.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+SofiaHuts",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
-        "name" : "Facebook"
-      } ],
-      "title" : "Social and media"
-    }, {
-      "name" : "Vitaliy Zasadnyy",
-      "photoUrl" : "/images/people/vitaliy_zasadnyy.jpg",
+      "name" : "Elif Boncuk",
+      "photoUrl" : "/images/people/elifgde.png",
       "socials" : [ {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/zasadnyy",
+        "link" : "https://www.linkedin.com/in//elif-boncuk-855a8728/",
         "name" : "Linkedin"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/zasadnyy",
+        "link" : "https://twitter.com/elifbon_",
         "name" : "Twitter"
       }, {
         "icon" : "website",
-        "link" : "http://v.zasadnyy.com/",
-        "name" : "Blog"
+        "link" : "https://elifboncuk.com/",
+        "name" : "Github"
+      }, {
+        "icon" : "website",
+        "link" : "https://medium.com/@elifbon",
+        "name" : "Website"
       } ],
       "title" : "Speakers"
     }, {
-      "name" : "Marta Maxymiak",
-      "photoUrl" : "/images/people/marta_maxymiak.jpg",
+      "name" : "Resul Caner Yıldırım",
+      "photoUrl" : "/images/people/caner_pd_expert.jpg",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/104036874811391520583",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/marta.maxymiak",
-        "name" : "Facebook"
-      } ],
-      "title" : "Party and happiness"
-    }, {
-      "name" : "Ostap Andrusiv",
-      "photoUrl" : "/images/people/ostap_andrusiv.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://google.com/+OstapAndrusiv",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/ostap.andrusiv",
-        "name" : "Facebook"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/protechman",
+        "name" : "Linkedin"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/p1f",
+        "link" : "https://twitter.com/protechman",
+        "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/protechman",
+        "name" : "Facebook"
+      }, {
+        "icon" : "website",
+        "link" : "https://dribbble.com/protechman",
+        "name" : "Website"
+      } ],
+      "title" : "Shepherd"
+    }, {
+      "name" : "Erol Kaftanoglu",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/747066167286706177/D7H-C_Ns_400x400.jpg",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/erolkaftanoglu/",
+        "name" : "Linkedin"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/erolkaftanoglu",
         "name" : "Twitter"
       }, {
         "icon" : "website",
-        "link" : "http://andrusiv.com/",
+        "link" : "http://erolkaftanoglu.com/",
+        "name" : "Blog"
+      } ],
+      "title" : "Website"
+    }, {
+      "name" : "Okan Aydın",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/917101930261942272/TJNW1FuC_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/okanaydin34",
+        "name" : "Twitter"
+      } ],
+      "title" : "Sponsors"
+    }, {
+      "name" : "Yusuf Çakmak",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/809319897981485056/tAPCwgr4_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/yukocan",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://yusufcakmak.com/",
         "name" : "Blog"
       } ],
       "title" : "Sponsors"
     }, {
-      "name" : "Vasylyna Mytsak",
-      "photoUrl" : "/images/people/vasylyna_mytsak.jpg",
+      "name" : "Burcu Yalçınkaya",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/909492520442302464/V-T9NmP4_400x400.jpg",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+ВасилинаМицак",
-        "name" : "Google+"
+        "icon" : "twitter",
+        "link" : "https://twitter.com/burcuco_",
+        "name" : "Twitter"
       }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/vasylyna.mytsak",
-        "name" : "Facebook"
+        "icon" : "website",
+        "link" : "http://burcu.co/",
+        "name" : "Blog"
       } ],
-      "title" : "Party and happiness"
+      "title" : "Social and media"
     }, {
-      "name" : "Volodya Karpliuk",
-      "photoUrl" : "/images/people/volodya_karpliuk.jpg",
+      "name" : "Burcu Geneci",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/678592732655407104/wJjnT9h__400x400.jpg",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+VolodyaKarpliuk23",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/volodya.karpluk",
-        "name" : "Facebook"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/burcugeneci/",
+        "name" : "Linkedin"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/keyv23",
+        "link" : "https://twitter.com/burcugen6",
+        "name" : "twitter"
+      } ],
+      "title" : "Website"
+    }, {
+      "name" : "Nilifer Yılmaz",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/843808485624233984/LQhDTOn8_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/niluferyi",
+        "name" : "twitter"
+      } ],
+      "title" : "Social and media"
+    }, {
+      "name" : "Çağla Çetin",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/927271166120775688/uZL_gGl3_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/caglactn_",
         "name" : "Twitter"
       } ],
-      "title" : "Speakers"
+      "title" : "Social and media"
     }, {
-      "name" : "Diana Pinchuk",
-      "photoUrl" : "/images/people/diana_pinchuk.jpg",
+      "name" : "Hüseyin Karagöz",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/712398448918732808/gPmhBvnb_400x400.jpg",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DianaPinchuk",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/diana.pinchuk.9",
-        "name" : "Facebook"
+        "icon" : "twitter",
+        "link" : "https://twitter.com/huseyinnkaragoz",
+        "name" : "Twitter"
+      } ],
+      "title" : "Social and media"
+    }, {
+      "name" : "Selin Karagülle",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/784453261159981057/dKeRUz84_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/SelinKaragulle",
+        "name" : "Twitter"
       } ],
       "title" : "Social and media"
     } ],
     "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photoUrl" : "/images/people/ihor_dvoretskyi.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
-      } ],
-      "title" : "Cloud stream"
-    }, {
-      "name" : "Dmytro Danylyk",
-      "photoUrl" : "/images/people/dmytro_danylyk.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
-      } ],
-      "title" : "Android Stream"
-    } ],
-    "title" : "Program Committee"
   } ],
   "tickets" : {
     "elements" : [ {
