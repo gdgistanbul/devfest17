@@ -16,10 +16,11 @@
     "title" : "Gold Sponsor"
   }, {
     "logos" : [ {
+      "height" : 150,
       "logoUrl" : "/images/logos/garanti_partnerrs_logo.jpg",
       "name" : "Garanti Partners",
       "url" : "https://www.garantipartners.com/",
-      "width" : 200
+      "width" : 220
     } ],
     "title" : "Sponsors"
   }, {
@@ -43,10 +44,15 @@
       "url" : "https://www.robotistan.com/",
       "width" : 170
     }, {
-      "logoUrl" : "images/logos/abaküs.png",
+      "logoUrl" : "images/logos/abakus.png",
       "name" : "Abaküs Kitap",
       "url" : "http://www.abakuskitap.com/",
       "width" : 170
+    }, {
+      "height" : 150,
+      "logoUrl" : "images/logos/3dworks.jpg",
+      "name" : "3DWorks",
+      "url" : "https://www.instagram.com/3dworkstr/"
     } ],
     "title" : "Gift Sponsors"
   }, {
@@ -101,9 +107,17 @@
       "name" : "Agile Turkey",
       "url" : "http://www.agileturkey.org/"
     }, {
-      "logoUrl" : "/images/logoskadin-yazilimci-logo.png",
+      "logoUrl" : "/images/logos/kadin-yazilimci-logo.png",
       "name" : "Kadın Yazılımcı",
       "url" : "http://www.kadinyazilimci.com/en/"
+    }, {
+      "logoUrl" : "/images/logos/open_agile.jpeg",
+      "name" : "Open Agile Turkey",
+      "url" : "http://openagileturkey.org/"
+    }, {
+      "logoUrl" : "/images/logos/android_istanbul.jpeg",
+      "name" : "Android İstanbul",
+      "url" : "https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/"
     } ],
     "title" : "Community Partners"
   }, {
@@ -307,11 +321,12 @@
     },
     "114" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "Learn about how to use  Cloud functions and Cloud Firestore to build mobile apps, Crashlytics and Performance Monitoring to gain insights into your app's issues and performance.",
       "id" : 114,
-      "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "language" : "English, Turkish",
+      "speakers" : [ 828, 831 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Develop your next app with Firebase"
     },
     "115" : {
       "complexity" : "Intermediate",
@@ -344,8 +359,8 @@
       "complexity" : "Intermediate",
       "description" : "H2O is a high-available, scalable and light-weight machine learning and deep learning framework. Nowadays it is a big challenge for data scientists and developers to deploy and maintain a machine learning model on production environment. Devops and continuous delivery is also a critical issue for a machine learning product pipeline. In this session development of machine learning model with H2O framework and its devops pipeline will be introduced.",
       "id" : 118,
-      "speakers" : [ 826, 827 ],
       "language" : "Turkish",
+      "speakers" : [ 826, 827 ],
       "tags" : [ "machine-learning" ],
       "title" : "AI Development with h2o.ai"
     },
@@ -369,8 +384,8 @@
       "complexity" : "Beginner",
       "description" : "Docker has had a built in orchestrator for more than one year. It includes health checking, auto failover, scaling, key-value store, load balancing, virtual extensible lan support, IPSec encryption, secret and config management out of the box. In this talk, many of these aspects will be explained with examples and demos. There will be some scenarios discussed about deploying to production. Sample microservices and deployment with Docker Stack YAML files will be examined.",
       "id" : 121,
-      "speakers" : [ 820 ],
       "language" : "Turkish",
+      "speakers" : [ 820 ],
       "tags" : [ "Cloud" ],
       "title" : "Docker Swarm Mode"
     },
@@ -463,8 +478,8 @@
       "complexity" : "Beginner",
       "description" : "Git is one of the most powerful tool in developers' toolbox. If you use it correctly, it dramatically increases productivity of developers and eliminates the waste products continuously. Developers cultivate a development culture on top Git most of the time.<br><br>It's powerful but its power is untamed. Many teams fall into several traps of misusing commands and therefore feel uncomfortable while using Git. We mess up Git history, the codebase and the whole preferred branching strategy in seconds. We use branches, merge/rebase strategies, creating commits in wrong ways. Even we never take committing paradigms into account while using Git.<br><br>As a software craftsman, I've been using Git for years and I've already educated Git to hundreds of developers in all levels. I'm so lucky; I had a chance to experience huge amount of anti-patterns in time. In this talk, I will talk about what those anti-patterns are and what should we do in order not to fall into them.",
       "id" : 131,
-      "speakers" : [ 822 ],
       "language" : "Turkish",
+      "speakers" : [ 822 ],
       "tags" : [ "Tools" ],
       "title" : "Git Anti-Patterns: How To Mess Up With Git And Love It Again"
     },
@@ -486,11 +501,12 @@
     },
     "134" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "How we make the AMP as PWA and what kind of restrictions we faced.",
       "id" : 134,
       "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "speakers" : [ 829 ],
+      "tags" : [ "Web" ],
+      "title" : "AMP as PWA Case Study"
     },
     "135" : {
       "complexity" : "Beginner",
@@ -916,7 +932,7 @@
     } ],
     "tags" : [ "Web" ],
     "title" : "Developer"
-  },{
+  }, {
     "bio" : "Mark Stephens was a speaker at DevFest 13,14, and 15. He has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup his own company in 1999. IDRsolutions develops a Java PDF library and a PDF to HTML5/SVG converter. He is a keen NetBeans user and helps to organise NetBeans UK conference. Mark has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as he can combine software and coding with palaces, churches, mosques and cisterns.",
     "company" : "IDRsolutions",
     "companyLogo" : "images/logos/idrsolutions.png",
@@ -934,149 +950,203 @@
     "tags" : [ "Web" ],
     "title" : "Developer"
   }, {
-   "bio" : "Graduated from Istanbul Technical University, Electronic and Communication Engineering. Worked as a embedded system engineer, GNU/Linux system administrator, software engineering analyst and research assistant.Author of two books, Raspberry Pi & IoT Applications with Raspberry Pi and Python.I have been using Docker Swarm mode with Docker Stack and CLI in some cases. I have been writing a book about Docker and container technology which will be published in a couple of weeks. I have given some talks about Docker which includes but not limited to Monitoring IoT Systems with Docker Swarm, Grafana and Telegraf, Raspberry Pi Cluster with Docker Swarm, Storage Options with Docker CE and Docker EE, Dockerizing Applications, Dockerfile Best Practices, Security with Docker, Docker for Developers, Introduction to Docker and Containers. I have been deployed Docker for e-commerce, monitoring, personal blog websites etc. I am running docker on GNU/Linux (Fedora, Ubuntu, Raspbian) and Mac OS. I have also given some workshops with play-with-docker and Portainer.",
-   "company" : "Eczacıbaşı Bilişim",
-   "companyLogo" : "images/logos/eczacibasibilisim.jpg",
-   "country" : "Turkey",
-   "featured" : false,
-   "id" : 820,
-   "name" : "Güray Yıldırım",
-   "photoUrl" : "/images/people/guray_yildirim.jpg",
-   "shortBio" : "Graduated from Istanbul Technical University, Electronic and Communication Engineering. Worked as a embedded system engineer, GNU/Linux system administrator, software engineering analyst and research...",
-   "socials" : [ {
-     "icon" : "twitter",
-     "link" : "https://twitter.com/gurayyildirim",
-     "name" : "Twitter"
-   },
-    {
-     "icon" : "linkedin",
-     "link" : "https://www.linkedin.com/in/gryyldrm/",
-     "name" : "Linkedin"
-   }, {
-     "icon" : "github",
-     "link" : "https://github.com/gurayyildirim",
-     "name" : "Github"
-   }],
-   "tags" : [ "Cloud" ],
-   "title" : "Siber Güvenlik Araştırmacısı"
- },  {
- "bio" : "Can Ali Avunduk works on digital platforms and fintech since 2008. Prior to his work at Google, Mr. Avunduk was in charge of Garanti Bank's products and services running on mobile platforms. Before he joined Garanti, he was working at 3pay.com, Turkey's first mobile payment start-up, now a Wirecard company. Mr. Avunduk received his B.Sc. Degree from Bilkent University with a major in Industrial Engineering and his M.Sc. degree from Bogazici University's Engineering and Technology Management program.",
- "company" : "Google",
- "companyLogo" : "images/logos/google.svg",
- "country" : "Turkey",
- "featured" : false,
- "id" : 823,
- "name" : "Can Ali Avunduk",
- "photoUrl" : "/images/people/Can_Profile.jpeg",
- "shortBio" : "Can Ali Avunduk works on digital platforms and fintech since 2008. Prior to his work at Google, Mr. Avunduk was in charge of Garanti Bank's products and services running on mobile platforms. Before he joined Garanti, he was working at 3pay.com, Turkey's first mobile payment start-up, now a Wirecard company. Mr. Avunduk ...",
- "socials" : [
-  {
-   "icon" : "linkedin",
-   "link" : "https://tr.linkedin.com/in/avunduk",
-   "name" : "Linkedin"
- }],
- "tags" : [ "Mobile Technologies" ],
- "title" : "Product Ops Lead - Payments"
-}, {
- "bio" : "Deniz Karakay is a high school student and 17 years old. He has been programming for 2.5 years and experienced with Android, Arduino, Unity and a little bit Swift. He has been selected as a grand prize winner in Google Code-In 2016. Now he is leading a programming club in Kadıköy Anatolian Highschool.",
- "company" : "Kadıköy Anadolu Lisesi",
- "companyLogo" : "images/logos/kal.jpeg",
- "country" : "Turkey",
- "featured" : false,
- "id" : 824,
- "name" : "Deniz Karakay",
- "photoUrl" : "/images/people/deniz_karakay.jpg",
- "shortBio" : "Deniz Karakay is a high school student and 17 years old. He has been programming for 2.5 years and experienced with Android, Arduino, Unity and a little bit Swift. He has been selected as a grand prize winner in Google Code-In 2016. Now he is leading a programming club in...",
- "socials" : [
-  {
-   "icon" : "facebook",
-   "link" : "https://www.facebook.com/deniz.karakay",
-   "name" : "Facebook"
- }, {
-   "icon" : "github",
-   "link" : "https://github.com/dkarakay",
-   "name" : "Github"
- },{
-   "icon" : "instagram",
-   "link" : "https://www.instagram.com/dkarakay402/",
-   "name" : "Instagram"
- }],
- "tags" : [ "Google Code-In ve Open Source" ],
- "title" : "Developer"
-}, {
- "bio" : "Armagan is the Head of Software Engineering at unu GmbH, and is currently working on building the infrastucture for the future of mobility. A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of cote, a library for building microservices with Node.js. He spends most of his free time teaching JavaScript as a university lecturer, a consultant or NGO worker. He also leads Lonca Works, a software craftsmanship guild.",
- "company" : "unu GmbH",
- "companyLogo" : "images/logos/unu.png",
- "country" : "Germany",
- "featured" : false,
- "id" : 825,
- "name" : "Armağan Amcalar",
- "photoUrl" : "/images/people/armagan.jpg",
- "shortBio" : "Armagan is the Head of Software Engineering at unu GmbH, and is currently working on building the infrastucture for the future of mobility. A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of cote, a library for building ...",
- "socials" : [ {
-   "icon" : "twitter",
-   "link" : "https://twitter.com/dashersw",
-   "name" : "Twitter"
- },{
-   "icon" : "github",
-   "link" : "https://github.com/dashersw",
-   "name" : "Github"
- }],
- "tags" : [ "machine-learning" ],
- "title" : "Head of Software Engineering"
-}, {
- "bio" : "Actually I develop a real-time fraud detection product at iyzico to detect credit card fraud with machine learning and artificial intelligence. I am also a master science student at Galatasaray University Computer Engineering Department in machine learning area. Previously I worked for ZeroBuffer, Vodafone and Bilge Adam as a software engineer. I am also a reviewer of a book named 'Appium Essentials' on mobile test automation.",
- "company" : "iyzico",
- "companyLogo" : "images/logos/iyzico.png",
- "country" : "Turkey",
- "featured" : false,
- "id" : 826,
- "name" : "Yalçın Yenigün",
- "photoUrl" : "/images/people/Yalcin_Yenigun.png",
- "shortBio" : "Actually I develop a real-time fraud detection product at iyzico to detect credit card fraud with machine learning and artificial intelligence. I am also a master science student at Galatasaray University Computer Engineering Department in machine learning area. Previously I worked for ZeroBuffer, Vodafone and Bilge Adam as a software engineer. I am also a reviewer of a book named 'Appium Essentials' on mobile test automation....",
- "socials" : [ {
-   "icon" : "twitter",
-   "link" : "https://twitter.com/yalcinyenigun",
-   "name" : "Twitter"
- },
-  {
-   "icon" : "linkedin",
-   "link" : "https://www.linkedin.com/in/yalcinyenigun",
-   "name" : "Linkedin"
- }, {
-   "icon" : "github",
-   "link" : "https://github.com/yyenigun",
-   "name" : "Github"
- }],
- "tags" : [ "machine-learning" ],
- "title" : "Expert Software Engineer"
-}, {
- "bio" : "Data scientist with PhD in structured data mining, and business intelligence, big data management, and analytics expertise. Current focus on real time machine learning and predictive analytics. Prior research and development experience in distributed query execution, graph and network analytics, data integration, and information extraction.",
- "company" : "iyzico",
- "companyLogo" : "images/logos/iyzico.png",
- "country" : "Turkey",
- "featured" : false,
- "id" : 827,
- "name" : "Mustafa Kıraç",
- "photoUrl" : "/images/people/Mustafa_Kirac.jpg",
- "shortBio" : "Data scientist with PhD in structured data mining, and business intelligence, big data management, and analytics expertise. Current focus on real time machine learning and predictive ...",
- "socials" : [ {
-   "icon" : "twitter",
-   "link" : "https://twitter.com/muskirac",
-   "name" : "Twitter"
- },
-  {
-   "icon" : "linkedin",
-   "link" : "https://www.linkedin.com/in/mustafakirac",
-   "name" : "Linkedin"
- }, {
-   "icon" : "medium",
-   "link" : "https://medium.com/@muskirac",
-   "name" : "Medium"
- }],
- "tags" : [ "machine-learning" ],
- "title" : "Expert Software Engineer"
-}, {
+    "bio" : "Graduated from Istanbul Technical University, Electronic and Communication Engineering. Worked as a embedded system engineer, GNU/Linux system administrator, software engineering analyst and research assistant.Author of two books, Raspberry Pi & IoT Applications with Raspberry Pi and Python.I have been using Docker Swarm mode with Docker Stack and CLI in some cases. I have been writing a book about Docker and container technology which will be published in a couple of weeks. I have given some talks about Docker which includes but not limited to Monitoring IoT Systems with Docker Swarm, Grafana and Telegraf, Raspberry Pi Cluster with Docker Swarm, Storage Options with Docker CE and Docker EE, Dockerizing Applications, Dockerfile Best Practices, Security with Docker, Docker for Developers, Introduction to Docker and Containers. I have been deployed Docker for e-commerce, monitoring, personal blog websites etc. I am running docker on GNU/Linux (Fedora, Ubuntu, Raspbian) and Mac OS. I have also given some workshops with play-with-docker and Portainer.",
+    "company" : "Eczacıbaşı Bilişim",
+    "companyLogo" : "images/logos/eczacibasibilisim.jpg",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 820,
+    "name" : "Güray Yıldırım",
+    "photoUrl" : "/images/people/guray_yildirim.jpg",
+    "shortBio" : "Graduated from Istanbul Technical University, Electronic and Communication Engineering. Worked as a embedded system engineer, GNU/Linux system administrator, software engineering analyst and research...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/gurayyildirim",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/gryyldrm/",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/gurayyildirim",
+      "name" : "Github"
+    } ],
+    "tags" : [ "Cloud" ],
+    "title" : "Siber Güvenlik Araştırmacısı"
+  }, {
+    "bio" : "Can Ali Avunduk works on digital platforms and fintech since 2008. Prior to his work at Google, Mr. Avunduk was in charge of Garanti Bank's products and services running on mobile platforms. Before he joined Garanti, he was working at 3pay.com, Turkey's first mobile payment start-up, now a Wirecard company. Mr. Avunduk received his B.Sc. Degree from Bilkent University with a major in Industrial Engineering and his M.Sc. degree from Bogazici University's Engineering and Technology Management program.",
+    "company" : "Google",
+    "companyLogo" : "images/logos/google.svg",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 823,
+    "name" : "Can Ali Avunduk",
+    "photoUrl" : "/images/people/Can_Profile.jpeg",
+    "shortBio" : "Can Ali Avunduk works on digital platforms and fintech since 2008. Prior to his work at Google, Mr. Avunduk was in charge of Garanti Bank's products and services running on mobile platforms. Before he joined Garanti, he was working at 3pay.com, Turkey's first mobile payment start-up, now a Wirecard company. Mr. Avunduk ...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://tr.linkedin.com/in/avunduk",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Mobile Technologies" ],
+    "title" : "Product Ops Lead - Payments"
+  }, {
+    "bio" : "Deniz Karakay is a high school student and 17 years old. He has been programming for 2.5 years and experienced with Android, Arduino, Unity and a little bit Swift. He has been selected as a grand prize winner in Google Code-In 2016. Now he is leading a programming club in Kadıköy Anatolian Highschool.",
+    "company" : "Kadıköy Anadolu Lisesi",
+    "companyLogo" : "images/logos/kal.jpeg",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 824,
+    "name" : "Deniz Karakay",
+    "photoUrl" : "/images/people/deniz_karakay.jpg",
+    "shortBio" : "Deniz Karakay is a high school student and 17 years old. He has been programming for 2.5 years and experienced with Android, Arduino, Unity and a little bit Swift. He has been selected as a grand prize winner in Google Code-In 2016. Now he is leading a programming club in...",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/deniz.karakay",
+      "name" : "Facebook"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/dkarakay",
+      "name" : "Github"
+    }, {
+      "icon" : "instagram",
+      "link" : "https://www.instagram.com/dkarakay402/",
+      "name" : "Instagram"
+    } ],
+    "tags" : [ "Google Code-In ve Open Source" ],
+    "title" : "Developer"
+  }, {
+    "bio" : "Armagan is the Head of Software Engineering at unu GmbH, and is currently working on building the infrastucture for the future of mobility. A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of cote, a library for building microservices with Node.js. He spends most of his free time teaching JavaScript as a university lecturer, a consultant or NGO worker. He also leads Lonca Works, a software craftsmanship guild.",
+    "company" : "unu GmbH",
+    "companyLogo" : "images/logos/unu.png",
+    "country" : "Germany",
+    "featured" : false,
+    "id" : 825,
+    "name" : "Armağan Amcalar",
+    "photoUrl" : "/images/people/armagan.jpg",
+    "shortBio" : "Armagan is the Head of Software Engineering at unu GmbH, and is currently working on building the infrastucture for the future of mobility. A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of cote, a library for building ...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/dashersw",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/dashersw",
+      "name" : "Github"
+    } ],
+    "tags" : [ "machine-learning" ],
+    "title" : "Head of Software Engineering"
+  }, {
+    "bio" : "Actually I develop a real-time fraud detection product at iyzico to detect credit card fraud with machine learning and artificial intelligence. I am also a master science student at Galatasaray University Computer Engineering Department in machine learning area. Previously I worked for ZeroBuffer, Vodafone and Bilge Adam as a software engineer. I am also a reviewer of a book named 'Appium Essentials' on mobile test automation.",
+    "company" : "iyzico",
+    "companyLogo" : "images/logos/iyzico.png",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 826,
+    "name" : "Yalçın Yenigün",
+    "photoUrl" : "/images/people/Yalcin_Yenigun.png",
+    "shortBio" : "Actually I develop a real-time fraud detection product at iyzico to detect credit card fraud with machine learning and artificial intelligence. I am also a master science student at Galatasaray University Computer Engineering Department in machine learning area. Previously I worked for ZeroBuffer, Vodafone and Bilge Adam as a software engineer. I am also a reviewer of a book named 'Appium Essentials' on mobile test automation....",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/yalcinyenigun",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/yalcinyenigun",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/yyenigun",
+      "name" : "Github"
+    } ],
+    "tags" : [ "machine-learning" ],
+    "title" : "Expert Software Engineer"
+  }, {
+    "bio" : "Data scientist with PhD in structured data mining, and business intelligence, big data management, and analytics expertise. Current focus on real time machine learning and predictive analytics. Prior research and development experience in distributed query execution, graph and network analytics, data integration, and information extraction.",
+    "company" : "iyzico",
+    "companyLogo" : "images/logos/iyzico.png",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 827,
+    "name" : "Mustafa Kıraç",
+    "photoUrl" : "/images/people/Mustafa_Kirac.jpg",
+    "shortBio" : "Data scientist with PhD in structured data mining, and business intelligence, big data management, and analytics expertise. Current focus on real time machine learning and predictive ...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/muskirac",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/mustafakirac",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "medium",
+      "link" : "https://medium.com/@muskirac",
+      "name" : "Medium"
+    } ],
+    "tags" : [ "machine-learning" ],
+    "title" : "Expert Software Engineer"
+  }, {
+    "bio" : "Erdem Demir is a a software engineer and technical consultant.  Erdem holds a PhD from University of California in Software Engineering, he has over 10 years of experience in building complex software systems and technical consulting.  He worked as a Software Engineer for Google from 2007 to 2011, worked as a Software Architect for Ericsson between 2011 and 2013, and has been working as a Publishers Technical Consultant with Google since 2013.",
+    "company" : "Google",
+    "companyLogo" : "images/logos/google.svg",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 828,
+    "name" : "Erdem Demir",
+    "photoUrl" : "/images/people/erdem_demir.jpg",
+    "shortBio" : "Erdem Demir is a a software engineer and technical consultant.  Erdem holds a PhD from University of California in Software Engineering, he has over 10 years of experience in building complex...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/edemir/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "machine-learning" ],
+    "title" : "Technical Solutions Consultant/Publishers"
+  }, {
+    "bio" : "Born in 1990 in Mardin, Kadir Caner Ergün graduated from İstanbul Computer Education and Instructional Technology Major. He worked in Düş Fırçası,Sevgilikitabi.com,Infovas as a PHP & Android Developer. Kadir Caner Ergün has been working at Mynet A.S as Full Stack Developer since 2016. He has participated in various projects such as Mynet CMS integration and mobile AMP, etc.  At the same time he is Istanbul University Informatics Master Student.",
+    "company" : "Mynet Medya",
+    "companyLogo" : "images/logos/mynetmedya.png",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 829,
+    "name" : "Kadir Caner Ergün",
+    "photoUrl" : "/images/people/kadir_caner.jpg",
+    "shortBio" : "Born in 1990 in Mardin, Kadir Caner Ergün graduated from İstanbul Computer Education and Instructional Technology Major. He worked in Düş Fırçası,Sevgilikitabi.com,Infovas as a PHP & Android Developer. Kadir Caner Ergün has been...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/KadirCanerErgun",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/kadir-caner-erg%C3%BCn-65613493/",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/kadircanerergun",
+      "name" : "Github"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Full Stack Developer"
+  }, {
+    "bio" : "Engin Deveci is a solution architect and technology consultant. He holds a PhD from Boğaziçi University in Computer Science and has 10+ years of experience in designing, developing and delivering telecommunications, mobile and web solutions. He worked as a developer/architect for Telsim/Oksijen, Ericsson and for his own startup. Engin has been working as a technology consultant with Google since 2017.",
+    "company" : "Google",
+    "companyLogo" : "images/logos/google.svg",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 831,
+    "name" : "Engin Deveci",
+    "photoUrl" : "/images/people/engin_deveci.png",
+    "shortBio" : "Engin Deveci is a solution architect and technology consultant. He holds a PhD from Boğaziçi University in Computer Science and has 10+ years of experience in designing...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "http://www.linkedin.com/in/engindeveci/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Technical Solutions Consultant/Publishers"
+  }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
     "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
