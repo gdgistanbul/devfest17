@@ -366,11 +366,12 @@
     },
     "119" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "Scale Your Web Applications With Kubernetes",
       "id" : 119,
       "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "speakers" : [ 833 ],
+      "tags" : [ "Web" ],
+      "title" : "Scale Your Web Applications With Kubernetes"
     },
     "120" : {
       "description" : "Community Lounge",
@@ -1226,6 +1227,27 @@
     } ],
     "tags" : [ "Mobile Technologies" ],
     "title" : "Mobile Software Engineer"
+  }, {
+    "bio" : "*Over 10 years sysops&devops experience<br>*Experience with Docker&Kubernetes container and cluster platform",
+    "company" : "Trendyol",
+    "companyLogo" : "images/logos/trendyol.png",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 833,
+    "name" : "Berkay Özuygur",
+    "photoUrl" : "/images/people/berkay.jpg",
+    "shortBio" : "*Over 10 years sysops&devops experience<br>*Experience with Docker&Kubernetes container and cluster platform...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/berkayozuygur/",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/berkayozuygur",
+      "name" : "Github"
+    }],
+    "tags" : [ "Mobile Technologies" ],
+    "title" : "SysOps & DevOps"
   }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
