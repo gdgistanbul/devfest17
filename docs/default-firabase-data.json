@@ -16,6 +16,14 @@
     "title" : "Gold Sponsor"
   }, {
     "logos" : [ {
+      "logoUrl" : "/images/logos/trendyol.png",
+      "name" : "Trendyol",
+      "url" : "https://www.trendyol.com",
+      "width" : 200
+    } ],
+    "title" : "Silver Sponsor"
+  }, {
+    "logos" : [ {
       "height" : 150,
       "logoUrl" : "/images/logos/garanti_partnerrs_logo.jpg",
       "name" : "Garanti Partners",
