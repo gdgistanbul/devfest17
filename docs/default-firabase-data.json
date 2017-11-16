@@ -496,6 +496,7 @@
       "description" : "Testability is what gives developers chills. Most people choose to avoid writing unit tests when it comes to UI elements (especially, things like adapters). When phone status gets involved, things might get even uglier as you need to test your app with different statuses (like Bluetooth on/off). Using Robolectric is a way to play with these options but it increases the run time. While manually testing your app is enough in some cases, it’s time consuming, open to mistakes and won’t allow you to test some corner cases.<br><br>In this session, we’ll unit test the components of a screen with a RecyclerView. We’ll spend more time with code than slides and use some testing libraries such as Mockito. The examples will be in Kotlin but I’ll be happy to clarify any part of the session in Java.",
       "id" : 133,
       "language" : "English, Turkish",
+      "speakers" : [ 832 ],
       "tags" : [ "Mobile" ],
       "title" : "val testival = unitTests as Festival"
     },
