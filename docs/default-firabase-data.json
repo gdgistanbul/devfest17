@@ -512,11 +512,12 @@
     },
     "135" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "Kotlin is a very flexible programming language. You have a chance to write more readable and good-looking code. The only limit is your imagination and creativity. I'll show you some examples which are really handsome :)",
       "id" : 135,
       "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "speakers" : [ 834 ],
+      "tags" : [ "Mobile" ],
+      "title" : "Handsome codes with Kotlin"
     },
     "136" : {
       "complexity" : "Beginner",
@@ -1256,6 +1257,39 @@
     }],
     "tags" : [ "Mobile Technologies" ],
     "title" : "SysOps & DevOps"
+  }, {
+    "bio" : "Semih is an Android Developer. He is also organiser at GDG Izmir. The best adjective that describes him is curious. He always wants to learn new things and is passionate about searching them to discover. He is interested in Android Development, Kotlin and mobile applications. He writes blog posts and speaks at conferences about these topics.",
+    "company" : "Monitise MEA is Fiserv",
+    "companyLogo" : "images/logos/Monitise_logo.png",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 834,
+    "name" : "Semih Bozdemir",
+    "photoUrl" : "/images/people/semih_ozdemir.jpg",
+    "shortBio" : "Semih is an Android Developer. He is also organiser at GDG Izmir. The best adjective that describes him is curious. He always wants to learn new things and is passionate...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://www.twitter.com/sembozdemir",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/sembozdemir",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/sembozdemir",
+      "name" : "Github"
+    },{
+      "icon" : "website",
+      "link" : "http://sembozdemir.com/",
+      "name" : "Blog"
+    } ,{
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/108953359302210754768/",
+      "name" : "Google+"
+    }],
+    "tags" : [ "Mobile Technologies" ],
+    "title" : "Android Developer"
   }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
