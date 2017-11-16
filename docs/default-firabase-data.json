@@ -486,11 +486,12 @@
     },
     "132" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "Serving stateless Polymer components over Firebase wit data provided by Firestore",
       "id" : 132,
-      "language" : "Turkish",
-      "tags" : [ "Community" ],
-      "title" : "TBD"
+      "language" : "English, Turkish",
+      "speakers" : [ 836 ],
+      "tags" : [ "Web" ],
+      "title" : "Components on fire!"
     },
     "133" : {
       "complexity" : "Beginner",
@@ -1315,6 +1316,27 @@
     }],
     "tags" : [ "Mobile Technologies" ],
     "title" : "Developer"
+  }, {
+    "bio" : "Working as a frontend developer now, full-stack as real-time.",
+    "company" : "Blacklane",
+    "companyLogo" : "images/logos/blacklane.jpg",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 836,
+    "name" : "Barış Güler",
+    "photoUrl" : "/images/people/barisgüler.jpg",
+    "shortBio" : "Working as a frontend developer now, full-stack as real-time.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://www.twitter.com/hwclass",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://www.github.com/hwclass",
+      "name" : "Github"
+    }],
+    "tags" : [ "Web Technologies" ],
+    "title" : "Senior Front-end Developer"
   }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
