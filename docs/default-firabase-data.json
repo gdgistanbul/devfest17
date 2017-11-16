@@ -162,7 +162,7 @@
       "startTime" : "13:00"
     }, {
       "endTime" : "14:45",
-      "sessions" : [ [ 107 ], [ 111 ], [ 118 ], [ 119 ], [ 112 ], [ 120 ] ],
+      "sessions" : [ [ 107 ], [ 111 ], [ 118 ], [ 119, 139 ], [ 112 ], [ 120 ] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "16:45",
@@ -544,6 +544,14 @@
       "speakers" : [ 825 ],
       "tags" : [ "machine-learning" ],
       "title" : "Brain: The ultimate hack"
+    },
+    "139" : {
+      "complexity" : "Beginner",
+      "description" : "TBD",
+      "id" : 135,
+      "language" : "Turkish",
+      "tags" : [ "Community" ],
+      "title" : "TBD"
     }
   },
   "speakers" : [ {
