@@ -178,7 +178,7 @@
       "startTime" : "16:00"
     }, {
       "endTime" : "17:45",
-      "sessions" : [ [ 131 ], [ 132 ], [ 133 ], [ 134 ], [ 135 ], [ 120 ] ],
+      "sessions" : [ [ 131 ], [ 132 ], [ 133 ], [ 134, 140 ], [ 135 ], [ 120 ] ],
       "startTime" : "17:00"
     }, {
       "endTime" : "18:30",
@@ -549,10 +549,19 @@
     "139" : {
       "complexity" : "Beginner",
       "description" : "TBD",
-      "id" : 135,
+      "id" : 139,
       "language" : "Turkish",
       "tags" : [ "Community" ],
       "title" : "TBD"
+    },
+    "140" : {
+      "complexity" : "Beginner",
+      "description" : "Google Cloud Platform (GCP) offers many options for storing your data. From Cloud Storage (Multi-regional, Nearline, Coldline) to the various database services (Cloud Datastore, Cloud SQL, Cloud Bigtable) and data warehousing (BigQuery), learn about the most common workloads and common patterns for data storage.",
+      "id" : 140,
+      "language" : "English, Turkish",
+      "speakers" : [ 835 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Choosing Google Cloud Storage Services"
     }
   },
   "speakers" : [ {
@@ -1290,6 +1299,22 @@
     }],
     "tags" : [ "Mobile Technologies" ],
     "title" : "Android Developer"
+  },  {
+    "bio" : "2003'ten beri yazılım ile uğraşıyorum. 10 yıldır profesyonel olarak yazilim geliştiriyorum. Bir kamu kurumunda ekip lideri olarak çalıştım. 2 yıldır aktif olarak Google Cloud kullanıyorum ve şu anda da 3 farklı firmaya Google Cloud danışmanlığı yapıyorum.",
+    "company" : "Freelance",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 835,
+    "name" : "İsmail Baskın",
+    "photoUrl" : "/images/people/ismail_baskin.jpg",
+    "shortBio" : "2003'ten beri yazılım ile uğraşıyorum. 10 yıldır profesyonel olarak yazilim geliştiriyorum. Bir kamu kurumunda ekip lideri olarak çalıştım. 2 yıldır aktif olarak Google Cloud...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/baskindev",
+      "name" : "Twitter"
+    }],
+    "tags" : [ "Mobile Technologies" ],
+    "title" : "Developer"
   }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
