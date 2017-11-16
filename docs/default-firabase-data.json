@@ -1051,7 +1051,7 @@
       "link" : "http://www.lemiorhanergin.com",
       "name" : "Blog"
     } ],
-    "tags" : [ "Cloud" ],
+    "tags" : [ "Tools" ],
     "title" : "Agile Software Craftsman"
   }, {
     "bio" : "Can Ali Avunduk works on digital platforms and fintech since 2008. Prior to his work at Google, Mr. Avunduk was in charge of Garanti Bank's products and services running on mobile platforms. Before he joined Garanti, he was working at 3pay.com, Turkey's first mobile payment start-up, now a Wirecard company. Mr. Avunduk received his B.Sc. Degree from Bilkent University with a major in Industrial Engineering and his M.Sc. degree from Bogazici University's Engineering and Technology Management program.",
@@ -1181,7 +1181,7 @@
       "link" : "https://www.linkedin.com/in/edemir/",
       "name" : "Linkedin"
     } ],
-    "tags" : [ "machine-learning" ],
+    "tags" : [ "Firebase" ],
     "title" : "Technical Solutions Consultant/Publishers"
   }, {
     "bio" : "Born in 1990 in Mardin, Kadir Caner Ergün graduated from İstanbul Computer Education and Instructional Technology Major. He worked in Düş Fırçası,Sevgilikitabi.com,Infovas as a PHP & Android Developer. Kadir Caner Ergün has been working at Mynet A.S as Full Stack Developer since 2016. He has participated in various projects such as Mynet CMS integration and mobile AMP, etc.  At the same time he is Istanbul University Informatics Master Student.",
@@ -1223,7 +1223,7 @@
       "link" : "http://www.linkedin.com/in/engindeveci/",
       "name" : "Linkedin"
     } ],
-    "tags" : [ "Web" ],
+    "tags" : [ "Firebase" ],
     "title" : "Technical Solutions Consultant/Publishers"
   },{
     "bio" : "Kaan is a mobile software engineer at MyDrive Solutions in London, UK. As an active community builder, he has co-organized a lot of developer events in Turkey and the UK such as DevFests, Android Developer Days’, Android Study Jams, etc. Besides being a Google Developer Group (GDG) London co-organizer, he is a Google Top Contributor (TC) and a Google Local Guide. Kaan is passionate about exploring new technologies and traveling around the world.",
@@ -1273,7 +1273,7 @@
       "link" : "https://github.com/berkayozuygur",
       "name" : "Github"
     }],
-    "tags" : [ "Mobile Technologies" ],
+    "tags" : [ "Web", "Cloud" ],
     "title" : "SysOps & DevOps"
   }, {
     "bio" : "Semih is an Android Developer. He is also organiser at GDG Izmir. The best adjective that describes him is curious. He always wants to learn new things and is passionate about searching them to discover. He is interested in Android Development, Kotlin and mobile applications. He writes blog posts and speaks at conferences about these topics.",
@@ -1306,7 +1306,7 @@
       "link" : "https://plus.google.com/108953359302210754768/",
       "name" : "Google+"
     }],
-    "tags" : [ "Mobile Technologies" ],
+    "tags" : [ "Android" ],
     "title" : "Android Developer"
   },  {
     "bio" : "2003'ten beri yazılım ile uğraşıyorum. 10 yıldır profesyonel olarak yazilim geliştiriyorum. Bir kamu kurumunda ekip lideri olarak çalıştım. 2 yıldır aktif olarak Google Cloud kullanıyorum ve şu anda da 3 farklı firmaya Google Cloud danışmanlığı yapıyorum.",
@@ -1322,7 +1322,7 @@
       "link" : "https://twitter.com/baskindev",
       "name" : "Twitter"
     }],
-    "tags" : [ "Mobile Technologies" ],
+    "tags" : [ "Cloud" ],
     "title" : "Developer"
   }, {
     "bio" : "Working as a frontend developer now, full-stack as real-time.",
@@ -1343,7 +1343,7 @@
       "link" : "https://www.github.com/hwclass",
       "name" : "Github"
     }],
-    "tags" : [ "Web Technologies" ],
+    "tags" : [ "Web" ],
     "title" : "Senior Front-end Developer"
   }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
