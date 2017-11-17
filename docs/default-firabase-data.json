@@ -1234,10 +1234,10 @@
     "bio" : "Kaan is a mobile software engineer at MyDrive Solutions in London, UK. As an active community builder, he has co-organized a lot of developer events in Turkey and the UK such as DevFests, Android Developer Days’, Android Study Jams, etc. Besides being a Google Developer Group (GDG) London co-organizer, he is a Google Top Contributor (TC) and a Google Local Guide. Kaan is passionate about exploring new technologies and traveling around the world.",
     "company" : "MyDrive Solutions",
     "companyLogo" : "images/logos/mydrive.png",
-    "country" : "Turkey",
+    "country" : "United Kingdom",
     "featured" : false,
     "id" : 832,
-    "name" : "Kaan Mamikoğlu",
+    "name" : "Kaan Mamikoglu",
     "photoUrl" : "/images/people/kaan_mamikoglu.jpg",
     "shortBio" : "Kaan is a mobile software engineer at MyDrive Solutions in London, UK. As an active community builder, he has co-organized a lot of developer events in Turkey and the UK...",
     "socials" : [ {
@@ -1257,7 +1257,7 @@
       "link" : "http://www.iamkaan.com",
       "name" : "Blog"
     } ],
-    "tags" : [ "Mobile Technologies" ],
+    "tags" : [ "Android" ],
     "title" : "Mobile Software Engineer"
   }, {
     "bio" : "*Over 10 years sysops&devops experience<br>*Experience with Docker&Kubernetes container and cluster platform",
