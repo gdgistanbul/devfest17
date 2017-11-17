@@ -75,6 +75,11 @@
       "url" : "https://www.chip.com.tr/",
       "width" : 170
     }, {
+      "logoUrl" : "images/logos/mynet_logo.svg",
+      "name" : "Mynet",
+      "url" : "http://www.mynet.com/",
+      "width" : 170
+    }, {
       "logoUrl" : "images/logos/hdteknohaber-logo.png",
       "name" : "HD TeknoHaber",
       "url" : "http://www.hdteknohaber.com/",
