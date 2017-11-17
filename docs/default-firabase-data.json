@@ -186,7 +186,7 @@
       "startTime" : "16:00"
     }, {
       "endTime" : "17:45",
-      "sessions" : [ [ 131 ], [ 132 ], [ 133 ], [ 134, 140 ], [ 135 ], [ 120 ] ],
+      "sessions" : [ [ 131 ], [ 140 ], [ 133 ], [ 134 ], [ 135 ], [ 120 ] ],
       "startTime" : "17:00"
     }, {
       "endTime" : "18:30",
@@ -1324,27 +1324,6 @@
     }],
     "tags" : [ "Cloud" ],
     "title" : "Developer"
-  }, {
-    "bio" : "Working as a frontend developer now, full-stack as real-time.",
-    "company" : "Blacklane",
-    "companyLogo" : "images/logos/blacklane.jpg",
-    "country" : "Turkey",
-    "featured" : false,
-    "id" : 836,
-    "name" : "Barış Güler",
-    "photoUrl" : "/images/people/barisgüler.jpg",
-    "shortBio" : "Working as a frontend developer now, full-stack as real-time.",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://www.twitter.com/hwclass",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://www.github.com/hwclass",
-      "name" : "Github"
-    }],
-    "tags" : [ "Web" ],
-    "title" : "Senior Front-end Developer"
   }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
