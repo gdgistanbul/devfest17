@@ -1471,6 +1471,10 @@
         "icon" : "website",
         "link" : "http://burcu.co/",
         "name" : "Blog"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://tr.linkedin.com/in/selinkaragulle",
+        "name" : "linkedin"
       } ],
       "title" : "Social and media"
     }, {
