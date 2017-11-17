@@ -170,7 +170,7 @@
       "startTime" : "13:00"
     }, {
       "endTime" : "14:45",
-      "sessions" : [ [ 107 ], [ 111 ], [ 118 ], [ 119, 139 ], [ 112 ], [ 120 ] ],
+      "sessions" : [ [ 107 ], [ 111 ], [ 118 ], [ 119, 132 ], [ 112 ], [ 120 ] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "16:45",
@@ -493,13 +493,13 @@
       "title" : "Git Anti-Patterns: How To Mess Up With Git And Love It Again"
     },
     "132" : {
-      "complexity" : "Beginner",
-      "description" : "Serving stateless Polymer components over Firebase wit data provided by Firestore",
+      "complexity" : "Intermediate",
+      "description" : "Android Deep Dive",
       "id" : 132,
       "language" : "English, Turkish",
       "speakers" : [ 836 ],
-      "tags" : [ "Web" ],
-      "title" : "Components on fire!"
+      "tags" : [ "Android" ],
+      "title" : "Android Deep Dive"
     },
     "133" : {
       "complexity" : "Beginner",
@@ -1309,14 +1309,14 @@
     "tags" : [ "Android" ],
     "title" : "Android Developer"
   },  {
-    "bio" : "2003'ten beri yazılım ile uğraşıyorum. 10 yıldır profesyonel olarak yazilim geliştiriyorum. Bir kamu kurumunda ekip lideri olarak çalıştım. 2 yıldır aktif olarak Google Cloud kullanıyorum ve şu anda da 3 farklı firmaya Google Cloud danışmanlığı yapıyorum.",
+    "bio" : "Ismail Baskin is full stack developer for 12 years and has 2 years Google Cloud Services experience. He has been working as a freelancer developer and consultant.",
     "company" : "Freelance",
     "country" : "Turkey",
     "featured" : false,
     "id" : 835,
     "name" : "İsmail Baskın",
     "photoUrl" : "/images/people/ismail_baskin.jpg",
-    "shortBio" : "2003'ten beri yazılım ile uğraşıyorum. 10 yıldır profesyonel olarak yazilim geliştiriyorum. Bir kamu kurumunda ekip lideri olarak çalıştım. 2 yıldır aktif olarak Google Cloud...",
+    "shortBio" : "Ismail Baskin is full stack developer for 12 years and has 2 years Google Cloud Services experience. He has been working as a freelancer developer and consultant...",
     "socials" : [ {
       "icon" : "twitter",
       "link" : "https://twitter.com/baskindev",
@@ -1324,6 +1324,18 @@
     }],
     "tags" : [ "Cloud" ],
     "title" : "Developer"
+  }, {
+    "bio" : "With over twelve years of experience at startups, mobile payment, online entertainment and e-commerce experience, Murat always brings his thoughtful perspective and enthusiasm to the project that he takes part. Since four years with General Mobile as Software Director, He manages high skilled software teams with tens of successful project stories.",
+    "company" : "GM Mobile",
+    "companyLogo" : "images/logos/general_mobile.jpg",
+    "country" : "Turkey",
+    "featured" : false,
+    "id" : 836,
+    "name" : "Murat Cim",
+    "photoUrl" : "/images/people/murat_cim.jpg",
+    "shortBio" : "With over twelve years of experience at startups, mobile payment, online entertainment and e-commerce experience, Murat always brings his thoughtful perspective and ...",
+    "tags" : [ "Web" ],
+    "title" : "IT Manager"
   }, {
     "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
     "company" : "GDG Istanbul",
