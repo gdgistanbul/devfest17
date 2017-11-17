@@ -50,7 +50,13 @@
     {
       "route": "schedule",
       "permalink": "/schedule"
-    },
+    }
+    ,
+    {
+      "route": "team",
+      "permalink": "/team"
+    }
+    ,
     {
       "route": "blog",
       "permalink": "http://gdgistanbul.com/"

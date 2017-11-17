@@ -1520,7 +1520,12 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/SelinKaragulle",
         "name" : "Twitter"
-      } ],
+      },
+      {
+        "icon" : "linkedin",
+        "link" : "https://tr.linkedin.com/in/selinkaragulle",
+        "name" : "linkedin"
+      }],
       "title" : "Social and media"
     } ],
     "title" : "Core Team"
