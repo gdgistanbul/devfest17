@@ -1329,7 +1329,7 @@
     "company" : "GM Mobile",
     "companyLogo" : "images/logos/general_mobile.jpg",
     "country" : "Turkey",
-    "featured" : false,
+    "featured" : true,
     "id" : 836,
     "name" : "Murat Cim",
     "photoUrl" : "/images/people/murat_cim.jpg",
