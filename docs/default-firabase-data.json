@@ -284,7 +284,7 @@
       "id" : 108,
       "language" : "English, Turkish",
       "speakers" : [ 808 ],
-      "tags" : [ "machine-learning" ],
+      "tags" : [ "Machine Learning" ],
       "title" : "Future with Machine Vision"
     },
     "109" : {
@@ -347,7 +347,7 @@
       "id" : 115,
       "language" : "Turkish",
       "speakers" : [ 817 ],
-      "tags" : [ "machine-learning" ],
+      "tags" : [ "Machine Learning" ],
       "title" : "Building an Intelligent ChatBot with BotFramework and Microsoft Cognitive Services"
     },
     "116" : {
@@ -374,7 +374,7 @@
       "id" : 118,
       "language" : "Turkish",
       "speakers" : [ 826, 827 ],
-      "tags" : [ "machine-learning" ],
+      "tags" : [ "Machine Learning" ],
       "title" : "AI Development with h2o.ai"
     },
     "119" : {
@@ -557,7 +557,7 @@
       "id" : 138,
       "language" : "English, Turkish",
       "speakers" : [ 825 ],
-      "tags" : [ "machine-learning" ],
+      "tags" : [ "Machine Learning" ],
       "title" : "Brain: The ultimate hack"
     },
     "139" : {
@@ -726,7 +726,7 @@
       "link" : "https://www.linkedin.com/in/nazlitemur/",
       "name" : "Linkedin"
     } ],
-    "tags" : [ "machine-learning" ],
+    "tags" : [ "Machine Learning" ],
     "title" : "Computer Vision Engineer"
   }, {
     "bio" : "Android Developer for 5 years now. I work at Karify where we are building an online healthcare platform to help treat and manage patients in Mental healthcare. I work on the Android app and helped build the REST Api for the platform. </br> Beside making awesome Apps I help manage the technical part of the food blog Betty’s Kitchen which is run by my wife  which has about 80/90k visitors per month",
@@ -947,7 +947,7 @@
       "link" : "https://twitter.com/ikivanc",
       "name" : "Twitter"
     } ],
-    "tags" : [ "machine-learning" ],
+    "tags" : [ "Machine Learning" ],
     "title" : "Software Development Engineer"
   }, {
     "bio" : "Georgia Ingham is a Java developer at IDRsolutions where she works on the Java PDF library and PDF to HTML5/SVG converters. Georgia has spoken twice at JavaOne and organised a NetBeans conference in the UK. She is really looking forward to her very first DevFest and trip to Turkey with the chance to share her enthusiasm for NetBeans, meet lots of new people, see the sites and say hello to the cats in Istanbul.",
@@ -1119,7 +1119,7 @@
       "link" : "https://github.com/dashersw",
       "name" : "Github"
     } ],
-    "tags" : [ "machine-learning" ],
+    "tags" : [ "Machine Learning" ],
     "title" : "Head of Software Engineering"
   }, {
     "bio" : "Actually I develop a real-time fraud detection product at iyzico to detect credit card fraud with machine learning and artificial intelligence. I am also a master science student at Galatasaray University Computer Engineering Department in machine learning area. Previously I worked for ZeroBuffer, Vodafone and Bilge Adam as a software engineer. I am also a reviewer of a book named 'Appium Essentials' on mobile test automation.",
@@ -1144,7 +1144,7 @@
       "link" : "https://github.com/yyenigun",
       "name" : "Github"
     } ],
-    "tags" : [ "machine-learning" ],
+    "tags" : [ "Machine Learning" ],
     "title" : "Expert Software Engineer"
   }, {
     "bio" : "Data scientist with PhD in structured data mining, and business intelligence, big data management, and analytics expertise. Current focus on real time machine learning and predictive analytics. Prior research and development experience in distributed query execution, graph and network analytics, data integration, and information extraction.",
@@ -1169,7 +1169,7 @@
       "link" : "https://medium.com/@muskirac",
       "name" : "Medium"
     } ],
-    "tags" : [ "machine-learning" ],
+    "tags" : [ "Machine Learning" ],
     "title" : "Expert Software Engineer"
   }, {
     "bio" : "Erdem Demir is a a software engineer and technical consultant.  Erdem holds a PhD from University of California in Software Engineering, he has over 10 years of experience in building complex software systems and technical consulting.  He worked as a Software Engineer for Google from 2007 to 2011, worked as a Software Architect for Ericsson between 2011 and 2013, and has been working as a Publishers Technical Consultant with Google since 2013.",
@@ -1234,10 +1234,10 @@
     "bio" : "Kaan is a mobile software engineer at MyDrive Solutions in London, UK. As an active community builder, he has co-organized a lot of developer events in Turkey and the UK such as DevFests, Android Developer Days’, Android Study Jams, etc. Besides being a Google Developer Group (GDG) London co-organizer, he is a Google Top Contributor (TC) and a Google Local Guide. Kaan is passionate about exploring new technologies and traveling around the world.",
     "company" : "MyDrive Solutions",
     "companyLogo" : "images/logos/mydrive.png",
-    "country" : "Turkey",
+    "country" : "United Kingdom",
     "featured" : false,
     "id" : 832,
-    "name" : "Kaan Mamikoğlu",
+    "name" : "Kaan Mamikoglu",
     "photoUrl" : "/images/people/kaan_mamikoglu.jpg",
     "shortBio" : "Kaan is a mobile software engineer at MyDrive Solutions in London, UK. As an active community builder, he has co-organized a lot of developer events in Turkey and the UK...",
     "socials" : [ {
@@ -1257,7 +1257,7 @@
       "link" : "http://www.iamkaan.com",
       "name" : "Blog"
     } ],
-    "tags" : [ "Mobile Technologies" ],
+    "tags" : [ "Android" ],
     "title" : "Mobile Software Engineer"
   }, {
     "bio" : "*Over 10 years sysops&devops experience<br>*Experience with Docker&Kubernetes container and cluster platform",
