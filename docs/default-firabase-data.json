@@ -20,8 +20,13 @@
       "name" : "Trendyol",
       "url" : "https://www.trendyol.com",
       "width" : 200
+    },{
+      "logoUrl" : "/images/logos/general_mobile.jpg",
+      "name" : "General Mobile",
+      "url" : "https://www.generalmobile.com",
+      "width" : 200
     } ],
-    "title" : "Silver Sponsor"
+    "title" : "Silver Sponsors"
   }, {
     "logos" : [ {
       "height" : 150,
