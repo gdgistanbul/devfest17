@@ -21,7 +21,7 @@
       "url" : "https://www.trendyol.com",
       "width" : 200
     },{
-      "logoUrl" : "/images/logos/general_mobile.jpg",
+      "logoUrl" : "/images/logos/GM_logo.png",
       "name" : "General Mobile",
       "url" : "https://www.generalmobile.com",
       "width" : 200
@@ -1349,7 +1349,7 @@
   }, {
     "bio" : "With over twelve years of experience at startups, mobile payment, online entertainment and e-commerce experience, Murat always brings his thoughtful perspective and enthusiasm to the project that he takes part. Since four years with General Mobile as Software Director, He manages high skilled software teams with tens of successful project stories.",
     "company" : "GM Mobile",
-    "companyLogo" : "images/logos/general_mobile.jpg",
+    "companyLogo" : "images/logos/GM_logo.png",
     "country" : "Turkey",
     "featured" : true,
     "id" : 836,
