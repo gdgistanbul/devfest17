@@ -114,6 +114,10 @@
       "name" : "GDG Edirne",
       "url" : "https://twitter.com/GDGEdirne"
     }, {
+      "logoUrl" : "../images/logos/gdgkocaeli.png",
+      "name" : "GDG Kocaeli",
+      "url" : "https://twitter.com/GDGKocaeli"
+    },{
       "logoUrl" : "/images/logos/kodluyoruz.png",
       "name" : "Kodluyoruz",
       "url" : "http://www.kodluyoruz.org/"
