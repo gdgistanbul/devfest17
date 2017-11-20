@@ -116,7 +116,9 @@
     }, {
       "logoUrl" : "../images/logos/gdgKocaeliLogo.png",
       "name" : "GDG Kocaeli",
-      "url" : "https://twitter.com/GDGKocaeli"
+      "url" : "https://twitter.com/GDGKocaeli",
+      "width": 145,
+      "height": 80
     },{
       "logoUrl" : "../images/logos/gdgKutahyaLogo.png",
       "name" : "GDG Kütahya",
@@ -1484,7 +1486,21 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/okanaydin34",
         "name" : "Twitter"
-      } ],
+      },{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/okan-aydin-892400b7/",
+        "name" : "Linkedin"
+      },{
+        "icon" : "website",
+        "link" : "https://medium.com/@okanaydin",
+        "name" : "Blog"
+      },
+      {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/okanaydin34",
+        "name" : "Facebook"
+      }
+     ],
       "title" : "Sponsors"
     }, {
       "name" : "Yusuf Çakmak",
@@ -1570,8 +1586,29 @@
         "name" : "linkedin"
       }],
       "title" : "Social and media"
-    } ],
-    "title" : "Core Team"
+    },
+     {
+      "name" : "Burak Keleş",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/835467435620904962/-bsztKet_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/burakeless",
+        "name" : "Twitter"
+      }],
+      "title" : "Design"
+    },
+    {
+      "name" : "Behlül Kuşaslan",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/378800000070066911/32aaef00879f7bf80a275e4ab46e9aa1_400x400.jpeg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/behlul94",
+        "name" : "Twitter"
+      }],
+      "title" : "Design"
+    }
+  ],
+    "title" : "GDG Team"
   } ],
   "tickets" : {
     "elements" : [ {
