@@ -114,9 +114,21 @@
       "name" : "GDG Edirne",
       "url" : "https://twitter.com/GDGEdirne"
     }, {
-      "logoUrl" : "../images/logos/gdgkocaeli.png",
+      "logoUrl" : "../images/logos/gdgKocaeliLogo.png",
       "name" : "GDG Kocaeli",
       "url" : "https://twitter.com/GDGKocaeli"
+    },{
+      "logoUrl" : "../images/logos/gdgKutahyaLogo.png",
+      "name" : "GDG Kütahya",
+      "url" : "https://twitter.com/GDGKutahya"
+    },{
+      "logoUrl" : "../images/logos/gdgDuzceLogo.JPG",
+      "name" : "GDG Düzce",
+      "url" : "https://twitter.com/GDGDuzce"
+    },{
+      "logoUrl" : "/images/logos/TurkishWin.png",
+      "name" : "TurkishWin",
+      "url" : "http://www.turkishwin.com/"
     },{
       "logoUrl" : "/images/logos/kodluyoruz.png",
       "name" : "Kodluyoruz",
@@ -153,6 +165,14 @@
       "logoUrl" : "/images/logos/mobil_istanbul.jpeg",
       "name" : "Mobil İstanbul",
       "url" : "https://www.meetup.com/tr-TR/Mobil-Istanbul/"
+    }, {
+      "logoUrl" : "/images/logos/Turkey_JUG-logo.png",
+      "name" : "Turkey JUG",
+      "url" : "https://www.turkeyjug.org/"
+    }, {
+      "logoUrl" : "/images/logos/R-LadiesGlobal.png",
+      "name" : "Rladies",
+      "url" : "https://www.meetup.com/tr-TR/rladies-istanbul/"
     }],
     "title" : "Community Partners"
   }, {
