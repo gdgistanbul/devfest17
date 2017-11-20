@@ -152,7 +152,8 @@
     }, {
       "logoUrl" : "/images/logos/android_istanbul.jpeg",
       "name" : "Android İstanbul",
-      "url" : "https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/"
+      "url" : "https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/",
+      "height": 110
     }, {
       "logoUrl" : "/images/logos/kadinbilisimci.png",
       "name" : "Kadın Bilişimci",
