@@ -94,6 +94,11 @@
       "logoUrl" : "/images/logos/webmasto.png",
       "name" : "WebMasto",
       "url" : "http://www.webmasto.com/"
+    },
+    {
+      "logoUrl" : "http://kodist.net/indir.png",
+      "name" : "indir.com",
+      "url" : "http://www.indir.com/"
     } ],
     "title" : "Press Sponsors"
   }, {
@@ -966,7 +971,7 @@
       "link" : "https://www.facebook.com/sophie.huts.7",
       "name" : "Facebook"
     } ],
-    "tags" : [ "Web" ],
+    "tags" : [ "Web", "Firebase" ],
     "title" : "Software Engineer"
   }, {
     "bio" : "Mert is a Android Engineer, currently focused on developing Android Applications. He is very visible in public conferences and organizer of Android Istanbul, also active member of GDG Istanbul. He is also blogging about android technologies and trends weekly, also love to share his experiences as open source library at github.com. In his quiet time, he loves to draw and travel.",
