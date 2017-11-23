@@ -404,9 +404,9 @@
       "complexity" : "Intermediate",
       "description" : "The main thought - developers should be able to enjoy their work.</br>Assume you’ve started working on development of the web application. By the time you’ve got to the spot of enjoyable developemt, you would have to go through all the complex details of  building the basement for your app, taking care about the backend, servers and more...Cloud Functions allows Firebase developers to create a backend without having to worry about servers. During the talk you will learn what's possible with Cloud Functions and how it can be used for many different key use cases for your web app and not only. You'll see real world examples that show how Cloud Functions for Firebase is the programmatic glue that allows you to extend and connect Firebase products and cloud services.",
       "id" : 116,
-      "language" : "Turkish",
+      "language" : "English",
       "speakers" : [ 815 ],
-      "tags" : [ "Web" ],
+      "tags" : [ "Web", "Firebase" ],
       "title" : "Go beyond the web development with Firebase Cloud Functions"
     },
     "117" : {
